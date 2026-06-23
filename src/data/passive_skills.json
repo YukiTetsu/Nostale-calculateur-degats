@@ -1,0 +1,396 @@
+[
+  {
+    "groupId": 0,
+    "items": [
+      {
+        "id": 20,
+        "name": "[Débutant] Attaque renforcée",
+        "level": 3,
+        "icon": "5020"
+      },
+      {
+        "id": 21,
+        "name": "[Intermédiaire] Attaque renforcée",
+        "level": 12,
+        "icon": "5021"
+      },
+      {
+        "id": 22,
+        "name": "[Avancé] Attaque renforcée",
+        "level": 30,
+        "icon": "5022"
+      }
+    ]
+  },
+  {
+    "groupId": 1,
+    "items": [
+      {
+        "id": 24,
+        "name": "[Débutant] Cours de vitesse",
+        "level": 3,
+        "icon": "5024"
+      },
+      {
+        "id": 25,
+        "name": "[Intermédiaire] Cours de vitesse",
+        "level": 12,
+        "icon": "5025"
+      },
+      {
+        "id": 26,
+        "name": "[Avancé] Cours de vitesse",
+        "level": 30,
+        "icon": "5026"
+      }
+    ]
+  },
+  {
+    "groupId": 2,
+    "items": [
+      {
+        "id": 28,
+        "name": "[Débutant] Renforcement spirituel",
+        "level": 4,
+        "icon": "5028"
+      },
+      {
+        "id": 29,
+        "name": "[Intermédiaire] Renforcement spirituel",
+        "level": 15,
+        "icon": "5029"
+      },
+      {
+        "id": 30,
+        "name": "[Avancé] Renforcement spirituel",
+        "level": 35,
+        "icon": "5030"
+      }
+    ]
+  },
+  {
+    "groupId": 6,
+    "items": [
+      {
+        "id": 44,
+        "name": "[Débutant] Attaque efficace",
+        "level": 2,
+        "icon": "5044"
+      },
+      {
+        "id": 45,
+        "name": "[Intermédiaire] Attaque efficace",
+        "level": 6,
+        "icon": "5045"
+      },
+      {
+        "id": 46,
+        "name": "[Avancé] Attaque efficace",
+        "level": 20,
+        "icon": "5046"
+      }
+    ]
+  },
+  {
+    "groupId": 7,
+    "items": [
+      {
+        "id": 48,
+        "name": "[Débutant] Autodéfense",
+        "level": 3,
+        "icon": "5048"
+      },
+      {
+        "id": 49,
+        "name": "[Intermédiaire] Autodéfense",
+        "level": 8,
+        "icon": "5049"
+      },
+      {
+        "id": 50,
+        "name": "[Avancé] Autodéfense",
+        "level": 20,
+        "icon": "5050"
+      }
+    ]
+  },
+  {
+    "groupId": 21,
+    "items": [
+      {
+        "id": 96,
+        "name": "Mémorial du héros oublié D (1)",
+        "level": 1,
+        "icon": "7070"
+      },
+      {
+        "id": 106,
+        "name": "Mémorial du héros oublié D (2)",
+        "level": 2,
+        "icon": "7070"
+      }
+    ]
+  },
+  {
+    "groupId": 22,
+    "items": [
+      {
+        "id": 97,
+        "name": "Mémorial du héros oublié S (1)",
+        "level": 1,
+        "icon": "7070"
+      },
+      {
+        "id": 107,
+        "name": "Mémorial du héros oublié S (2)",
+        "level": 2,
+        "icon": "7070"
+      }
+    ]
+  },
+  {
+    "groupId": 23,
+    "items": [
+      {
+        "id": 98,
+        "name": "Mémorial du héros oublié J (1)",
+        "level": 1,
+        "icon": "7070"
+      },
+      {
+        "id": 108,
+        "name": "Mémorial du héros oublié J (2)",
+        "level": 2,
+        "icon": "7070"
+      }
+    ]
+  },
+  {
+    "groupId": 26,
+    "items": [
+      {
+        "id": 101,
+        "name": "Stratégie de défense des chevaliers de Lord Cuarry (1)",
+        "level": 1,
+        "icon": "7070"
+      },
+      {
+        "id": 111,
+        "name": "Stratégie de défense des chevaliers de Lord Cuarry (2)",
+        "level": 2,
+        "icon": "7070"
+      }
+    ]
+  },
+  {
+    "groupId": 27,
+    "items": [
+      {
+        "id": 102,
+        "name": "Stratégie d'attaque des chevaliers de Lord Cuarry (1)",
+        "level": 1,
+        "icon": "7070"
+      },
+      {
+        "id": 112,
+        "name": "Stratégie d'attaque des chevaliers de Lord Cuarry (2)",
+        "level": 2,
+        "icon": "7070"
+      }
+    ]
+  },
+  {
+    "groupId": 32,
+    "items": [
+      {
+        "id": 114,
+        "name": "Livre du loa aigle",
+        "level": 1,
+        "icon": "7070"
+      },
+      {
+        "id": 123,
+        "name": "Manuel « Agilité draconique »",
+        "level": 2,
+        "icon": "7070"
+      },
+      {
+        "id": 131,
+        "name": "Recherches cognitives de Techron",
+        "level": 3,
+        "icon": "7070"
+      },
+      {
+        "id": 142,
+        "name": "Livre dimensionnel oublié : adresse",
+        "level": 4,
+        "icon": "7070"
+      }
+    ]
+  },
+  {
+    "groupId": 33,
+    "items": [
+      {
+        "id": 115,
+        "name": "Livre du loa serpent",
+        "level": 1,
+        "icon": "7070"
+      },
+      {
+        "id": 124,
+        "name": "Manuel « Intellect draconique »",
+        "level": 2,
+        "icon": "7070"
+      },
+      {
+        "id": 132,
+        "name": "Recherches cérébrales de Techron",
+        "level": 3,
+        "icon": "7070"
+      },
+      {
+        "id": 143,
+        "name": "Livre dimensionnel oublié : intelligence",
+        "level": 4,
+        "icon": "7070"
+      }
+    ]
+  },
+  {
+    "groupId": 34,
+    "items": [
+      {
+        "id": 116,
+        "name": "Livre du loa lion",
+        "level": 1,
+        "icon": "7070"
+      },
+      {
+        "id": 125,
+        "name": "Manuel « Force draconique »",
+        "level": 2,
+        "icon": "7070"
+      },
+      {
+        "id": 133,
+        "name": "Recherches sur l'ossature de Techron",
+        "level": 3,
+        "icon": "7070"
+      },
+      {
+        "id": 144,
+        "name": "Livre dimensionnel oublié : pouvoir",
+        "level": 4,
+        "icon": "7070"
+      }
+    ]
+  },
+  {
+    "groupId": 36,
+    "items": [
+      {
+        "id": 118,
+        "name": "Mode d'emploi du pêcheur pro",
+        "level": 0,
+        "icon": "7070"
+      }
+    ]
+  },
+  {
+    "groupId": 37,
+    "items": [
+      {
+        "id": 119,
+        "name": "Entraînement pratique de base pour chef",
+        "level": 1,
+        "icon": "7070"
+      },
+      {
+        "id": 120,
+        "name": "Entraînement pratique avancé pour chef",
+        "level": 2,
+        "icon": "7070"
+      },
+      {
+        "id": 121,
+        "name": "Entraînement pratique d'expert pour chef",
+        "level": 3,
+        "icon": "7070"
+      }
+    ]
+  },
+  {
+    "groupId": 38,
+    "items": [
+      {
+        "id": 127,
+        "name": "Guide de dresseur animalier 1",
+        "level": 1,
+        "icon": "7070"
+      },
+      {
+        "id": 128,
+        "name": "Guide de dresseur animalier 2",
+        "level": 2,
+        "icon": "7070"
+      },
+      {
+        "id": 129,
+        "name": "Guide de dresseur animalier 3",
+        "level": 3,
+        "icon": "7070"
+      }
+    ]
+  },
+  {
+    "groupId": 41,
+    "items": [
+      {
+        "id": 138,
+        "name": "Manuel du guerrier",
+        "level": 0,
+        "icon": "7070"
+      }
+    ]
+  },
+  {
+    "groupId": 42,
+    "items": [
+      {
+        "id": 139,
+        "name": "Recherche fruitière avancée",
+        "level": 1,
+        "icon": "7070"
+      },
+      {
+        "id": 150,
+        "name": "Recherche fruitière de pointe",
+        "level": 2,
+        "icon": "7070"
+      }
+    ]
+  },
+  {
+    "groupId": 43,
+    "items": [
+      {
+        "id": 140,
+        "name": "Guide de l'éclaireur des catacombes",
+        "level": 0,
+        "icon": "7070"
+      }
+    ]
+  },
+  {
+    "groupId": 44,
+    "items": [
+      {
+        "id": 146,
+        "name": "Livre dimensionnel oublié : puissance de fée",
+        "level": 0,
+        "icon": "7070"
+      }
+    ]
+  }
+]

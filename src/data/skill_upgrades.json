@@ -1,0 +1,905 @@
+[
+  {
+    "id": 301,
+    "name": "Coup renforcé",
+    "skillId": 200,
+    "icon": "5301",
+    "group": 0
+  },
+  {
+    "id": 302,
+    "name": "Tir de lance-pierre renforcé",
+    "skillId": 201,
+    "icon": "5302",
+    "group": 0
+  },
+  {
+    "id": 300,
+    "name": "Coup sournois",
+    "skillId": 202,
+    "icon": "5300",
+    "group": 0
+  },
+  {
+    "id": 303,
+    "name": "La force d'attaque augmente.",
+    "skillId": 203,
+    "icon": "5303",
+    "group": 0
+  },
+  {
+    "id": 304,
+    "name": "La force d'attaque augmente.",
+    "skillId": 204,
+    "icon": "5304",
+    "group": 0
+  },
+  {
+    "id": 305,
+    "name": "Saignement supplémentaire",
+    "skillId": 205,
+    "icon": "5305",
+    "group": 0
+  },
+  {
+    "id": 306,
+    "name": "Boulon d'énergie renforcé",
+    "skillId": 210,
+    "icon": "5306",
+    "group": 0
+  },
+  {
+    "id": 310,
+    "name": "Coup d'épée renforcé",
+    "skillId": 220,
+    "icon": "5310",
+    "group": 0
+  },
+  {
+    "id": 313,
+    "name": "Attaque à l'arbalète renforcée",
+    "skillId": 221,
+    "icon": "5313",
+    "group": 0
+  },
+  {
+    "id": 314,
+    "name": "Tir démoniaque",
+    "skillId": 221,
+    "icon": "5314",
+    "group": 0
+  },
+  {
+    "id": 315,
+    "name": "Dégâts extrêmes",
+    "skillId": 222,
+    "icon": "5315",
+    "group": 0
+  },
+  {
+    "id": 316,
+    "name": "Coup de rage renforcé",
+    "skillId": 222,
+    "icon": "5316",
+    "group": 0
+  },
+  {
+    "id": 318,
+    "name": "Tir ciblé exact",
+    "skillId": 223,
+    "icon": "5318",
+    "group": 0
+  },
+  {
+    "id": 319,
+    "name": "Attaque kovolt",
+    "skillId": 223,
+    "icon": "5319",
+    "group": 0
+  },
+  {
+    "id": 320,
+    "name": "Coup d'épée renforcé",
+    "skillId": 224,
+    "icon": "5320",
+    "group": 0
+  },
+  {
+    "id": 322,
+    "name": "Coup parfait",
+    "skillId": 225,
+    "icon": "5322",
+    "group": 0
+  },
+  {
+    "id": 323,
+    "name": "Onde terrestre puissante",
+    "skillId": 226,
+    "icon": "5323",
+    "group": 0
+  },
+  {
+    "id": 324,
+    "name": "Onde terrestre violente",
+    "skillId": 226,
+    "icon": "5324",
+    "group": 0
+  },
+  {
+    "id": 325,
+    "name": "Bourrasque fulgurante",
+    "skillId": 227,
+    "icon": "5325",
+    "group": 0
+  },
+  {
+    "id": 326,
+    "name": "Épuisement de l'adversaire",
+    "skillId": 228,
+    "icon": "5326",
+    "group": 0
+  },
+  {
+    "id": 328,
+    "name": "Tir frénétique",
+    "skillId": 229,
+    "icon": "5328",
+    "group": 0
+  },
+  {
+    "id": 330,
+    "name": "Charge d'énergie supplémentaire",
+    "skillId": 231,
+    "icon": "5330",
+    "group": 0
+  },
+  {
+    "id": 331,
+    "name": "Malédiction du sang puissante",
+    "skillId": 232,
+    "icon": "5331",
+    "group": 0
+  },
+  {
+    "id": 332,
+    "name": "Portée d'assaut étendue",
+    "skillId": 234,
+    "icon": "5332",
+    "group": 0
+  },
+  {
+    "id": 333,
+    "name": "Tir avec aspiration",
+    "skillId": 230,
+    "icon": "5333",
+    "group": 0
+  },
+  {
+    "id": 340,
+    "name": "Tir à l'arc dynamique",
+    "skillId": 240,
+    "icon": "5340",
+    "group": 0
+  },
+  {
+    "id": 343,
+    "name": "Coup de dague renforcé",
+    "skillId": 241,
+    "icon": "5343",
+    "group": 0
+  },
+  {
+    "id": 345,
+    "name": "Coup ciblé renforcé",
+    "skillId": 242,
+    "icon": "5345",
+    "group": 0
+  },
+  {
+    "id": 347,
+    "name": "Dégâts extrêmes",
+    "skillId": 243,
+    "icon": "5347",
+    "group": 0
+  },
+  {
+    "id": 348,
+    "name": "Tir transperçant",
+    "skillId": 244,
+    "icon": "5348",
+    "group": 0
+  },
+  {
+    "id": 349,
+    "name": "Attaque synchronisée",
+    "skillId": 246,
+    "icon": "5349",
+    "group": 0
+  },
+  {
+    "id": 350,
+    "name": "Tir kovolt",
+    "skillId": 247,
+    "icon": "5350",
+    "group": 0
+  },
+  {
+    "id": 351,
+    "name": "Tir rapide fulgurant",
+    "skillId": 247,
+    "icon": "5351",
+    "group": 0
+  },
+  {
+    "id": 352,
+    "name": "Pluie de flèches renforcée",
+    "skillId": 248,
+    "icon": "5352",
+    "group": 0
+  },
+  {
+    "id": 354,
+    "name": "Saignement supplémentaire",
+    "skillId": 249,
+    "icon": "5354",
+    "group": 0
+  },
+  {
+    "id": 361,
+    "name": "Poison engourdissant",
+    "skillId": 250,
+    "icon": "5361",
+    "group": 0
+  },
+  {
+    "id": 362,
+    "name": "Poison mortel",
+    "skillId": 250,
+    "icon": "5362",
+    "group": 0
+  },
+  {
+    "id": 356,
+    "name": "Probabilité élevée",
+    "skillId": 251,
+    "icon": "5356",
+    "group": 0
+  },
+  {
+    "id": 357,
+    "name": "Charge d'énergie supplémentaire",
+    "skillId": 252,
+    "icon": "5357",
+    "group": 0
+  },
+  {
+    "id": 358,
+    "name": "La vitesse de déplacement augmente.",
+    "skillId": 253,
+    "icon": "5358",
+    "group": 0
+  },
+  {
+    "id": 359,
+    "name": "Œil du faucon intensifié",
+    "skillId": 254,
+    "icon": "5359",
+    "group": 0
+  },
+  {
+    "id": 370,
+    "name": "Boulon d'énergie puissant",
+    "skillId": 260,
+    "icon": "5370",
+    "group": 0
+  },
+  {
+    "id": 372,
+    "name": "Arme enchantée renforcée",
+    "skillId": 261,
+    "icon": "5372",
+    "group": 0
+  },
+  {
+    "id": 373,
+    "name": "Sort spécial pour plantes de haut niveau",
+    "skillId": 261,
+    "icon": "5373",
+    "group": 0
+  },
+  {
+    "id": 374,
+    "name": "Explosion de flamme",
+    "skillId": 262,
+    "icon": "5374",
+    "group": 0
+  },
+  {
+    "id": 375,
+    "name": "Boule de feu surpuissante",
+    "skillId": 262,
+    "icon": "5375",
+    "group": 0
+  },
+  {
+    "id": 376,
+    "name": "Gel",
+    "skillId": 263,
+    "icon": "5376",
+    "group": 0
+  },
+  {
+    "id": 377,
+    "name": "Éclair glacial",
+    "skillId": 263,
+    "icon": "5377",
+    "group": 0
+  },
+  {
+    "id": 378,
+    "name": "Missile surnaturel",
+    "skillId": 264,
+    "icon": "5378",
+    "group": 0
+  },
+  {
+    "id": 380,
+    "name": "Colonne de feu énorme",
+    "skillId": 266,
+    "icon": "5380",
+    "group": 0
+  },
+  {
+    "id": 381,
+    "name": "Tornade violente",
+    "skillId": 267,
+    "icon": "5381",
+    "group": 0
+  },
+  {
+    "id": 382,
+    "name": "Rétablissement amélioré",
+    "skillId": 272,
+    "icon": "5382",
+    "group": 0
+  },
+  {
+    "id": 383,
+    "name": "Absorption de HP puissant",
+    "skillId": 275,
+    "icon": "5383",
+    "group": 0
+  },
+  {
+    "id": 289,
+    "name": "Amélioration",
+    "skillId": 265,
+    "icon": "5289",
+    "group": 0
+  },
+  {
+    "id": 290,
+    "name": "Projectile magique renforcé",
+    "skillId": 268,
+    "icon": "5290",
+    "group": 0
+  },
+  {
+    "id": 292,
+    "name": "Renforcement de bombe magique explosive",
+    "skillId": 269,
+    "icon": "5292",
+    "group": 0
+  },
+  {
+    "id": 1540,
+    "name": "Amélioration",
+    "skillId": 1525,
+    "icon": "6303",
+    "group": 0
+  },
+  {
+    "id": 1550,
+    "name": "Amélioration",
+    "skillId": 1529,
+    "icon": "6317",
+    "group": 0
+  },
+  {
+    "id": 1543,
+    "name": "Amélioration",
+    "skillId": 1526,
+    "icon": "6306",
+    "group": 0
+  },
+  {
+    "id": 1567,
+    "name": "Tranchants de la main renforcés",
+    "skillId": 1527,
+    "icon": "6311",
+    "group": 0
+  },
+  {
+    "id": 1549,
+    "name": "Peau d'acier",
+    "skillId": 1528,
+    "icon": "6315",
+    "group": 0
+  },
+  {
+    "id": 1552,
+    "name": "Amélioration",
+    "skillId": 1530,
+    "icon": "6319",
+    "group": 0
+  },
+  {
+    "id": 1556,
+    "name": "Amélioration",
+    "skillId": 1531,
+    "icon": "6324",
+    "group": 0
+  },
+  {
+    "id": 1558,
+    "name": "Syncope",
+    "skillId": 1532,
+    "icon": "6328",
+    "group": 0
+  },
+  {
+    "id": 1559,
+    "name": "Saignement",
+    "skillId": 1532,
+    "icon": "6329",
+    "group": 0
+  },
+  {
+    "id": 1561,
+    "name": "Coup invisible",
+    "skillId": 1533,
+    "icon": "6332",
+    "group": 0
+  },
+  {
+    "id": 1563,
+    "name": "Amélioration",
+    "skillId": 1537,
+    "icon": "6339",
+    "group": 0
+  },
+  {
+    "id": 311,
+    "name": "Coup d'épée magistral",
+    "skillId": 220,
+    "icon": "5311",
+    "group": 1
+  },
+  {
+    "id": 312,
+    "name": "Coupe spécialisée pour plantes de haut niveau",
+    "skillId": 220,
+    "icon": "5312",
+    "group": 1
+  },
+  {
+    "id": 317,
+    "name": "Coup de rage magistral",
+    "skillId": 222,
+    "icon": "5317",
+    "group": 1
+  },
+  {
+    "id": 321,
+    "name": "Portée déployée",
+    "skillId": 224,
+    "icon": "5321",
+    "group": 1
+  },
+  {
+    "id": 327,
+    "name": "Double attaque renforcée",
+    "skillId": 228,
+    "icon": "5327",
+    "group": 1
+  },
+  {
+    "id": 329,
+    "name": "Coup de maître",
+    "skillId": 229,
+    "icon": "5329",
+    "group": 1
+  },
+  {
+    "id": 215,
+    "name": "Amélioration",
+    "skillId": 223,
+    "icon": "5215",
+    "group": 1
+  },
+  {
+    "id": 216,
+    "name": "Amélioration",
+    "skillId": 226,
+    "icon": "5216",
+    "group": 1
+  },
+  {
+    "id": 217,
+    "name": "Amélioration",
+    "skillId": 227,
+    "icon": "5217",
+    "group": 1
+  },
+  {
+    "id": 257,
+    "name": "Amélioration",
+    "skillId": 231,
+    "icon": "5257",
+    "group": 1
+  },
+  {
+    "id": 341,
+    "name": "Tir à l'arc magistral",
+    "skillId": 240,
+    "icon": "5341",
+    "group": 1
+  },
+  {
+    "id": 342,
+    "name": "Tir spécialisé pour plantes de haut niveau",
+    "skillId": 240,
+    "icon": "5342",
+    "group": 1
+  },
+  {
+    "id": 344,
+    "name": "Coup de dague mortel",
+    "skillId": 241,
+    "icon": "5344",
+    "group": 1
+  },
+  {
+    "id": 346,
+    "name": "Tir ciblé exact",
+    "skillId": 242,
+    "icon": "5346",
+    "group": 1
+  },
+  {
+    "id": 353,
+    "name": "Portée",
+    "skillId": 248,
+    "icon": "5353",
+    "group": 1
+  },
+  {
+    "id": 355,
+    "name": "Pointe mortelle efficace",
+    "skillId": 249,
+    "icon": "5355",
+    "group": 1
+  },
+  {
+    "id": 363,
+    "name": "Choc",
+    "skillId": 243,
+    "icon": "5363",
+    "group": 1
+  },
+  {
+    "id": 278,
+    "name": "Amélioration",
+    "skillId": 244,
+    "icon": "5278",
+    "group": 1
+  },
+  {
+    "id": 279,
+    "name": "Amélioration",
+    "skillId": 247,
+    "icon": "5279",
+    "group": 1
+  },
+  {
+    "id": 281,
+    "name": "Amélioration",
+    "skillId": 252,
+    "icon": "5281",
+    "group": 1
+  },
+  {
+    "id": 282,
+    "name": "Amélioration",
+    "skillId": 251,
+    "icon": "5282",
+    "group": 1
+  },
+  {
+    "id": 371,
+    "name": "Portée",
+    "skillId": 260,
+    "icon": "5371",
+    "group": 1
+  },
+  {
+    "id": 379,
+    "name": "Portée",
+    "skillId": 264,
+    "icon": "5379",
+    "group": 1
+  },
+  {
+    "id": 284,
+    "name": "Amélioration",
+    "skillId": 262,
+    "icon": "5284",
+    "group": 1
+  },
+  {
+    "id": 285,
+    "name": "Amélioration",
+    "skillId": 263,
+    "icon": "5285",
+    "group": 1
+  },
+  {
+    "id": 287,
+    "name": "Tornade gigantesque",
+    "skillId": 267,
+    "icon": "5287",
+    "group": 1
+  },
+  {
+    "id": 291,
+    "name": "Amélioration",
+    "skillId": 268,
+    "icon": "5291",
+    "group": 1
+  },
+  {
+    "id": 293,
+    "name": "Amélioration",
+    "skillId": 269,
+    "icon": "5293",
+    "group": 1
+  },
+  {
+    "id": 294,
+    "name": "Amélioration",
+    "skillId": 261,
+    "icon": "5294",
+    "group": 1
+  },
+  {
+    "id": 1541,
+    "name": "Gant renforcé niveau 1",
+    "skillId": 1525,
+    "icon": "6304",
+    "group": 1
+  },
+  {
+    "id": 1566,
+    "name": "Gant renforcé niveau 2",
+    "skillId": 1525,
+    "icon": "6304",
+    "group": 1
+  },
+  {
+    "id": 1544,
+    "name": "Coup explosif",
+    "skillId": 1526,
+    "icon": "6307",
+    "group": 1
+  },
+  {
+    "id": 1545,
+    "name": "Bras renforcés",
+    "skillId": 1526,
+    "icon": "6308",
+    "group": 1
+  },
+  {
+    "id": 1547,
+    "name": "Trouver les points faibles",
+    "skillId": 1527,
+    "icon": "6312",
+    "group": 1
+  },
+  {
+    "id": 1548,
+    "name": "Toucher les points faibles",
+    "skillId": 1527,
+    "icon": "6313",
+    "group": 1
+  },
+  {
+    "id": 1553,
+    "name": "Coup de pied fantastique",
+    "skillId": 1530,
+    "icon": "6320",
+    "group": 1
+  },
+  {
+    "id": 1555,
+    "name": "Série de coups de pied améliorée",
+    "skillId": 1530,
+    "icon": "6322",
+    "group": 1
+  },
+  {
+    "id": 1557,
+    "name": "Portée",
+    "skillId": 1531,
+    "icon": "6325",
+    "group": 1
+  },
+  {
+    "id": 1569,
+    "name": "Coup de pied semi-circulaire résonnant",
+    "skillId": 1531,
+    "icon": "6326",
+    "group": 1
+  },
+  {
+    "id": 1560,
+    "name": "Choc",
+    "skillId": 1532,
+    "icon": "6330",
+    "group": 1
+  },
+  {
+    "id": 1572,
+    "name": "Coup critique amélioré niveau 1",
+    "skillId": 1533,
+    "icon": "6333",
+    "group": 1
+  },
+  {
+    "id": 1573,
+    "name": "Coup critique amélioré niveau 2",
+    "skillId": 1533,
+    "icon": "6333",
+    "group": 1
+  },
+  {
+    "id": 1574,
+    "name": "Coup critique amélioré niveau 3",
+    "skillId": 1533,
+    "icon": "6333",
+    "group": 1
+  },
+  {
+    "id": 1564,
+    "name": "Charge d'énergie supplémentaire",
+    "skillId": 1537,
+    "icon": "6340",
+    "group": 1
+  },
+  {
+    "id": 214,
+    "name": "Amélioration",
+    "skillId": 224,
+    "icon": "5214",
+    "group": 2
+  },
+  {
+    "id": 218,
+    "name": "Amélioration",
+    "skillId": 228,
+    "icon": "5218",
+    "group": 2
+  },
+  {
+    "id": 219,
+    "name": "Amélioration",
+    "skillId": 229,
+    "icon": "5219",
+    "group": 2
+  },
+  {
+    "id": 213,
+    "name": "Amélioration",
+    "skillId": 222,
+    "icon": "5213",
+    "group": 2
+  },
+  {
+    "id": 258,
+    "name": "Amélioration",
+    "skillId": 242,
+    "icon": "5258",
+    "group": 2
+  },
+  {
+    "id": 259,
+    "name": "Amélioration",
+    "skillId": 243,
+    "icon": "5259",
+    "group": 2
+  },
+  {
+    "id": 280,
+    "name": "Amélioration",
+    "skillId": 248,
+    "icon": "5280",
+    "group": 2
+  },
+  {
+    "id": 283,
+    "name": "Amélioration",
+    "skillId": 249,
+    "icon": "5283",
+    "group": 2
+  },
+  {
+    "id": 286,
+    "name": "Amélioration",
+    "skillId": 264,
+    "icon": "5286",
+    "group": 2
+  },
+  {
+    "id": 288,
+    "name": "Amélioration",
+    "skillId": 267,
+    "icon": "5288",
+    "group": 2
+  },
+  {
+    "id": 1542,
+    "name": "Spécialisation en plantes de faible niveau",
+    "skillId": 1525,
+    "icon": "7005",
+    "group": 2
+  },
+  {
+    "id": 1570,
+    "name": "Spécialisation en animaux de faible niveau",
+    "skillId": 1525,
+    "icon": "7007",
+    "group": 2
+  },
+  {
+    "id": 1551,
+    "name": "Spécialisation en monstres de faible niveau",
+    "skillId": 1529,
+    "icon": "7009",
+    "group": 2
+  },
+  {
+    "id": 1571,
+    "name": "Spécialisation en morts-vivants de faible niveau",
+    "skillId": 1529,
+    "icon": "7011",
+    "group": 2
+  },
+  {
+    "id": 1546,
+    "name": "Série de coups améliorée",
+    "skillId": 1526,
+    "icon": "6309",
+    "group": 2
+  },
+  {
+    "id": 1554,
+    "name": "Jambes renforcées niveau 1",
+    "skillId": 1530,
+    "icon": "6321",
+    "group": 2
+  },
+  {
+    "id": 1568,
+    "name": "Jambes renforcées niveau 2",
+    "skillId": 1530,
+    "icon": "6321",
+    "group": 2
+  },
+  {
+    "id": 1562,
+    "name": "Portée déployée",
+    "skillId": 1533,
+    "icon": "6334",
+    "group": 2
+  }
+]

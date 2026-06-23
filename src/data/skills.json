@@ -1,0 +1,2816 @@
+[
+  {
+    "id": 200,
+    "name": "Coup armé",
+    "class": 1,
+    "sp": -1,
+    "icon": "5200"
+  },
+  {
+    "id": 201,
+    "name": "Tir de lance-pierre",
+    "class": 1,
+    "sp": -1,
+    "icon": "5201"
+  },
+  {
+    "id": 202,
+    "name": "Coup fort",
+    "class": 1,
+    "sp": -1,
+    "icon": "5202"
+  },
+  {
+    "id": 203,
+    "name": "Tir de projectile",
+    "class": 1,
+    "sp": -1,
+    "icon": "5203"
+  },
+  {
+    "id": 204,
+    "name": "Coup tournoyant",
+    "class": 1,
+    "sp": -1,
+    "icon": "5204"
+  },
+  {
+    "id": 205,
+    "name": "Coup multiple",
+    "class": 1,
+    "sp": -1,
+    "icon": "5205"
+  },
+  {
+    "id": 210,
+    "name": "Boulon d'énergie",
+    "class": 1,
+    "sp": -1,
+    "icon": "5210"
+  },
+  {
+    "id": 220,
+    "name": "Coup d'épée",
+    "class": 2,
+    "sp": -1,
+    "icon": "5220"
+  },
+  {
+    "id": 221,
+    "name": "Attaque à l'arbalète",
+    "class": 2,
+    "sp": -1,
+    "icon": "5221"
+  },
+  {
+    "id": 222,
+    "name": "Coup de rage",
+    "class": 2,
+    "sp": -1,
+    "icon": "5222"
+  },
+  {
+    "id": 223,
+    "name": "Coup vengeur",
+    "class": 2,
+    "sp": -1,
+    "icon": "5223"
+  },
+  {
+    "id": 224,
+    "name": "Coup d'épée",
+    "class": 2,
+    "sp": -1,
+    "icon": "5224"
+  },
+  {
+    "id": 225,
+    "name": "Attaque de rigueur",
+    "class": 2,
+    "sp": -1,
+    "icon": "5225"
+  },
+  {
+    "id": 226,
+    "name": "Onde terrestre",
+    "class": 2,
+    "sp": -1,
+    "icon": "5226"
+  },
+  {
+    "id": 227,
+    "name": "Bourrasque",
+    "class": 2,
+    "sp": -1,
+    "icon": "5227"
+  },
+  {
+    "id": 228,
+    "name": "Double attaque",
+    "class": 2,
+    "sp": -1,
+    "icon": "5228"
+  },
+  {
+    "id": 229,
+    "name": "Tir dynamique",
+    "class": 2,
+    "sp": -1,
+    "icon": "5229"
+  },
+  {
+    "id": 234,
+    "name": "Attaque éclair",
+    "class": 2,
+    "sp": -1,
+    "icon": "5234"
+  },
+  {
+    "id": 240,
+    "name": "Tir à l'arc",
+    "class": 4,
+    "sp": -1,
+    "icon": "5240"
+  },
+  {
+    "id": 241,
+    "name": "Coup de dague",
+    "class": 4,
+    "sp": -1,
+    "icon": "5241"
+  },
+  {
+    "id": 242,
+    "name": "Tir ciblé",
+    "class": 4,
+    "sp": -1,
+    "icon": "5242"
+  },
+  {
+    "id": 243,
+    "name": "Tir puissant",
+    "class": 4,
+    "sp": -1,
+    "icon": "5243"
+  },
+  {
+    "id": 244,
+    "name": "Tir perçant",
+    "class": 4,
+    "sp": -1,
+    "icon": "5244"
+  },
+  {
+    "id": 245,
+    "name": "Ciblage précis",
+    "class": 4,
+    "sp": -1,
+    "icon": "5245"
+  },
+  {
+    "id": 246,
+    "name": "Tir de saut",
+    "class": 4,
+    "sp": -1,
+    "icon": "5246"
+  },
+  {
+    "id": 247,
+    "name": "Tir rapide",
+    "class": 4,
+    "sp": -1,
+    "icon": "5247"
+  },
+  {
+    "id": 248,
+    "name": "Pluie de flèches",
+    "class": 4,
+    "sp": -1,
+    "icon": "5248"
+  },
+  {
+    "id": 249,
+    "name": "Pointe mortelle",
+    "class": 4,
+    "sp": -1,
+    "icon": "5249"
+  },
+  {
+    "id": 251,
+    "name": "Coup assaillant",
+    "class": 4,
+    "sp": -1,
+    "icon": "5251"
+  },
+  {
+    "id": 260,
+    "name": "Boulon d'énergie",
+    "class": 8,
+    "sp": -1,
+    "icon": "5210"
+  },
+  {
+    "id": 261,
+    "name": "Tir magique",
+    "class": 8,
+    "sp": -1,
+    "icon": "5261"
+  },
+  {
+    "id": 262,
+    "name": "Boule de feu",
+    "class": 8,
+    "sp": -1,
+    "icon": "5262"
+  },
+  {
+    "id": 263,
+    "name": "Flèche glaciale",
+    "class": 8,
+    "sp": -1,
+    "icon": "5263"
+  },
+  {
+    "id": 264,
+    "name": "Missile magique",
+    "class": 8,
+    "sp": -1,
+    "icon": "5264"
+  },
+  {
+    "id": 265,
+    "name": "Lancer de pierre",
+    "class": 8,
+    "sp": -1,
+    "icon": "5265"
+  },
+  {
+    "id": 266,
+    "name": "Colonne de feu",
+    "class": 8,
+    "sp": -1,
+    "icon": "5266"
+  },
+  {
+    "id": 267,
+    "name": "Tornade",
+    "class": 8,
+    "sp": -1,
+    "icon": "5267"
+  },
+  {
+    "id": 268,
+    "name": "Projectile magique",
+    "class": 8,
+    "sp": -1,
+    "icon": "5268"
+  },
+  {
+    "id": 269,
+    "name": "Projectile explosif",
+    "class": 8,
+    "sp": -1,
+    "icon": "5269"
+  },
+  {
+    "id": 270,
+    "name": "Rétablissement de magie",
+    "class": 8,
+    "sp": -1,
+    "icon": "5270"
+  },
+  {
+    "id": 1525,
+    "name": "Simple coup",
+    "class": 16,
+    "sp": -1,
+    "icon": "6302"
+  },
+  {
+    "id": 1529,
+    "name": "Coup de pied latéral",
+    "class": 16,
+    "sp": -1,
+    "icon": "6316"
+  },
+  {
+    "id": 1526,
+    "name": "Série de coups",
+    "class": 16,
+    "sp": -1,
+    "icon": "6305"
+  },
+  {
+    "id": 1527,
+    "name": "Frappe d'hirondelle du tranchant de la main",
+    "class": 16,
+    "sp": -1,
+    "icon": "6310"
+  },
+  {
+    "id": 1530,
+    "name": "Série de coups de pied",
+    "class": 16,
+    "sp": -1,
+    "icon": "6318"
+  },
+  {
+    "id": 1531,
+    "name": "Coup de pied semi-circulaire",
+    "class": 16,
+    "sp": -1,
+    "icon": "6323"
+  },
+  {
+    "id": 1532,
+    "name": "Coup de la cheville",
+    "class": 16,
+    "sp": -1,
+    "icon": "6327"
+  },
+  {
+    "id": 1533,
+    "name": "Onde de choc",
+    "class": 16,
+    "sp": -1,
+    "icon": "6331"
+  },
+  {
+    "id": 800,
+    "name": "Bataille de polochons",
+    "class": -1,
+    "sp": 1,
+    "icon": "5800"
+  },
+  {
+    "id": 811,
+    "name": "Attaque à deux mains",
+    "class": -1,
+    "sp": 2,
+    "icon": "5811"
+  },
+  {
+    "id": 812,
+    "name": "Triple coup",
+    "class": -1,
+    "sp": 2,
+    "icon": "5812"
+  },
+  {
+    "id": 814,
+    "name": "Tourbillon",
+    "class": -1,
+    "sp": 2,
+    "icon": "5814"
+  },
+  {
+    "id": 816,
+    "name": "Coup ultime",
+    "class": -1,
+    "sp": 2,
+    "icon": "5816"
+  },
+  {
+    "id": 818,
+    "name": "Coup d'épaule",
+    "class": -1,
+    "sp": 2,
+    "icon": "5818"
+  },
+  {
+    "id": 820,
+    "name": "Choc terrestre",
+    "class": -1,
+    "sp": 2,
+    "icon": "5820"
+  },
+  {
+    "id": 821,
+    "name": "Dragon volant",
+    "class": -1,
+    "sp": 2,
+    "icon": "5821"
+  },
+  {
+    "id": 822,
+    "name": "Coup d'épée",
+    "class": -1,
+    "sp": 3,
+    "icon": "5822"
+  },
+  {
+    "id": 823,
+    "name": "Coup croisé",
+    "class": -1,
+    "sp": 3,
+    "icon": "5823"
+  },
+  {
+    "id": 824,
+    "name": "Lame d'énergie",
+    "class": -1,
+    "sp": 3,
+    "icon": "5824"
+  },
+  {
+    "id": 825,
+    "name": "Attaque en chaîne",
+    "class": -1,
+    "sp": 3,
+    "icon": "5825"
+  },
+  {
+    "id": 827,
+    "name": "Tempête d'épée",
+    "class": -1,
+    "sp": 3,
+    "icon": "5827"
+  },
+  {
+    "id": 828,
+    "name": "Attaque à la vitesse de la lumière",
+    "class": -1,
+    "sp": 3,
+    "icon": "5828"
+  },
+  {
+    "id": 830,
+    "name": "Coup de la mort",
+    "class": -1,
+    "sp": 3,
+    "icon": "5830"
+  },
+  {
+    "id": 832,
+    "name": "Épée dansante",
+    "class": -1,
+    "sp": 3,
+    "icon": "5832"
+  },
+  {
+    "id": 833,
+    "name": "Tir à l'arc",
+    "class": -1,
+    "sp": 4,
+    "icon": "5833"
+  },
+  {
+    "id": 835,
+    "name": "Tir crânien",
+    "class": -1,
+    "sp": 4,
+    "icon": "5835"
+  },
+  {
+    "id": 837,
+    "name": "Détonation d'éclair",
+    "class": -1,
+    "sp": 4,
+    "icon": "5837"
+  },
+  {
+    "id": 838,
+    "name": "Triple flèche",
+    "class": -1,
+    "sp": 4,
+    "icon": "5838"
+  },
+  {
+    "id": 839,
+    "name": "Hausse de portée",
+    "class": -1,
+    "sp": 4,
+    "icon": "5839"
+  },
+  {
+    "id": 840,
+    "name": "Éclair spiralé",
+    "class": -1,
+    "sp": 4,
+    "icon": "5840"
+  },
+  {
+    "id": 841,
+    "name": "Explosion d'éclair",
+    "class": -1,
+    "sp": 4,
+    "icon": "5841"
+  },
+  {
+    "id": 843,
+    "name": "Orage",
+    "class": -1,
+    "sp": 4,
+    "icon": "5843"
+  },
+  {
+    "id": 844,
+    "name": "Attaque de dague",
+    "class": -1,
+    "sp": 5,
+    "icon": "5844"
+  },
+  {
+    "id": 846,
+    "name": "Coup sanglant",
+    "class": -1,
+    "sp": 5,
+    "icon": "5846"
+  },
+  {
+    "id": 850,
+    "name": "Tomahawk",
+    "class": -1,
+    "sp": 5,
+    "icon": "5850"
+  },
+  {
+    "id": 852,
+    "name": "Coup virevoltant",
+    "class": -1,
+    "sp": 5,
+    "icon": "5852"
+  },
+  {
+    "id": 853,
+    "name": "Coup mortel",
+    "class": -1,
+    "sp": 5,
+    "icon": "5853"
+  },
+  {
+    "id": 854,
+    "name": "Bombe",
+    "class": -1,
+    "sp": 5,
+    "icon": "5854"
+  },
+  {
+    "id": 855,
+    "name": "Boule de feu",
+    "class": -1,
+    "sp": 6,
+    "icon": "5855"
+  },
+  {
+    "id": 856,
+    "name": "Irruption de feu",
+    "class": -1,
+    "sp": 6,
+    "icon": "5856"
+  },
+  {
+    "id": 857,
+    "name": "Souffle de feu",
+    "class": -1,
+    "sp": 6,
+    "icon": "5857"
+  },
+  {
+    "id": 859,
+    "name": "Tempête de feu",
+    "class": -1,
+    "sp": 6,
+    "icon": "5859"
+  },
+  {
+    "id": 860,
+    "name": "Javelot de feu",
+    "class": -1,
+    "sp": 6,
+    "icon": "5860"
+  },
+  {
+    "id": 862,
+    "name": "Mur de feu",
+    "class": -1,
+    "sp": 6,
+    "icon": "5862"
+  },
+  {
+    "id": 863,
+    "name": "Pluie de météores",
+    "class": -1,
+    "sp": 6,
+    "icon": "5863"
+  },
+  {
+    "id": 864,
+    "name": "Inferno",
+    "class": -1,
+    "sp": 6,
+    "icon": "5864"
+  },
+  {
+    "id": 865,
+    "name": "Impact de météorite",
+    "class": -1,
+    "sp": 6,
+    "icon": "5865"
+  },
+  {
+    "id": 866,
+    "name": "Attaque sacrée",
+    "class": -1,
+    "sp": 7,
+    "icon": "5866"
+  },
+  {
+    "id": 868,
+    "name": "Lumière sacrée",
+    "class": -1,
+    "sp": 7,
+    "icon": "5868"
+  },
+  {
+    "id": 869,
+    "name": "Bouclier de mana",
+    "class": -1,
+    "sp": 7,
+    "icon": "5869"
+  },
+  {
+    "id": 876,
+    "name": "Marteau sacré",
+    "class": -1,
+    "sp": 7,
+    "icon": "5876"
+  },
+  {
+    "id": 877,
+    "name": "Coups de pied",
+    "class": -1,
+    "sp": 8,
+    "icon": "5877"
+  },
+  {
+    "id": 879,
+    "name": "Sauter",
+    "class": -1,
+    "sp": 8,
+    "icon": "5879"
+  },
+  {
+    "id": 880,
+    "name": "Attaque de shuriken",
+    "class": -1,
+    "sp": 9,
+    "icon": "5880"
+  },
+  {
+    "id": 881,
+    "name": "Saut shuriken",
+    "class": -1,
+    "sp": 9,
+    "icon": "5881"
+  },
+  {
+    "id": 882,
+    "name": "Feu de flamme",
+    "class": -1,
+    "sp": 9,
+    "icon": "5882"
+  },
+  {
+    "id": 883,
+    "name": "Lancer de bombe",
+    "class": -1,
+    "sp": 9,
+    "icon": "5883"
+  },
+  {
+    "id": 886,
+    "name": "Invocation de pétard",
+    "class": -1,
+    "sp": 9,
+    "icon": "5886"
+  },
+  {
+    "id": 888,
+    "name": "Pouvoir du cœur vide",
+    "class": -1,
+    "sp": 9,
+    "icon": "5888"
+  },
+  {
+    "id": 889,
+    "name": "Attaque élémentaire",
+    "class": -1,
+    "sp": 10,
+    "icon": "5889"
+  },
+  {
+    "id": 890,
+    "name": "Flèche sacrée",
+    "class": -1,
+    "sp": 10,
+    "icon": "5890"
+  },
+  {
+    "id": 891,
+    "name": "Triple attaque",
+    "class": -1,
+    "sp": 10,
+    "icon": "5891"
+  },
+  {
+    "id": 895,
+    "name": "Croix sacrée",
+    "class": -1,
+    "sp": 10,
+    "icon": "5895"
+  },
+  {
+    "id": 899,
+    "name": "Pouvoir concentré",
+    "class": -1,
+    "sp": 10,
+    "icon": "5899"
+  },
+  {
+    "id": 900,
+    "name": "Coup de hache",
+    "class": -1,
+    "sp": 11,
+    "icon": "5900"
+  },
+  {
+    "id": 901,
+    "name": "Coup",
+    "class": -1,
+    "sp": 11,
+    "icon": "5901"
+  },
+  {
+    "id": 902,
+    "name": "Grand élan",
+    "class": -1,
+    "sp": 11,
+    "icon": "5902"
+  },
+  {
+    "id": 904,
+    "name": "Vague supersonique",
+    "class": -1,
+    "sp": 11,
+    "icon": "5904"
+  },
+  {
+    "id": 905,
+    "name": "Rage",
+    "class": -1,
+    "sp": 11,
+    "icon": "5905"
+  },
+  {
+    "id": 906,
+    "name": "Attaque de folie",
+    "class": -1,
+    "sp": 11,
+    "icon": "5906"
+  },
+  {
+    "id": 908,
+    "name": "Montée d'adrénaline",
+    "class": -1,
+    "sp": 11,
+    "icon": "5908"
+  },
+  {
+    "id": 910,
+    "name": "Tornade déchirante",
+    "class": -1,
+    "sp": 11,
+    "icon": "5910"
+  },
+  {
+    "id": 911,
+    "name": "Tir de fusil",
+    "class": -1,
+    "sp": 12,
+    "icon": "5911"
+  },
+  {
+    "id": 912,
+    "name": "Tir rapide",
+    "class": -1,
+    "sp": 12,
+    "icon": "5912"
+  },
+  {
+    "id": 913,
+    "name": "Tir de loin",
+    "class": -1,
+    "sp": 12,
+    "icon": "5913"
+  },
+  {
+    "id": 915,
+    "name": "Poseur de bombe",
+    "class": -1,
+    "sp": 12,
+    "icon": "5915"
+  },
+  {
+    "id": 917,
+    "name": "Rafale explosive",
+    "class": -1,
+    "sp": 12,
+    "icon": "5917"
+  },
+  {
+    "id": 919,
+    "name": "Tir vibrant",
+    "class": -1,
+    "sp": 12,
+    "icon": "5919"
+  },
+  {
+    "id": 920,
+    "name": "Mine de feu",
+    "class": -1,
+    "sp": 12,
+    "icon": "5920"
+  },
+  {
+    "id": 921,
+    "name": "Bombardement infernal",
+    "class": -1,
+    "sp": 12,
+    "icon": "5921"
+  },
+  {
+    "id": 922,
+    "name": "Jet de boomerang",
+    "class": -1,
+    "sp": 13,
+    "icon": "5922"
+  },
+  {
+    "id": 923,
+    "name": "Attaque de serpents",
+    "class": -1,
+    "sp": 13,
+    "icon": "5923"
+  },
+  {
+    "id": 924,
+    "name": "Griffe bestiale",
+    "class": -1,
+    "sp": 13,
+    "icon": "5924"
+  },
+  {
+    "id": 927,
+    "name": "Lancer de boomerang",
+    "class": -1,
+    "sp": 13,
+    "icon": "5927"
+  },
+  {
+    "id": 930,
+    "name": "Lierre",
+    "class": -1,
+    "sp": 13,
+    "icon": "5930"
+  },
+  {
+    "id": 932,
+    "name": "Pouvoir de la forêt",
+    "class": -1,
+    "sp": 13,
+    "icon": "5932"
+  },
+  {
+    "id": 933,
+    "name": "Boule de glace",
+    "class": -1,
+    "sp": 14,
+    "icon": "5933"
+  },
+  {
+    "id": 934,
+    "name": "Éclats gelés",
+    "class": -1,
+    "sp": 14,
+    "icon": "5934"
+  },
+  {
+    "id": 935,
+    "name": "Jet gelé",
+    "class": -1,
+    "sp": 14,
+    "icon": "5935"
+  },
+  {
+    "id": 936,
+    "name": "Lance de glace",
+    "class": -1,
+    "sp": 14,
+    "icon": "5936"
+  },
+  {
+    "id": 937,
+    "name": "Chaîne glacée",
+    "class": -1,
+    "sp": 14,
+    "icon": "5937"
+  },
+  {
+    "id": 939,
+    "name": "Glacier",
+    "class": -1,
+    "sp": 14,
+    "icon": "5939"
+  },
+  {
+    "id": 941,
+    "name": "Grêle forte",
+    "class": -1,
+    "sp": 14,
+    "icon": "5941"
+  },
+  {
+    "id": 942,
+    "name": "Froid",
+    "class": -1,
+    "sp": 14,
+    "icon": "5942"
+  },
+  {
+    "id": 943,
+    "name": "Blizzard",
+    "class": -1,
+    "sp": 14,
+    "icon": "5943"
+  },
+  {
+    "id": 944,
+    "name": "Tir magique",
+    "class": -1,
+    "sp": 15,
+    "icon": "5944"
+  },
+  {
+    "id": 945,
+    "name": "Tir combiné",
+    "class": -1,
+    "sp": 15,
+    "icon": "5945"
+  },
+  {
+    "id": 946,
+    "name": "Éclair magique",
+    "class": -1,
+    "sp": 15,
+    "icon": "5946"
+  },
+  {
+    "id": 948,
+    "name": "Tir maudit",
+    "class": -1,
+    "sp": 15,
+    "icon": "5948"
+  },
+  {
+    "id": 951,
+    "name": "Régénération de l'esprit",
+    "class": -1,
+    "sp": 15,
+    "icon": "5951"
+  },
+  {
+    "id": 954,
+    "name": "Invasion de fantômes",
+    "class": -1,
+    "sp": 15,
+    "icon": "5954"
+  },
+  {
+    "id": 1049,
+    "name": "Tir de mousquet",
+    "class": -1,
+    "sp": 16,
+    "icon": "5955"
+  },
+  {
+    "id": 1050,
+    "name": "Attaque éclair",
+    "class": -1,
+    "sp": 16,
+    "icon": "5960"
+  },
+  {
+    "id": 1052,
+    "name": "Coup de canon",
+    "class": -1,
+    "sp": 16,
+    "icon": "5959"
+  },
+  {
+    "id": 1056,
+    "name": "Attaque basique",
+    "class": -1,
+    "sp": 17,
+    "icon": "6000"
+  },
+  {
+    "id": 1057,
+    "name": "Coup double",
+    "class": -1,
+    "sp": 17,
+    "icon": "6001"
+  },
+  {
+    "id": 1058,
+    "name": "Coup éclair",
+    "class": -1,
+    "sp": 17,
+    "icon": "6002"
+  },
+  {
+    "id": 1059,
+    "name": "Attaque au bouclier",
+    "class": -1,
+    "sp": 17,
+    "icon": "6003"
+  },
+  {
+    "id": 1060,
+    "name": "Cor de chasse",
+    "class": -1,
+    "sp": 17,
+    "icon": "6004"
+  },
+  {
+    "id": 1061,
+    "name": "Raillerie",
+    "class": -1,
+    "sp": 17,
+    "icon": "6005"
+  },
+  {
+    "id": 1063,
+    "name": "Moulinet métallique",
+    "class": -1,
+    "sp": 17,
+    "icon": "6007"
+  },
+  {
+    "id": 1065,
+    "name": "Déclaration de guerre",
+    "class": -1,
+    "sp": 17,
+    "icon": "6009"
+  },
+  {
+    "id": 1066,
+    "name": "Exécution",
+    "class": -1,
+    "sp": 17,
+    "icon": "6010"
+  },
+  {
+    "id": 1067,
+    "name": "Coup de canon",
+    "class": -1,
+    "sp": 18,
+    "icon": "6011"
+  },
+  {
+    "id": 1068,
+    "name": "Tir différé",
+    "class": -1,
+    "sp": 18,
+    "icon": "6012"
+  },
+  {
+    "id": 1069,
+    "name": "Rotation de canon",
+    "class": -1,
+    "sp": 18,
+    "icon": "6013"
+  },
+  {
+    "id": 1070,
+    "name": "Coup de canon",
+    "class": -1,
+    "sp": 18,
+    "icon": "6014"
+  },
+  {
+    "id": 1071,
+    "name": "Projectile ciblant",
+    "class": -1,
+    "sp": 18,
+    "icon": "6015"
+  },
+  {
+    "id": 1072,
+    "name": "Grenade à main",
+    "class": -1,
+    "sp": 18,
+    "icon": "6016"
+  },
+  {
+    "id": 1073,
+    "name": "Feu infernal",
+    "class": -1,
+    "sp": 18,
+    "icon": "6017"
+  },
+  {
+    "id": 1074,
+    "name": "Fusée éclairante",
+    "class": -1,
+    "sp": 18,
+    "icon": "6018"
+  },
+  {
+    "id": 1075,
+    "name": "Chevauchée de fusée",
+    "class": -1,
+    "sp": 18,
+    "icon": "6019"
+  },
+  {
+    "id": 1077,
+    "name": "Canon ultime",
+    "class": -1,
+    "sp": 18,
+    "icon": "6021"
+  },
+  {
+    "id": 1078,
+    "name": "Boule de magma",
+    "class": -1,
+    "sp": 19,
+    "icon": "6022"
+  },
+  {
+    "id": 1079,
+    "name": "Éruption volcanique",
+    "class": -1,
+    "sp": 19,
+    "icon": "6023"
+  },
+  {
+    "id": 1080,
+    "name": "Gaz volcanique",
+    "class": -1,
+    "sp": 19,
+    "icon": "6024"
+  },
+  {
+    "id": 1082,
+    "name": "Vague de lave",
+    "class": -1,
+    "sp": 19,
+    "icon": "6026"
+  },
+  {
+    "id": 1084,
+    "name": "Tremblement de terre",
+    "class": -1,
+    "sp": 19,
+    "icon": "6028"
+  },
+  {
+    "id": 1085,
+    "name": "Grondement du volcan",
+    "class": -1,
+    "sp": 19,
+    "icon": "6029"
+  },
+  {
+    "id": 1086,
+    "name": "Marais de lave",
+    "class": -1,
+    "sp": 19,
+    "icon": "6030"
+  },
+  {
+    "id": 1087,
+    "name": "Épée magmatique",
+    "class": -1,
+    "sp": 19,
+    "icon": "6031"
+  },
+  {
+    "id": 1088,
+    "name": "Tempête de cendres",
+    "class": -1,
+    "sp": 19,
+    "icon": "6032"
+  },
+  {
+    "id": 1931,
+    "name": "Éruption continue",
+    "class": -1,
+    "sp": 19,
+    "icon": "6023"
+  },
+  {
+    "id": 1932,
+    "name": "Réplique sismique",
+    "class": -1,
+    "sp": 19,
+    "icon": "6028"
+  },
+  {
+    "id": 1089,
+    "name": "Attaque basique à la lance",
+    "class": -1,
+    "sp": 20,
+    "icon": "6045"
+  },
+  {
+    "id": 1090,
+    "name": "Séparation de la mer",
+    "class": -1,
+    "sp": 20,
+    "icon": "6033"
+  },
+  {
+    "id": 1091,
+    "name": "Coup précis",
+    "class": -1,
+    "sp": 20,
+    "icon": "6034"
+  },
+  {
+    "id": 1092,
+    "name": "Violent tourbillon",
+    "class": -1,
+    "sp": 20,
+    "icon": "6037"
+  },
+  {
+    "id": 1093,
+    "name": "Sept coups",
+    "class": -1,
+    "sp": 20,
+    "icon": "6036"
+  },
+  {
+    "id": 1094,
+    "name": "Cyclone",
+    "class": -1,
+    "sp": 20,
+    "icon": "6035"
+  },
+  {
+    "id": 1097,
+    "name": "Lance spiralée",
+    "class": -1,
+    "sp": 20,
+    "icon": "6040"
+  },
+  {
+    "id": 1099,
+    "name": "Nouveau départ",
+    "class": -1,
+    "sp": 20,
+    "icon": "6042"
+  },
+  {
+    "id": 1100,
+    "name": "Harpon dragonesque",
+    "class": -1,
+    "sp": 20,
+    "icon": "6043"
+  },
+  {
+    "id": 1101,
+    "name": "Lance dragonesque",
+    "class": -1,
+    "sp": 20,
+    "icon": "6044"
+  },
+  {
+    "id": 1114,
+    "name": "Attaque élémentaire",
+    "class": -1,
+    "sp": 21,
+    "icon": "6066"
+  },
+  {
+    "id": 1115,
+    "name": "Faucon en chute libre",
+    "class": -1,
+    "sp": 21,
+    "icon": "6067"
+  },
+  {
+    "id": 1116,
+    "name": "Piège mobile",
+    "class": -1,
+    "sp": 21,
+    "icon": "6068"
+  },
+  {
+    "id": 1118,
+    "name": "Recul",
+    "class": -1,
+    "sp": 21,
+    "icon": "6070"
+  },
+  {
+    "id": 1120,
+    "name": "Flèche-brouillard",
+    "class": -1,
+    "sp": 21,
+    "icon": "6072"
+  },
+  {
+    "id": 1121,
+    "name": "Intelligence du faucon",
+    "class": -1,
+    "sp": 21,
+    "icon": "6073"
+  },
+  {
+    "id": 1122,
+    "name": "Recharge d'éclair",
+    "class": -1,
+    "sp": 21,
+    "icon": "6074"
+  },
+  {
+    "id": 1124,
+    "name": "Tireur embusqué",
+    "class": -1,
+    "sp": 21,
+    "icon": "6076"
+  },
+  {
+    "id": 1125,
+    "name": "Flèche rotative de niveau 1",
+    "class": -1,
+    "sp": 21,
+    "icon": "6077"
+  },
+  {
+    "id": 1126,
+    "name": "Flèche rotative de niveau 2",
+    "class": -1,
+    "sp": 21,
+    "icon": "6078"
+  },
+  {
+    "id": 1127,
+    "name": "Flèche rotative de niveau maximum",
+    "class": -1,
+    "sp": 21,
+    "icon": "6079"
+  },
+  {
+    "id": 1102,
+    "name": "Trident fulgurant",
+    "class": -1,
+    "sp": 22,
+    "icon": "6082"
+  },
+  {
+    "id": 1103,
+    "name": "Typhon",
+    "class": -1,
+    "sp": 22,
+    "icon": "6046"
+  },
+  {
+    "id": 1104,
+    "name": "Grand trident",
+    "class": -1,
+    "sp": 22,
+    "icon": "6047"
+  },
+  {
+    "id": 1106,
+    "name": "Coup de foudre",
+    "class": -1,
+    "sp": 22,
+    "icon": "6049"
+  },
+  {
+    "id": 1107,
+    "name": "À table",
+    "class": -1,
+    "sp": 22,
+    "icon": "6050"
+  },
+  {
+    "id": 1108,
+    "name": "Tourbillon géant",
+    "class": -1,
+    "sp": 22,
+    "icon": "6051"
+  },
+  {
+    "id": 1110,
+    "name": "Tsunami",
+    "class": -1,
+    "sp": 22,
+    "icon": "6053"
+  },
+  {
+    "id": 1112,
+    "name": "Attention, rorqual !",
+    "class": -1,
+    "sp": 22,
+    "icon": "6055"
+  },
+  {
+    "id": 1113,
+    "name": "Double éclair",
+    "class": -1,
+    "sp": 22,
+    "icon": "6056"
+  },
+  {
+    "id": 1445,
+    "name": "Mégaéclair",
+    "class": -1,
+    "sp": 22,
+    "icon": "6253"
+  },
+  {
+    "id": 1168,
+    "name": "Faux de la faucheuse",
+    "class": -1,
+    "sp": 23,
+    "icon": "6100"
+  },
+  {
+    "id": 1169,
+    "name": "Découpeur",
+    "class": -1,
+    "sp": 23,
+    "icon": "6101"
+  },
+  {
+    "id": 1170,
+    "name": "Vampire",
+    "class": -1,
+    "sp": 23,
+    "icon": "6102"
+  },
+  {
+    "id": 1171,
+    "name": "La mort est proche",
+    "class": -1,
+    "sp": 23,
+    "icon": "6103"
+  },
+  {
+    "id": 1172,
+    "name": "Tourmente des âmes",
+    "class": -1,
+    "sp": 23,
+    "icon": "6104"
+  },
+  {
+    "id": 1175,
+    "name": "Faux de la mort",
+    "class": -1,
+    "sp": 23,
+    "icon": "6107"
+  },
+  {
+    "id": 1178,
+    "name": "Division de l'esprit",
+    "class": -1,
+    "sp": 23,
+    "icon": "6110"
+  },
+  {
+    "id": 1179,
+    "name": "La mort est proche",
+    "class": -1,
+    "sp": 23,
+    "icon": "6103"
+  },
+  {
+    "id": 1154,
+    "name": "Tir diabolique",
+    "class": -1,
+    "sp": 24,
+    "icon": "6111"
+  },
+  {
+    "id": 1155,
+    "name": "Grêle de balles",
+    "class": -1,
+    "sp": 24,
+    "icon": "6112"
+  },
+  {
+    "id": 1156,
+    "name": "Lame de jet",
+    "class": -1,
+    "sp": 24,
+    "icon": "6113"
+  },
+  {
+    "id": 1157,
+    "name": "Averse des esprits vengeurs",
+    "class": -1,
+    "sp": 24,
+    "icon": "6114"
+  },
+  {
+    "id": 1158,
+    "name": "Oscillation des esprits vengeurs 1",
+    "class": -1,
+    "sp": 24,
+    "icon": "6115"
+  },
+  {
+    "id": 1159,
+    "name": "Assaut des esprits vengeurs",
+    "class": -1,
+    "sp": 24,
+    "icon": "6117"
+  },
+  {
+    "id": 1161,
+    "name": "Invocation d'esprits",
+    "class": -1,
+    "sp": 24,
+    "icon": "6116"
+  },
+  {
+    "id": 1162,
+    "name": "Explosion d'esprit",
+    "class": -1,
+    "sp": 24,
+    "icon": "6119"
+  },
+  {
+    "id": 1164,
+    "name": "Trancheur d'âme",
+    "class": -1,
+    "sp": 24,
+    "icon": "6121"
+  },
+  {
+    "id": 1165,
+    "name": "Oscillation des esprits vengeurs 2",
+    "class": -1,
+    "sp": 24,
+    "icon": "6115"
+  },
+  {
+    "id": 1166,
+    "name": "Oscillation des esprits vengeurs 3",
+    "class": -1,
+    "sp": 24,
+    "icon": "6115"
+  },
+  {
+    "id": 1167,
+    "name": "Oscillation de l'ombre lunaire",
+    "class": -1,
+    "sp": 24,
+    "icon": "6122"
+  },
+  {
+    "id": 1128,
+    "name": "Sphère enchantée",
+    "class": -1,
+    "sp": 25,
+    "icon": "6123"
+  },
+  {
+    "id": 1129,
+    "name": "Confusion",
+    "class": -1,
+    "sp": 25,
+    "icon": "6124"
+  },
+  {
+    "id": 1130,
+    "name": "Cage mortelle",
+    "class": -1,
+    "sp": 25,
+    "icon": "6125"
+  },
+  {
+    "id": 1132,
+    "name": "Mains de la malédiction",
+    "class": -1,
+    "sp": 25,
+    "icon": "6127"
+  },
+  {
+    "id": 1134,
+    "name": "Extraction de mana",
+    "class": -1,
+    "sp": 25,
+    "icon": "6129"
+  },
+  {
+    "id": 1136,
+    "name": "Transformateur de lames",
+    "class": -1,
+    "sp": 25,
+    "icon": "6131"
+  },
+  {
+    "id": 1139,
+    "name": "Transformateur de lames",
+    "class": -1,
+    "sp": 25,
+    "icon": "6134"
+  },
+  {
+    "id": 1140,
+    "name": "Transformateur de lames",
+    "class": -1,
+    "sp": 25,
+    "icon": "6131"
+  },
+  {
+    "id": 1338,
+    "name": "Lumière et Obscurité",
+    "class": -1,
+    "sp": 26,
+    "icon": "6194"
+  },
+  {
+    "id": 1339,
+    "name": "Jugement de la lumière",
+    "class": -1,
+    "sp": 26,
+    "icon": "6195"
+  },
+  {
+    "id": 1340,
+    "name": "Jugement de damnation",
+    "class": -1,
+    "sp": 26,
+    "icon": "6196"
+  },
+  {
+    "id": 1341,
+    "name": "Justice",
+    "class": -1,
+    "sp": 26,
+    "icon": "6197"
+  },
+  {
+    "id": 1342,
+    "name": "Double entaille",
+    "class": -1,
+    "sp": 26,
+    "icon": "6198"
+  },
+  {
+    "id": 1343,
+    "name": "Sanctuaire",
+    "class": -1,
+    "sp": 26,
+    "icon": "6199"
+  },
+  {
+    "id": 1345,
+    "name": "Lame croisée",
+    "class": -1,
+    "sp": 26,
+    "icon": "6201"
+  },
+  {
+    "id": 1347,
+    "name": "Perdition",
+    "class": -1,
+    "sp": 26,
+    "icon": "6203"
+  },
+  {
+    "id": 1348,
+    "name": "Conversion",
+    "class": -1,
+    "sp": 26,
+    "icon": "6204"
+  },
+  {
+    "id": 1180,
+    "name": "Technique de l'épée",
+    "class": -1,
+    "sp": 27,
+    "icon": "6164"
+  },
+  {
+    "id": 1181,
+    "name": "Tranchant volant",
+    "class": -1,
+    "sp": 27,
+    "icon": "6165"
+  },
+  {
+    "id": 1182,
+    "name": "Explosion cinglante",
+    "class": -1,
+    "sp": 27,
+    "icon": "6166"
+  },
+  {
+    "id": 1183,
+    "name": "Épée de justice",
+    "class": -1,
+    "sp": 27,
+    "icon": "6167"
+  },
+  {
+    "id": 1184,
+    "name": "Lien obscur",
+    "class": -1,
+    "sp": 27,
+    "icon": "6168"
+  },
+  {
+    "id": 1185,
+    "name": "Lame foudroyante",
+    "class": -1,
+    "sp": 27,
+    "icon": "6169"
+  },
+  {
+    "id": 1186,
+    "name": "Coupe-pieds",
+    "class": -1,
+    "sp": 27,
+    "icon": "6170"
+  },
+  {
+    "id": 1188,
+    "name": "Frappe de météore",
+    "class": -1,
+    "sp": 27,
+    "icon": "6172"
+  },
+  {
+    "id": 1189,
+    "name": "Épée divine",
+    "class": -1,
+    "sp": 27,
+    "icon": "6173"
+  },
+  {
+    "id": 1190,
+    "name": "Lance spectrale",
+    "class": -1,
+    "sp": 27,
+    "icon": "6174"
+  },
+  {
+    "id": 1322,
+    "name": "Sort lumineux",
+    "class": -1,
+    "sp": 28,
+    "icon": "6180"
+  },
+  {
+    "id": 1323,
+    "name": "Catalyseur de Lumière",
+    "class": -1,
+    "sp": 28,
+    "icon": "6181"
+  },
+  {
+    "id": 1324,
+    "name": "Oppression",
+    "class": -1,
+    "sp": 28,
+    "icon": "6182"
+  },
+  {
+    "id": 1325,
+    "name": "Prisme sacré",
+    "class": -1,
+    "sp": 28,
+    "icon": "6183"
+  },
+  {
+    "id": 1326,
+    "name": "Explosion sacrée",
+    "class": -1,
+    "sp": 28,
+    "icon": "6184"
+  },
+  {
+    "id": 1577,
+    "name": "Tape",
+    "class": -1,
+    "sp": 29,
+    "icon": "6343"
+  },
+  {
+    "id": 1578,
+    "name": "Poing bestial",
+    "class": -1,
+    "sp": 29,
+    "icon": "6344"
+  },
+  {
+    "id": 1579,
+    "name": "Griffe",
+    "class": -1,
+    "sp": 29,
+    "icon": "6345"
+  },
+  {
+    "id": 1580,
+    "name": "Emprise",
+    "class": -1,
+    "sp": 29,
+    "icon": "6346"
+  },
+  {
+    "id": 1582,
+    "name": "Bond d'haetae",
+    "class": -1,
+    "sp": 29,
+    "icon": "6348"
+  },
+  {
+    "id": 1583,
+    "name": "Morsure",
+    "class": -1,
+    "sp": 29,
+    "icon": "6349"
+  },
+  {
+    "id": 1586,
+    "name": "Yo-yo enflammé",
+    "class": -1,
+    "sp": 29,
+    "icon": "6350"
+  },
+  {
+    "id": 1587,
+    "name": "Frappe articulée",
+    "class": -1,
+    "sp": 29,
+    "icon": "6351"
+  },
+  {
+    "id": 1588,
+    "name": "Coup enflammé",
+    "class": -1,
+    "sp": 29,
+    "icon": "6352"
+  },
+  {
+    "id": 1589,
+    "name": "Patte de feu",
+    "class": -1,
+    "sp": 29,
+    "icon": "6353"
+  },
+  {
+    "id": 1592,
+    "name": "Tir croisé",
+    "class": -1,
+    "sp": 29,
+    "icon": "6356"
+  },
+  {
+    "id": 1593,
+    "name": "Flamme finale",
+    "class": -1,
+    "sp": 29,
+    "icon": "6357"
+  },
+  {
+    "id": 1605,
+    "name": "Frappe de la paume",
+    "class": -1,
+    "sp": 31,
+    "icon": "6372"
+  },
+  {
+    "id": 1606,
+    "name": "Onde de choc",
+    "class": -1,
+    "sp": 31,
+    "icon": "6373"
+  },
+  {
+    "id": 1607,
+    "name": "Mille coups de pied",
+    "class": -1,
+    "sp": 31,
+    "icon": "6374"
+  },
+  {
+    "id": 1611,
+    "name": "Danse sauvage du croissant de lune",
+    "class": -1,
+    "sp": 31,
+    "icon": "6363"
+  },
+  {
+    "id": 1612,
+    "name": "Coupe de croissant de lune",
+    "class": -1,
+    "sp": 31,
+    "icon": "6364"
+  },
+  {
+    "id": 1613,
+    "name": "Puissance de la lumière de la lune",
+    "class": -1,
+    "sp": 31,
+    "icon": "6365"
+  },
+  {
+    "id": 1617,
+    "name": "Saut de la fleur de lotus",
+    "class": -1,
+    "sp": 31,
+    "icon": "6368"
+  },
+  {
+    "id": 1618,
+    "name": "Semence de lotus",
+    "class": -1,
+    "sp": 31,
+    "icon": "6369"
+  },
+  {
+    "id": 1619,
+    "name": "Piège de lotus",
+    "class": -1,
+    "sp": 31,
+    "icon": "6370"
+  },
+  {
+    "id": 1620,
+    "name": "En pleine floraison",
+    "class": -1,
+    "sp": 31,
+    "icon": "6371"
+  },
+  {
+    "id": 628,
+    "name": "Attaque de base",
+    "class": -1,
+    "sp": 32,
+    "icon": "6385"
+  },
+  {
+    "id": 645,
+    "name": "Attaque de base",
+    "class": -1,
+    "sp": 33,
+    "icon": "6402"
+  },
+  {
+    "id": 646,
+    "name": "Coup allongé",
+    "class": -1,
+    "sp": 33,
+    "icon": "6403"
+  },
+  {
+    "id": 647,
+    "name": "Coup bondissant",
+    "class": -1,
+    "sp": 33,
+    "icon": "6404"
+  },
+  {
+    "id": 648,
+    "name": "Boule d'énergie",
+    "class": -1,
+    "sp": 33,
+    "icon": "6405"
+  },
+  {
+    "id": 649,
+    "name": "Coup de pied tournoyant",
+    "class": -1,
+    "sp": 33,
+    "icon": "6406"
+  },
+  {
+    "id": 650,
+    "name": "Uppercut",
+    "class": -1,
+    "sp": 33,
+    "icon": "6407"
+  },
+  {
+    "id": 655,
+    "name": "Triple combo",
+    "class": -1,
+    "sp": 33,
+    "icon": "6416"
+  },
+  {
+    "id": 656,
+    "name": "Boule d'énergie ultime",
+    "class": -1,
+    "sp": 33,
+    "icon": "6410"
+  },
+  {
+    "id": 657,
+    "name": "Coup de pied tournoyant ultime",
+    "class": -1,
+    "sp": 33,
+    "icon": "6409"
+  },
+  {
+    "id": 658,
+    "name": "Uppercut ultime",
+    "class": -1,
+    "sp": 33,
+    "icon": "6411"
+  },
+  {
+    "id": 659,
+    "name": "Triple combo ultime",
+    "class": -1,
+    "sp": 33,
+    "icon": "6412"
+  },
+  {
+    "id": 717,
+    "name": "Coup de griffe",
+    "class": -1,
+    "sp": 34,
+    "icon": "6426"
+  },
+  {
+    "id": 718,
+    "name": "Vol en piqué",
+    "class": -1,
+    "sp": 34,
+    "icon": "6427"
+  },
+  {
+    "id": 720,
+    "name": "Tempête des ombres",
+    "class": -1,
+    "sp": 34,
+    "icon": "6429"
+  },
+  {
+    "id": 721,
+    "name": "Feu démoniaque",
+    "class": -1,
+    "sp": 34,
+    "icon": "6430"
+  },
+  {
+    "id": 722,
+    "name": "Double coup de pied rotatif",
+    "class": -1,
+    "sp": 34,
+    "icon": "6431"
+  },
+  {
+    "id": 724,
+    "name": "Chaînes de sang",
+    "class": -1,
+    "sp": 34,
+    "icon": "6433"
+  },
+  {
+    "id": 725,
+    "name": "Mort d'en haut",
+    "class": -1,
+    "sp": 34,
+    "icon": "6434"
+  },
+  {
+    "id": 727,
+    "name": "Jugement de Lucifer",
+    "class": -1,
+    "sp": 34,
+    "icon": "6436"
+  },
+  {
+    "id": 794,
+    "name": "Attaque de base",
+    "class": -1,
+    "sp": 35,
+    "icon": "6480"
+  },
+  {
+    "id": 1006,
+    "name": "À la ligne",
+    "class": -1,
+    "sp": 35,
+    "icon": "6487"
+  },
+  {
+    "id": 1010,
+    "name": "Attaque de base",
+    "class": -1,
+    "sp": 38,
+    "icon": "6492"
+  },
+  {
+    "id": 1352,
+    "name": "Coup de hache",
+    "class": -1,
+    "sp": 39,
+    "icon": "6544"
+  },
+  {
+    "id": 1353,
+    "name": "Lancer de hache",
+    "class": -1,
+    "sp": 39,
+    "icon": "6545"
+  },
+  {
+    "id": 1354,
+    "name": "Attaque éclair extrême",
+    "class": -1,
+    "sp": 39,
+    "icon": "6546"
+  },
+  {
+    "id": 1382,
+    "name": "Hache de fureur",
+    "class": -1,
+    "sp": 39,
+    "icon": "6547"
+  },
+  {
+    "id": 1384,
+    "name": "Contrecourant",
+    "class": -1,
+    "sp": 39,
+    "icon": "6549"
+  },
+  {
+    "id": 1385,
+    "name": "Explosion de fureur",
+    "class": -1,
+    "sp": 39,
+    "icon": "6550"
+  },
+  {
+    "id": 1387,
+    "name": "Tourbillon de chute d'eau",
+    "class": -1,
+    "sp": 39,
+    "icon": "6554"
+  },
+  {
+    "id": 1389,
+    "name": "Chute d'eau furieuse",
+    "class": -1,
+    "sp": 39,
+    "icon": "6556"
+  },
+  {
+    "id": 1390,
+    "name": "Explosion de fureur du Berserk",
+    "class": -1,
+    "sp": 39,
+    "icon": "6551"
+  },
+  {
+    "id": 1391,
+    "name": "Tempête mugissante",
+    "class": -1,
+    "sp": 39,
+    "icon": "6552"
+  },
+  {
+    "id": 1392,
+    "name": "Javelot",
+    "class": -1,
+    "sp": 40,
+    "icon": "6503"
+  },
+  {
+    "id": 1394,
+    "name": "Coup éclair",
+    "class": -1,
+    "sp": 40,
+    "icon": "6505"
+  },
+  {
+    "id": 1395,
+    "name": "Lance solaire",
+    "class": -1,
+    "sp": 40,
+    "icon": "6507"
+  },
+  {
+    "id": 1397,
+    "name": "Météore solaire",
+    "class": -1,
+    "sp": 40,
+    "icon": "6509"
+  },
+  {
+    "id": 1399,
+    "name": "Entrave",
+    "class": -1,
+    "sp": 40,
+    "icon": "6511"
+  },
+  {
+    "id": 1616,
+    "name": "Filet de lumière",
+    "class": -1,
+    "sp": 40,
+    "icon": "6516"
+  },
+  {
+    "id": 1634,
+    "name": "Retraite instantanée",
+    "class": -1,
+    "sp": 40,
+    "icon": "6506"
+  },
+  {
+    "id": 1636,
+    "name": "Explosion de taches solaires",
+    "class": -1,
+    "sp": 40,
+    "icon": "6514"
+  },
+  {
+    "id": 1638,
+    "name": "Jugement du soleil",
+    "class": -1,
+    "sp": 40,
+    "icon": "6518"
+  },
+  {
+    "id": 1640,
+    "name": "Rayon maudit",
+    "class": -1,
+    "sp": 41,
+    "icon": "6557"
+  },
+  {
+    "id": 1641,
+    "name": "Nuage toxique",
+    "class": -1,
+    "sp": 41,
+    "icon": "6558"
+  },
+  {
+    "id": 1644,
+    "name": "Âme gluante",
+    "class": -1,
+    "sp": 41,
+    "icon": "6561"
+  },
+  {
+    "id": 1645,
+    "name": "Terrible nuée de sauterelles",
+    "class": -1,
+    "sp": 41,
+    "icon": "6562"
+  },
+  {
+    "id": 1649,
+    "name": "Absorption animique",
+    "class": -1,
+    "sp": 41,
+    "icon": "6566"
+  },
+  {
+    "id": 1650,
+    "name": "Malédiction mortelle",
+    "class": -1,
+    "sp": 41,
+    "icon": "6567"
+  },
+  {
+    "id": 1021,
+    "name": "Griffes acérées",
+    "class": -1,
+    "sp": 42,
+    "icon": "6522"
+  },
+  {
+    "id": 1024,
+    "name": "Racines enflammées",
+    "class": -1,
+    "sp": 42,
+    "icon": "6525"
+  },
+  {
+    "id": 1027,
+    "name": "Coup de pattes",
+    "class": -1,
+    "sp": 42,
+    "icon": "6528"
+  },
+  {
+    "id": 1028,
+    "name": "Attaque roulade",
+    "class": -1,
+    "sp": 42,
+    "icon": "6529"
+  },
+  {
+    "id": 1030,
+    "name": "Coup enflammé",
+    "class": -1,
+    "sp": 42,
+    "icon": "6531"
+  },
+  {
+    "id": 1031,
+    "name": "Rugissement du loa ours",
+    "class": -1,
+    "sp": 42,
+    "icon": "6532"
+  },
+  {
+    "id": 1032,
+    "name": "Coup de pattes paralysant",
+    "class": -1,
+    "sp": 42,
+    "icon": "6533"
+  },
+  {
+    "id": 1196,
+    "name": "Tranche-terre",
+    "class": -1,
+    "sp": 42,
+    "icon": "6535"
+  },
+  {
+    "id": 1197,
+    "name": "Attaque bondissante",
+    "class": -1,
+    "sp": 42,
+    "icon": "6536"
+  },
+  {
+    "id": 1199,
+    "name": "Charge tourbillonnante",
+    "class": -1,
+    "sp": 42,
+    "icon": "6538"
+  },
+  {
+    "id": 1232,
+    "name": "Saut flamboyant",
+    "class": -1,
+    "sp": 42,
+    "icon": "6539"
+  },
+  {
+    "id": 1233,
+    "name": "Crochet flamboyant à la mâchoire",
+    "class": -1,
+    "sp": 42,
+    "icon": "6540"
+  },
+  {
+    "id": 1721,
+    "name": "Estoc rapide",
+    "class": -1,
+    "sp": 45,
+    "icon": "6603"
+  },
+  {
+    "id": 1722,
+    "name": "Estoc distant",
+    "class": -1,
+    "sp": 45,
+    "icon": "6604"
+  },
+  {
+    "id": 1723,
+    "name": "Coup de bouclier",
+    "class": -1,
+    "sp": 45,
+    "icon": "6605"
+  },
+  {
+    "id": 1724,
+    "name": "Lance d'assaut",
+    "class": -1,
+    "sp": 45,
+    "icon": "6606"
+  },
+  {
+    "id": 1725,
+    "name": "Tourbillon sacré",
+    "class": -1,
+    "sp": 45,
+    "icon": "6607"
+  },
+  {
+    "id": 1726,
+    "name": "Jet de lance",
+    "class": -1,
+    "sp": 45,
+    "icon": "6608"
+  },
+  {
+    "id": 1727,
+    "name": "Triple estoc",
+    "class": -1,
+    "sp": 45,
+    "icon": "6609"
+  },
+  {
+    "id": 1729,
+    "name": "Destruction d'armure",
+    "class": -1,
+    "sp": 45,
+    "icon": "6611"
+  },
+  {
+    "id": 1731,
+    "name": "Dard du dragon",
+    "class": -1,
+    "sp": 45,
+    "icon": "6613"
+  },
+  {
+    "id": 1732,
+    "name": "Tir de grenade",
+    "class": -1,
+    "sp": 46,
+    "icon": "6579"
+  },
+  {
+    "id": 1733,
+    "name": "Grenade choc",
+    "class": -1,
+    "sp": 46,
+    "icon": "6580"
+  },
+  {
+    "id": 1734,
+    "name": "Tir vertical",
+    "class": -1,
+    "sp": 46,
+    "icon": "6581"
+  },
+  {
+    "id": 1735,
+    "name": "Grenade incendiaire",
+    "class": -1,
+    "sp": 46,
+    "icon": "6582"
+  },
+  {
+    "id": 1738,
+    "name": "Grenade gravitationnelle",
+    "class": -1,
+    "sp": 46,
+    "icon": "6585"
+  },
+  {
+    "id": 1740,
+    "name": "Grenade OCC",
+    "class": -1,
+    "sp": 46,
+    "icon": "6587"
+  },
+  {
+    "id": 1742,
+    "name": "Souffle du dragon",
+    "class": -1,
+    "sp": 46,
+    "icon": "6589"
+  },
+  {
+    "id": 1743,
+    "name": "Télékinésie",
+    "class": -1,
+    "sp": 47,
+    "icon": "6614"
+  },
+  {
+    "id": 1744,
+    "name": "Attirer",
+    "class": -1,
+    "sp": 47,
+    "icon": "6615"
+  },
+  {
+    "id": 1745,
+    "name": "Repousser",
+    "class": -1,
+    "sp": 47,
+    "icon": "6616"
+  },
+  {
+    "id": 1746,
+    "name": "Assommoir",
+    "class": -1,
+    "sp": 47,
+    "icon": "6617"
+  },
+  {
+    "id": 1748,
+    "name": "Fuite rapide",
+    "class": -1,
+    "sp": 47,
+    "icon": "6619"
+  },
+  {
+    "id": 1749,
+    "name": "Champ gravitationnel",
+    "class": -1,
+    "sp": 47,
+    "icon": "6620"
+  },
+  {
+    "id": 1752,
+    "name": "Apesanteur",
+    "class": -1,
+    "sp": 47,
+    "icon": "6623"
+  },
+  {
+    "id": 1753,
+    "name": "Trou noir",
+    "class": -1,
+    "sp": 47,
+    "icon": "6628"
+  },
+  {
+    "id": 1754,
+    "name": "Frappe violente",
+    "class": -1,
+    "sp": 48,
+    "icon": "6590"
+  },
+  {
+    "id": 1756,
+    "name": "Attaque bondissante",
+    "class": -1,
+    "sp": 48,
+    "icon": "6593"
+  },
+  {
+    "id": 1757,
+    "name": "Broiement",
+    "class": -1,
+    "sp": 48,
+    "icon": "6594"
+  },
+  {
+    "id": 1759,
+    "name": "Frappe au sol",
+    "class": -1,
+    "sp": 48,
+    "icon": "6596"
+  },
+  {
+    "id": 1761,
+    "name": "Attaque bondissante puissante",
+    "class": -1,
+    "sp": 48,
+    "icon": "6598"
+  },
+  {
+    "id": 1762,
+    "name": "Coup de boutoir",
+    "class": -1,
+    "sp": 48,
+    "icon": "6600"
+  },
+  {
+    "id": 1764,
+    "name": "Coup draconique",
+    "class": -1,
+    "sp": 48,
+    "icon": "6602"
+  },
+  {
+    "id": 1758,
+    "name": "Coup de masse",
+    "class": -1,
+    "sp": 48,
+    "icon": "6595"
+  },
+  {
+    "id": 1766,
+    "name": "Attaque dévastatrice",
+    "class": -1,
+    "sp": 48,
+    "icon": "6599"
+  },
+  {
+    "id": 1786,
+    "name": "Coup de fouet",
+    "class": -1,
+    "sp": 49,
+    "icon": "6631"
+  },
+  {
+    "id": 339,
+    "name": "Coup de marteau",
+    "class": -1,
+    "sp": 51,
+    "icon": "6683"
+  },
+  {
+    "id": 364,
+    "name": "Extraction",
+    "class": -1,
+    "sp": 51,
+    "icon": "6684"
+  },
+  {
+    "id": 366,
+    "name": "Moteur de roquette",
+    "class": -1,
+    "sp": 51,
+    "icon": "6686"
+  },
+  {
+    "id": 367,
+    "name": "Souffle incandescent",
+    "class": -1,
+    "sp": 51,
+    "icon": "6687"
+  },
+  {
+    "id": 368,
+    "name": "Marteau rotatif",
+    "class": -1,
+    "sp": 51,
+    "icon": "6688"
+  },
+  {
+    "id": 386,
+    "name": "Saut de roquette",
+    "class": -1,
+    "sp": 51,
+    "icon": "6689"
+  },
+  {
+    "id": 387,
+    "name": "Attaque fragmentée",
+    "class": -1,
+    "sp": 51,
+    "icon": "6690"
+  },
+  {
+    "id": 390,
+    "name": "Extraction explosive",
+    "class": -1,
+    "sp": 51,
+    "icon": "6693"
+  },
+  {
+    "id": 396,
+    "name": "Tir simple",
+    "class": -1,
+    "sp": 52,
+    "icon": "6694"
+  },
+  {
+    "id": 399,
+    "name": "Tir de barrage",
+    "class": -1,
+    "sp": 52,
+    "icon": "6695"
+  },
+  {
+    "id": 461,
+    "name": "Feu de retrait",
+    "class": -1,
+    "sp": 52,
+    "icon": "6697"
+  },
+  {
+    "id": 1852,
+    "name": "Cible mentale",
+    "class": -1,
+    "sp": 52,
+    "icon": "6698"
+  },
+  {
+    "id": 1855,
+    "name": "Poussée de gaz",
+    "class": -1,
+    "sp": 52,
+    "icon": "6701"
+  },
+  {
+    "id": 1857,
+    "name": "Tir percutant",
+    "class": -1,
+    "sp": 52,
+    "icon": "6703"
+  },
+  {
+    "id": 1858,
+    "name": "Tir plein gaz",
+    "class": -1,
+    "sp": 52,
+    "icon": "6704"
+  },
+  {
+    "id": 397,
+    "name": "Fournaise",
+    "class": -1,
+    "sp": 53,
+    "icon": "6705"
+  },
+  {
+    "id": 1859,
+    "name": "Fournaise renforcée",
+    "class": -1,
+    "sp": 53,
+    "icon": "6706"
+  },
+  {
+    "id": 1860,
+    "name": "Cercle enflammé",
+    "class": -1,
+    "sp": 53,
+    "icon": "6707"
+  },
+  {
+    "id": 1862,
+    "name": "Tourbillon de flammes",
+    "class": -1,
+    "sp": 53,
+    "icon": "6709"
+  },
+  {
+    "id": 1866,
+    "name": "Faisceau de flammes",
+    "class": -1,
+    "sp": 53,
+    "icon": "6713"
+  },
+  {
+    "id": 1868,
+    "name": "Explosion infernale",
+    "class": -1,
+    "sp": 53,
+    "icon": "6715"
+  },
+  {
+    "id": 398,
+    "name": "Tir de bombardelle",
+    "class": -1,
+    "sp": 54,
+    "icon": "6716"
+  },
+  {
+    "id": 1869,
+    "name": "Feu nourri",
+    "class": -1,
+    "sp": 54,
+    "icon": "6717"
+  },
+  {
+    "id": 1870,
+    "name": "À bout portant",
+    "class": -1,
+    "sp": 54,
+    "icon": "6718"
+  },
+  {
+    "id": 1871,
+    "name": "Tire fluide",
+    "class": -1,
+    "sp": 54,
+    "icon": "6719"
+  },
+  {
+    "id": 1872,
+    "name": "Tir à haute tension",
+    "class": -1,
+    "sp": 54,
+    "icon": "6720"
+  },
+  {
+    "id": 1874,
+    "name": "Onde électrique",
+    "class": -1,
+    "sp": 54,
+    "icon": "6722"
+  },
+  {
+    "id": 1875,
+    "name": "Électrochoc",
+    "class": -1,
+    "sp": 54,
+    "icon": "6723"
+  },
+  {
+    "id": 1878,
+    "name": "Sprint électrique",
+    "class": -1,
+    "sp": 54,
+    "icon": "6726"
+  }
+]

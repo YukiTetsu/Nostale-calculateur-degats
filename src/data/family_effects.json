@@ -1,0 +1,207 @@
+[
+  {
+    "groupId": 0,
+    "items": [
+      {
+        "id": 9679,
+        "name": "Augmenter la force d'attaque et de défense (niveau 1)",
+        "amount": 1,
+        "level": 0,
+        "icon": "2501"
+      },
+      {
+        "id": 9680,
+        "name": "Augmenter la force d'attaque et de défense (niveau 2)",
+        "amount": 2,
+        "level": 1,
+        "icon": "2501"
+      },
+      {
+        "id": 9681,
+        "name": "Augmenter la force d'attaque et de défense (niveau 3)",
+        "amount": 3,
+        "level": 2,
+        "icon": "2501"
+      },
+      {
+        "id": 9682,
+        "name": "Augmenter la force d'attaque et de défense (niveau 4)",
+        "amount": 4,
+        "level": 3,
+        "icon": "2501"
+      },
+      {
+        "id": 9683,
+        "name": "Augmenter la force d'attaque et de défense (niveau 5)",
+        "amount": 5,
+        "level": 4,
+        "icon": "2501"
+      },
+      {
+        "id": 9684,
+        "name": "Augmenter la force d'attaque et de défense (niveau 6)",
+        "amount": 6,
+        "level": 5,
+        "icon": "2501"
+      },
+      {
+        "id": 9685,
+        "name": "Augmenter la force d'attaque et de défense (niveau 7)",
+        "amount": 7,
+        "level": 6,
+        "icon": "2501"
+      },
+      {
+        "id": 9686,
+        "name": "Augmenter la force d'attaque et de défense (niveau 8)",
+        "amount": 8,
+        "level": 7,
+        "icon": "2501"
+      }
+    ]
+  },
+  {
+    "groupId": 14,
+    "items": [
+      {
+        "id": 13399,
+        "name": "Augmenter l'élément de fée (niveau 1)",
+        "amount": 1,
+        "level": 0,
+        "icon": "7261"
+      }
+    ]
+  },
+  {
+    "groupId": 22,
+    "items": [
+      {
+        "id": 13323,
+        "name": "Augmenter toutes les défenses (niveau 1)",
+        "amount": 1,
+        "level": 0,
+        "icon": "7254"
+      }
+    ]
+  },
+  {
+    "groupId": 28,
+    "items": [
+      {
+        "id": 13328,
+        "name": "Augmenter les dégâts contre les démons (niveau 1)",
+        "amount": 1,
+        "level": 0,
+        "icon": "7257"
+      }
+    ]
+  },
+  {
+    "groupId": 29,
+    "items": [
+      {
+        "id": 13329,
+        "name": "Augmenter les dégâts contre les anges (niveau 1)",
+        "amount": 1,
+        "level": 0,
+        "icon": "7258"
+      }
+    ]
+  },
+  {
+    "groupId": 30,
+    "items": [
+      {
+        "id": 13330,
+        "name": "Augmentation de la probabilité de coups critiques/l'attaque magique (niveau 1)",
+        "amount": 1,
+        "level": 0,
+        "icon": "7259"
+      }
+    ]
+  },
+  {
+    "groupId": 31,
+    "items": [
+      {
+        "id": 13331,
+        "name": "Augmentation des dégâts critiques/de l'attaque magique (niveau 1)",
+        "amount": 1,
+        "level": 0,
+        "icon": "7260"
+      }
+    ]
+  },
+  {
+    "groupId": 32,
+    "items": [
+      {
+        "id": 13332,
+        "name": "Augmenter l'élément de la fée équipée (niveau 1)",
+        "amount": 1,
+        "level": 0,
+        "icon": "7261"
+      }
+    ]
+  },
+  {
+    "groupId": 33,
+    "items": [
+      {
+        "id": 13333,
+        "name": "Réduire la résistance élémentaire de l'adversaire (niveau 1)",
+        "amount": 1,
+        "level": 0,
+        "icon": "7262"
+      }
+    ]
+  },
+  {
+    "groupId": 35,
+    "items": [
+      {
+        "id": 13335,
+        "name": "Augmenter les dégâts contre les dragons de haut niveau (niveau 1)",
+        "amount": 1,
+        "level": 0,
+        "icon": "7264"
+      }
+    ]
+  },
+  {
+    "groupId": 36,
+    "items": [
+      {
+        "id": 13410,
+        "name": "Augmenter les dégâts contre les dragons de haut niveau (niveau 1)",
+        "amount": 1,
+        "level": 0,
+        "icon": "7264"
+      }
+    ]
+  },
+  {
+    "groupId": 37,
+    "items": [
+      {
+        "id": 13336,
+        "name": "Augmenter toutes les attaques (niveau 1)",
+        "amount": 1,
+        "level": 0,
+        "icon": "7265"
+      }
+    ]
+  },
+  {
+    "groupId": 43,
+    "items": [
+      {
+        "id": 13616,
+        "name": "Bonus d'attaque de l'éclaireur (niveau 1)",
+        "amount": 1,
+        "level": 0,
+        "icon": "7265"
+      }
+    ]
+  }
+]

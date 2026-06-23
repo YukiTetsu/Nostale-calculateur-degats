@@ -1,0 +1,5510 @@
+{
+  "0": [
+    {
+      "id": 1,
+      "name": "Bâton de bois",
+      "class": 1,
+      "icon": "1"
+    },
+    {
+      "id": 2,
+      "name": "Gourdin en bois",
+      "class": 1,
+      "icon": "2"
+    },
+    {
+      "id": 3,
+      "name": "Épée en bois",
+      "class": 1,
+      "icon": "3"
+    },
+    {
+      "id": 4,
+      "name": "Marteau en bois",
+      "class": 1,
+      "icon": "4"
+    },
+    {
+      "id": 5,
+      "name": "Marteau en bois lourd",
+      "class": 1,
+      "icon": "5"
+    },
+    {
+      "id": 6,
+      "name": "Épée en bois d'apprenti",
+      "class": 1,
+      "icon": "6"
+    },
+    {
+      "id": 18,
+      "name": "Épée d'apprenti",
+      "class": 2,
+      "icon": "18"
+    },
+    {
+      "id": 32,
+      "name": "Arc d'apprenti",
+      "class": 4,
+      "icon": "32"
+    },
+    {
+      "id": 46,
+      "name": "Baguette magique d'apprenti",
+      "class": 8,
+      "icon": "46"
+    },
+    {
+      "id": 7,
+      "name": "Épée d'Aventurier",
+      "class": 1,
+      "icon": "7"
+    },
+    {
+      "id": 19,
+      "name": "Épée courte",
+      "class": 2,
+      "icon": "19"
+    },
+    {
+      "id": 33,
+      "name": "Petit arc",
+      "class": 4,
+      "icon": "33"
+    },
+    {
+      "id": 47,
+      "name": "Baguette magique à perle rouge",
+      "class": 8,
+      "icon": "47"
+    },
+    {
+      "id": 135,
+      "name": "Glaive",
+      "class": 2,
+      "icon": "135"
+    },
+    {
+      "id": 142,
+      "name": "Arc de la vie",
+      "class": 4,
+      "icon": "142"
+    },
+    {
+      "id": 149,
+      "name": "Baguette magique de la vie",
+      "class": 8,
+      "icon": "149"
+    },
+    {
+      "id": 20,
+      "name": "Épée de peine",
+      "class": 2,
+      "icon": "20"
+    },
+    {
+      "id": 34,
+      "name": "Arc de vitesse",
+      "class": 4,
+      "icon": "34"
+    },
+    {
+      "id": 48,
+      "name": "Baguette magique de l'esprit",
+      "class": 8,
+      "icon": "48"
+    },
+    {
+      "id": 21,
+      "name": "Épée courte",
+      "class": 2,
+      "icon": "21"
+    },
+    {
+      "id": 35,
+      "name": "Arc en bambou",
+      "class": 4,
+      "icon": "35"
+    },
+    {
+      "id": 49,
+      "name": "Baguette magique à rubis",
+      "class": 8,
+      "icon": "49"
+    },
+    {
+      "id": 136,
+      "name": "Épée wallonne",
+      "class": 2,
+      "icon": "136"
+    },
+    {
+      "id": 143,
+      "name": "Arc de flammes",
+      "class": 4,
+      "icon": "143"
+    },
+    {
+      "id": 150,
+      "name": "Baguette magique de flamme",
+      "class": 8,
+      "icon": "150"
+    },
+    {
+      "id": 22,
+      "name": "Épée en bronze",
+      "class": 2,
+      "icon": "22"
+    },
+    {
+      "id": 36,
+      "name": "Arc magique",
+      "class": 4,
+      "icon": "36"
+    },
+    {
+      "id": 50,
+      "name": "Baguette magique enchantée",
+      "class": 8,
+      "icon": "50"
+    },
+    {
+      "id": 23,
+      "name": "Sabre",
+      "class": 2,
+      "icon": "23"
+    },
+    {
+      "id": 37,
+      "name": "Arc en chêne",
+      "class": 4,
+      "icon": "37"
+    },
+    {
+      "id": 51,
+      "name": "Baguette magique à perle bleue",
+      "class": 8,
+      "icon": "51"
+    },
+    {
+      "id": 137,
+      "name": "Sabre viking",
+      "class": 2,
+      "icon": "137"
+    },
+    {
+      "id": 144,
+      "name": "Arc synthétique",
+      "class": 4,
+      "icon": "144"
+    },
+    {
+      "id": 151,
+      "name": "Baguette magique de glace",
+      "class": 8,
+      "icon": "151"
+    },
+    {
+      "id": 24,
+      "name": "Épée large de l'esprit",
+      "class": 2,
+      "icon": "24"
+    },
+    {
+      "id": 38,
+      "name": "Arc du vent",
+      "class": 4,
+      "icon": "38"
+    },
+    {
+      "id": 52,
+      "name": "Baguette magique de la Lumière",
+      "class": 8,
+      "icon": "52"
+    },
+    {
+      "id": 25,
+      "name": "Fauchon",
+      "class": 2,
+      "icon": "25"
+    },
+    {
+      "id": 39,
+      "name": "Arc à corne",
+      "class": 4,
+      "icon": "39"
+    },
+    {
+      "id": 53,
+      "name": "Baguette magique à opale",
+      "class": 8,
+      "icon": "53"
+    },
+    {
+      "id": 138,
+      "name": "Machette",
+      "class": 2,
+      "icon": "138"
+    },
+    {
+      "id": 145,
+      "name": "Arc double",
+      "class": 4,
+      "icon": "145"
+    },
+    {
+      "id": 152,
+      "name": "Baguette magique de Loon",
+      "class": 8,
+      "icon": "152"
+    },
+    {
+      "id": 262,
+      "name": "Épée d'Elvin",
+      "class": 2,
+      "icon": "262"
+    },
+    {
+      "id": 265,
+      "name": "Arc rouge",
+      "class": 4,
+      "icon": "265"
+    },
+    {
+      "id": 268,
+      "name": "Baguette magique légendaire",
+      "class": 8,
+      "icon": "268"
+    },
+    {
+      "id": 26,
+      "name": "Sabre en or",
+      "class": 2,
+      "icon": "26"
+    },
+    {
+      "id": 40,
+      "name": "Arc en cuir",
+      "class": 4,
+      "icon": "40"
+    },
+    {
+      "id": 54,
+      "name": "Baguette magique créatrice de mana",
+      "class": 8,
+      "icon": "54"
+    },
+    {
+      "id": 27,
+      "name": "Épée large",
+      "class": 2,
+      "icon": "27"
+    },
+    {
+      "id": 41,
+      "name": "Arc de chasse",
+      "class": 4,
+      "icon": "41"
+    },
+    {
+      "id": 55,
+      "name": "Baguette magique à corail",
+      "class": 8,
+      "icon": "55"
+    },
+    {
+      "id": 139,
+      "name": "Katzbalger",
+      "class": 2,
+      "icon": "139"
+    },
+    {
+      "id": 146,
+      "name": "Arc féroce",
+      "class": 4,
+      "icon": "146"
+    },
+    {
+      "id": 153,
+      "name": "Baguette magique",
+      "class": 8,
+      "icon": "153"
+    },
+    {
+      "id": 28,
+      "name": "Épée longue du pouvoir",
+      "class": 2,
+      "icon": "28"
+    },
+    {
+      "id": 42,
+      "name": "Arc du courage",
+      "class": 4,
+      "icon": "42"
+    },
+    {
+      "id": 56,
+      "name": "Baguette magique de l'honneur",
+      "class": 8,
+      "icon": "56"
+    },
+    {
+      "id": 29,
+      "name": "Épée large",
+      "class": 2,
+      "icon": "29"
+    },
+    {
+      "id": 43,
+      "name": "Arc long",
+      "class": 4,
+      "icon": "43"
+    },
+    {
+      "id": 57,
+      "name": "Baguette magique à cristal",
+      "class": 8,
+      "icon": "57"
+    },
+    {
+      "id": 140,
+      "name": "Épée de chevalier",
+      "class": 2,
+      "icon": "140"
+    },
+    {
+      "id": 147,
+      "name": "Grand arc",
+      "class": 4,
+      "icon": "147"
+    },
+    {
+      "id": 154,
+      "name": "Baguette magique sacrée",
+      "class": 8,
+      "icon": "154"
+    },
+    {
+      "id": 30,
+      "name": "Skyabona",
+      "class": 2,
+      "icon": "30"
+    },
+    {
+      "id": 44,
+      "name": "Arc en bronze",
+      "class": 4,
+      "icon": "44"
+    },
+    {
+      "id": 58,
+      "name": "Baguette magique de l'intelligence",
+      "class": 8,
+      "icon": "58"
+    },
+    {
+      "id": 31,
+      "name": "Épée claymore",
+      "class": 2,
+      "icon": "31"
+    },
+    {
+      "id": 45,
+      "name": "Arc de l'esprit",
+      "class": 4,
+      "icon": "45"
+    },
+    {
+      "id": 59,
+      "name": "Baguette magique de l'Obscurité",
+      "class": 8,
+      "icon": "59"
+    },
+    {
+      "id": 141,
+      "name": "Épée assassine",
+      "class": 2,
+      "icon": "141"
+    },
+    {
+      "id": 148,
+      "name": "Arc de siège",
+      "class": 4,
+      "icon": "148"
+    },
+    {
+      "id": 155,
+      "name": "Baguette magique de l'âme",
+      "class": 8,
+      "icon": "155"
+    },
+    {
+      "id": 263,
+      "name": "Sabre glorieux",
+      "class": 2,
+      "icon": "263"
+    },
+    {
+      "id": 266,
+      "name": "Arc de la paix",
+      "class": 4,
+      "icon": "266"
+    },
+    {
+      "id": 269,
+      "name": "Baguette magique du fantôme",
+      "class": 8,
+      "icon": "269"
+    },
+    {
+      "id": 754,
+      "name": "Sabre vif",
+      "class": 2,
+      "icon": "263"
+    },
+    {
+      "id": 756,
+      "name": "Arc de la forêt",
+      "class": 4,
+      "icon": "266"
+    },
+    {
+      "id": 758,
+      "name": "Baguette magique à crâne",
+      "class": 8,
+      "icon": "269"
+    },
+    {
+      "id": 299,
+      "name": "Surin",
+      "class": 2,
+      "icon": "299"
+    },
+    {
+      "id": 300,
+      "name": "Arc de pouvoir",
+      "class": 4,
+      "icon": "300"
+    },
+    {
+      "id": 301,
+      "name": "Baguette magique de Kai",
+      "class": 8,
+      "icon": "301"
+    },
+    {
+      "id": 400,
+      "name": "Loopuster",
+      "class": 2,
+      "icon": "400"
+    },
+    {
+      "id": 403,
+      "name": "Séraphin",
+      "class": 4,
+      "icon": "403"
+    },
+    {
+      "id": 406,
+      "name": "Baguette magique du seigneur Mukraju",
+      "class": 8,
+      "icon": "406"
+    },
+    {
+      "id": 755,
+      "name": "Lame laminante",
+      "class": 2,
+      "icon": "299"
+    },
+    {
+      "id": 757,
+      "name": "Arc d'ange noir",
+      "class": 4,
+      "icon": "300"
+    },
+    {
+      "id": 759,
+      "name": "Baguette magique de l'Archimage",
+      "class": 8,
+      "icon": "301"
+    },
+    {
+      "id": 264,
+      "name": "Épée élémentaire brisée",
+      "class": 2,
+      "icon": "264"
+    },
+    {
+      "id": 267,
+      "name": "Arc majestueux",
+      "class": 4,
+      "icon": "267"
+    },
+    {
+      "id": 270,
+      "name": "Baguette magique majestueuse",
+      "class": 8,
+      "icon": "270"
+    },
+    {
+      "id": 401,
+      "name": "Épée brisée",
+      "class": 2,
+      "icon": "401"
+    },
+    {
+      "id": 404,
+      "name": "Caipéru",
+      "class": 4,
+      "icon": "404"
+    },
+    {
+      "id": 407,
+      "name": "Baguette d'Aurélius",
+      "class": 8,
+      "icon": "407"
+    },
+    {
+      "id": 4719,
+      "name": "Poing d'acier",
+      "class": 16,
+      "icon": "4014"
+    },
+    {
+      "id": 4720,
+      "name": "Gant de cavalier court",
+      "class": 16,
+      "icon": "4012"
+    },
+    {
+      "id": 4001,
+      "name": "Épée tranchante du grand chef",
+      "class": 2,
+      "icon": "4001"
+    },
+    {
+      "id": 4003,
+      "name": "Arc du grand chef",
+      "class": 4,
+      "icon": "4003"
+    },
+    {
+      "id": 4005,
+      "name": "Baguette magique du grand chef",
+      "class": 8,
+      "icon": "4005"
+    },
+    {
+      "id": 4729,
+      "name": "Gant en acier froid",
+      "class": 16,
+      "icon": "4019"
+    },
+    {
+      "id": 4730,
+      "name": "Larme de Ladine",
+      "class": 16,
+      "icon": "4020"
+    },
+    {
+      "id": 4902,
+      "name": "Épée du héros oublié +10",
+      "class": 2,
+      "icon": "2465"
+    },
+    {
+      "id": 4905,
+      "name": "Arc du héros oublié +10",
+      "class": 4,
+      "icon": "2467"
+    },
+    {
+      "id": 4908,
+      "name": "Baguette magique du héros oublié +10",
+      "class": 8,
+      "icon": "2469"
+    },
+    {
+      "id": 4721,
+      "name": "Gant des arts martiaux",
+      "class": 16,
+      "icon": "4013"
+    },
+    {
+      "id": 4722,
+      "name": "Main noire",
+      "class": 16,
+      "icon": "4016"
+    },
+    {
+      "id": 4858,
+      "name": "Honorable : baguette magique hydrophyte de Calvina",
+      "class": 8,
+      "icon": "268"
+    },
+    {
+      "id": 4860,
+      "name": "Honorable : épée houleuse de Calvina",
+      "class": 2,
+      "icon": "262"
+    },
+    {
+      "id": 4862,
+      "name": "Honorable : arc tsunamique de Calvina",
+      "class": 4,
+      "icon": "265"
+    },
+    {
+      "id": 4000,
+      "name": "Épée longue des voleurs du désert",
+      "class": 2,
+      "icon": "349"
+    },
+    {
+      "id": 4002,
+      "name": "Arc des voleurs du désert",
+      "class": 4,
+      "icon": "353"
+    },
+    {
+      "id": 4004,
+      "name": "Canne des voleurs du désert",
+      "class": 8,
+      "icon": "356"
+    },
+    {
+      "id": 4731,
+      "name": "Griffe de Fenris",
+      "class": 16,
+      "icon": "4021"
+    },
+    {
+      "id": 4732,
+      "name": "Gant de golem de feu",
+      "class": 16,
+      "icon": "4022"
+    },
+    {
+      "id": 4900,
+      "name": "Épée incendiaire de Magmaros",
+      "class": 2,
+      "icon": "2464"
+    },
+    {
+      "id": 4903,
+      "name": "Aile du phénix",
+      "class": 4,
+      "icon": "2466"
+    },
+    {
+      "id": 4906,
+      "name": "Bâton du spectre de lave",
+      "class": 8,
+      "icon": "2468"
+    },
+    {
+      "id": 4723,
+      "name": "Gant en cuir renforcé",
+      "class": 16,
+      "icon": "4012"
+    },
+    {
+      "id": 4724,
+      "name": "Gant des arts martiaux en cuir",
+      "class": 16,
+      "icon": "4013"
+    },
+    {
+      "id": 349,
+      "name": "Lame épineuse",
+      "class": 2,
+      "icon": "349"
+    },
+    {
+      "id": 353,
+      "name": "Arc élémentaire",
+      "class": 4,
+      "icon": "353"
+    },
+    {
+      "id": 356,
+      "name": "Baguette magique séraphin",
+      "class": 8,
+      "icon": "356"
+    },
+    {
+      "id": 4327,
+      "name": "Baguette magique de Yertirand",
+      "class": 8,
+      "icon": "2938"
+    },
+    {
+      "id": 4328,
+      "name": "Baguette magique de Yertirand corrompu",
+      "class": 8,
+      "icon": "2939"
+    },
+    {
+      "id": 4733,
+      "name": "Gant d'écailles du chaos",
+      "class": 16,
+      "icon": "4023"
+    },
+    {
+      "id": 4734,
+      "name": "Flamme de l'Ifrit",
+      "class": 16,
+      "icon": "4024"
+    },
+    {
+      "id": 4901,
+      "name": "Épée incendiaire de Valakus",
+      "class": 2,
+      "icon": "2406"
+    },
+    {
+      "id": 4904,
+      "name": "Aile de Graal",
+      "class": 4,
+      "icon": "2407"
+    },
+    {
+      "id": 4907,
+      "name": "Baguette de Katol",
+      "class": 8,
+      "icon": "2408"
+    },
+    {
+      "id": 4725,
+      "name": "Gant puissant",
+      "class": 16,
+      "icon": "4015"
+    },
+    {
+      "id": 4726,
+      "name": "Gant de l'apprenti assassin",
+      "class": 16,
+      "icon": "4017"
+    },
+    {
+      "id": 199,
+      "name": "Lance obscure d'Hatus",
+      "class": 2,
+      "icon": "350"
+    },
+    {
+      "id": 350,
+      "name": "Schiavona",
+      "class": 2,
+      "icon": "350"
+    },
+    {
+      "id": 354,
+      "name": "Arc de la destruction",
+      "class": 4,
+      "icon": "354"
+    },
+    {
+      "id": 357,
+      "name": "Baguette magique de Taracen",
+      "class": 8,
+      "icon": "357"
+    },
+    {
+      "id": 940,
+      "name": "Arc du précipice d'Hatus",
+      "class": 4,
+      "icon": "354"
+    },
+    {
+      "id": 941,
+      "name": "Baguette infernale de Hatus",
+      "class": 8,
+      "icon": "357"
+    },
+    {
+      "id": 944,
+      "name": "Épée houleuse de Calvina",
+      "class": 2,
+      "icon": "350"
+    },
+    {
+      "id": 945,
+      "name": "Arc tsunamique de Calvina",
+      "class": 4,
+      "icon": "354"
+    },
+    {
+      "id": 946,
+      "name": "Baguette magique hydrophyte de Calvina",
+      "class": 8,
+      "icon": "357"
+    },
+    {
+      "id": 4727,
+      "name": "Gant de Sicario",
+      "class": 16,
+      "icon": "4017"
+    },
+    {
+      "id": 4728,
+      "name": "Poing noir",
+      "class": 16,
+      "icon": "4018"
+    },
+    {
+      "id": 4866,
+      "name": "Honorable : épée tranchante du grand chef",
+      "class": 2,
+      "icon": "349"
+    },
+    {
+      "id": 4867,
+      "name": "Honorable : baguette magique du grand chef",
+      "class": 8,
+      "icon": "356"
+    },
+    {
+      "id": 4868,
+      "name": "Honorable : arc du grand chef",
+      "class": 4,
+      "icon": "353"
+    },
+    {
+      "id": 4447,
+      "name": "Épée de chef de guerre orc",
+      "class": 2,
+      "icon": "4160"
+    },
+    {
+      "id": 4450,
+      "name": "Arc du maître-archer orc",
+      "class": 4,
+      "icon": "4163"
+    },
+    {
+      "id": 4453,
+      "name": "Bâton divin du maître sorcier",
+      "class": 8,
+      "icon": "4166"
+    },
+    {
+      "id": 4456,
+      "name": "Gants de plaques orcs en sekrass",
+      "class": 16,
+      "icon": "4169"
+    },
+    {
+      "id": 4735,
+      "name": "Poing de la déesse scellée",
+      "class": 16,
+      "icon": "4025"
+    },
+    {
+      "id": 4958,
+      "name": "Épée céleste scellée",
+      "class": 2,
+      "icon": "2759"
+    },
+    {
+      "id": 4959,
+      "name": "Bâton céleste scellé",
+      "class": 8,
+      "icon": "2760"
+    },
+    {
+      "id": 4960,
+      "name": "Arc céleste scellé",
+      "class": 4,
+      "icon": "2761"
+    },
+    {
+      "id": 4964,
+      "name": "Épée infernale scellée",
+      "class": 2,
+      "icon": "2767"
+    },
+    {
+      "id": 4965,
+      "name": "Bâton infernal scellé",
+      "class": 8,
+      "icon": "2768"
+    },
+    {
+      "id": 4966,
+      "name": "Arc infernal scellé",
+      "class": 4,
+      "icon": "2769"
+    },
+    {
+      "id": 4736,
+      "name": "Poing de dieu",
+      "class": 16,
+      "icon": "4026"
+    },
+    {
+      "id": 4981,
+      "name": "La lame droite de Krem brisé",
+      "class": 2,
+      "icon": "2813"
+    },
+    {
+      "id": 4982,
+      "name": "Branche de lumière de Seli-Lusha",
+      "class": 8,
+      "icon": "2817"
+    },
+    {
+      "id": 4983,
+      "name": "Ailes d'Azraël",
+      "class": 4,
+      "icon": "2816"
+    },
+    {
+      "id": 4448,
+      "name": "Épée au loa lion",
+      "class": 2,
+      "icon": "4161"
+    },
+    {
+      "id": 4451,
+      "name": "Arc au loa aigle",
+      "class": 4,
+      "icon": "4164"
+    },
+    {
+      "id": 4454,
+      "name": "Bâton au loa serpent",
+      "class": 8,
+      "icon": "4167"
+    },
+    {
+      "id": 4457,
+      "name": "Gants de plaques au loa ours",
+      "class": 16,
+      "icon": "4170"
+    },
+    {
+      "id": 4449,
+      "name": "Épée magique de Bélial",
+      "class": 2,
+      "icon": "4162"
+    },
+    {
+      "id": 4452,
+      "name": "Arc maudit de Bélial",
+      "class": 4,
+      "icon": "4165"
+    },
+    {
+      "id": 4455,
+      "name": "Bâton du roi des esprits",
+      "class": 8,
+      "icon": "4168"
+    },
+    {
+      "id": 4458,
+      "name": "Gants de plaques du roi des bêtes",
+      "class": 16,
+      "icon": "4171"
+    },
+    {
+      "id": 4617,
+      "name": "Épée en os de dragon",
+      "class": 2,
+      "icon": "4628"
+    },
+    {
+      "id": 4619,
+      "name": "Arc draconique",
+      "class": 4,
+      "icon": "4632"
+    },
+    {
+      "id": 4621,
+      "name": "Baguette magique draconique",
+      "class": 8,
+      "icon": "4630"
+    },
+    {
+      "id": 4623,
+      "name": "Griffe draconique",
+      "class": 16,
+      "icon": "4626"
+    },
+    {
+      "id": 4618,
+      "name": "Pourfendeur de dragons",
+      "class": 2,
+      "icon": "4629"
+    },
+    {
+      "id": 4620,
+      "name": "Souffle de la destruction",
+      "class": 4,
+      "icon": "4633"
+    },
+    {
+      "id": 4622,
+      "name": "Baguette animique draconique",
+      "class": 8,
+      "icon": "4631"
+    },
+    {
+      "id": 4624,
+      "name": "Griffe givrée",
+      "class": 16,
+      "icon": "4627"
+    },
+    {
+      "id": 8627,
+      "name": "Épée sacrée",
+      "class": 2,
+      "icon": "4944"
+    },
+    {
+      "id": 8629,
+      "name": "Arc d'engrenage",
+      "class": 4,
+      "icon": "4947"
+    },
+    {
+      "id": 8631,
+      "name": "Baguette magique électrique",
+      "class": 8,
+      "icon": "4948"
+    },
+    {
+      "id": 8633,
+      "name": "Gantelets à vapeur",
+      "class": 16,
+      "icon": "4950"
+    },
+    {
+      "id": 8863,
+      "name": "Épée instable d'Achille [Abandonner], [Commerce], [Vente] Impossible",
+      "class": 2,
+      "icon": "7599"
+    },
+    {
+      "id": 8864,
+      "name": "Arc instable de l'amiral Yi [Abandonner], [Commerce], [Vente] Impossible",
+      "class": 4,
+      "icon": "7600"
+    },
+    {
+      "id": 8865,
+      "name": "Baguette instable de Merlin [Abandonner], [Commerce], [Vente] Impossible",
+      "class": 8,
+      "icon": "7601"
+    },
+    {
+      "id": 8866,
+      "name": "Gants instables de Thor [Abandonner], [Commerce], [Vente] Impossible",
+      "class": 16,
+      "icon": "7602"
+    },
+    {
+      "id": 8628,
+      "name": "Épée rotative",
+      "class": 2,
+      "icon": "4945"
+    },
+    {
+      "id": 8630,
+      "name": "Arc à vapeur",
+      "class": 4,
+      "icon": "4946"
+    },
+    {
+      "id": 8632,
+      "name": "Baguette magique d'énergie",
+      "class": 8,
+      "icon": "4949"
+    },
+    {
+      "id": 8634,
+      "name": "Gantelets d'allumage",
+      "class": 16,
+      "icon": "4951"
+    },
+    {
+      "id": 8812,
+      "name": "Épée d'Achille",
+      "class": 2,
+      "icon": "7503"
+    },
+    {
+      "id": 8814,
+      "name": "Arc de l'amiral Yi",
+      "class": 4,
+      "icon": "7505"
+    },
+    {
+      "id": 8816,
+      "name": "Baguette de Merlin",
+      "class": 8,
+      "icon": "7507"
+    },
+    {
+      "id": 8818,
+      "name": "Gants de Thor",
+      "class": 16,
+      "icon": "7509"
+    },
+    {
+      "id": 8813,
+      "name": "Épée styxienne du fils de Thétis",
+      "class": 2,
+      "icon": "7504"
+    },
+    {
+      "id": 8815,
+      "name": "Arc des guerres navales de Joseon",
+      "class": 4,
+      "icon": "7506"
+    },
+    {
+      "id": 8817,
+      "name": "Baguette d'Avalon",
+      "class": 8,
+      "icon": "7508"
+    },
+    {
+      "id": 8819,
+      "name": "Gants du tonnerre de Niflheim",
+      "class": 16,
+      "icon": "7510"
+    }
+  ],
+  "1": [
+    {
+      "id": 109,
+      "name": "Tunique en velours",
+      "class": 4,
+      "icon": "109"
+    },
+    {
+      "id": 98,
+      "name": "Armure d'endurance",
+      "class": 2,
+      "icon": "98"
+    },
+    {
+      "id": 115,
+      "name": "Tunique d'œil d'aigle",
+      "class": 4,
+      "icon": "115"
+    },
+    {
+      "id": 130,
+      "name": "Robe à carreaux",
+      "class": 8,
+      "icon": "130"
+    },
+    {
+      "id": 173,
+      "name": "Tunique des dryades",
+      "class": 4,
+      "icon": "173"
+    },
+    {
+      "id": 106,
+      "name": "Armure du courage",
+      "class": 2,
+      "icon": "106"
+    },
+    {
+      "id": 296,
+      "name": "Robe de lumière",
+      "class": 4,
+      "icon": "296"
+    },
+    {
+      "id": 769,
+      "name": "Tunique de brise",
+      "class": 4,
+      "icon": "296"
+    },
+    {
+      "id": 4020,
+      "name": "Robe en or étincelante de la bande des voleurs",
+      "class": 8,
+      "icon": "411"
+    },
+    {
+      "id": 8829,
+      "name": "Armure styxienne du fils de Thétis",
+      "class": 2,
+      "icon": "7520"
+    },
+    {
+      "id": 8831,
+      "name": "Armure des guerres navales de Joseon",
+      "class": 4,
+      "icon": "7522"
+    },
+    {
+      "id": 8833,
+      "name": "Tunique frémissante d'Avalon",
+      "class": 8,
+      "icon": "7524"
+    },
+    {
+      "id": 8835,
+      "name": "Armure du foudroyeur de Niflheim",
+      "class": 16,
+      "icon": "7526"
+    }
+  ],
+  "2": [
+    {
+      "id": 200,
+      "name": "Ruban",
+      "class": 15,
+      "icon": "200"
+    },
+    {
+      "id": 201,
+      "name": "Chapeau doux",
+      "class": 1,
+      "icon": "203"
+    },
+    {
+      "id": 202,
+      "name": "Feuilles pour camouflage",
+      "class": 1,
+      "icon": "201"
+    },
+    {
+      "id": 203,
+      "name": "Protection auditive antimandragore",
+      "class": 1,
+      "icon": "202"
+    },
+    {
+      "id": 204,
+      "name": "Chapeau hippopotame",
+      "class": 31,
+      "icon": "204"
+    },
+    {
+      "id": 215,
+      "name": "Chapeau à ramure",
+      "class": 14,
+      "icon": "215"
+    },
+    {
+      "id": 216,
+      "name": "Chapeau ventouse",
+      "class": 14,
+      "icon": "216"
+    },
+    {
+      "id": 217,
+      "name": "Ruban",
+      "class": 14,
+      "icon": "217"
+    },
+    {
+      "id": 218,
+      "name": "Antennes",
+      "class": 14,
+      "icon": "218"
+    },
+    {
+      "id": 219,
+      "name": "Bandeau de l'oracle",
+      "class": 14,
+      "icon": "219"
+    },
+    {
+      "id": 220,
+      "name": "Chapeau poisson polisson",
+      "class": 14,
+      "icon": "220"
+    },
+    {
+      "id": 221,
+      "name": "Casquette à plume",
+      "class": 14,
+      "icon": "221"
+    },
+    {
+      "id": 222,
+      "name": "Corne de kérabau",
+      "class": 14,
+      "icon": "222"
+    },
+    {
+      "id": 337,
+      "name": "Chapeau de chat [Abandonner] Impossible",
+      "class": 14,
+      "icon": "337"
+    },
+    {
+      "id": 338,
+      "name": "Chapeau d'âne [Abandonner] Impossible",
+      "class": 14,
+      "icon": "338"
+    },
+    {
+      "id": 339,
+      "name": "Chapeau de cowboy [Abandonner] Impossible",
+      "class": 14,
+      "icon": "339"
+    },
+    {
+      "id": 340,
+      "name": "Chapeau de singe [Abandonner] Impossible",
+      "class": 30,
+      "icon": "340"
+    },
+    {
+      "id": 341,
+      "name": "Chapeau d'antilope [Abandonner] Impossible",
+      "class": 14,
+      "icon": "341"
+    },
+    {
+      "id": 342,
+      "name": "Chapeau de volubilis [Abandonner] Impossible",
+      "class": 14,
+      "icon": "342"
+    },
+    {
+      "id": 343,
+      "name": "Chapeau de pingouin [Abandonner] Impossible",
+      "class": 14,
+      "icon": "343"
+    },
+    {
+      "id": 344,
+      "name": "Haut-de-forme ancien [Abandonner] Impossible",
+      "class": 14,
+      "icon": "344"
+    },
+    {
+      "id": 345,
+      "name": "Serre-tête à oreilles [Abandonner] Impossible",
+      "class": 14,
+      "icon": "345"
+    },
+    {
+      "id": 346,
+      "name": "Chapeau pot de fleurs [Abandonner] Impossible",
+      "class": 14,
+      "icon": "346"
+    },
+    {
+      "id": 426,
+      "name": "Casque de chevalier",
+      "class": 14,
+      "icon": "426"
+    },
+    {
+      "id": 428,
+      "name": "Perruque [Abandonner] Impossible",
+      "class": 30,
+      "icon": "428"
+    },
+    {
+      "id": 429,
+      "name": "Perruque punk [Abandonner] Impossible",
+      "class": 30,
+      "icon": "429"
+    },
+    {
+      "id": 441,
+      "name": "Perruque multicolore [Abandonner] Impossible",
+      "class": 30,
+      "icon": "441"
+    },
+    {
+      "id": 442,
+      "name": "Perruque punk rare [Abandonner] Impossible",
+      "class": 30,
+      "icon": "442"
+    },
+    {
+      "id": 4344,
+      "name": "Costume de la sorcière blanche Laurena [Abandonner] Impossible",
+      "class": 30,
+      "icon": "2958"
+    },
+    {
+      "id": 8795,
+      "name": "Chapeau pastèque [Abandonner] Impossible",
+      "class": 30,
+      "icon": "7399"
+    },
+    {
+      "id": 4307,
+      "name": "Ornement d'ailes de dragon [Abandonner] Impossible",
+      "class": 30,
+      "icon": "2904"
+    },
+    {
+      "id": 4699,
+      "name": "Chapeau de sorcière de Laurena [Abandonner] Impossible",
+      "class": 30,
+      "icon": "2701"
+    },
+    {
+      "id": 4847,
+      "name": "Serre-tête du héros inconnu",
+      "class": 30,
+      "icon": "985"
+    },
+    {
+      "id": 4021,
+      "name": "Chapeau du maître voleur",
+      "class": 30,
+      "icon": "894"
+    },
+    {
+      "id": 4024,
+      "name": "Casque protecteur du fantôme des sables",
+      "class": 30,
+      "icon": "917"
+    },
+    {
+      "id": 4025,
+      "name": "Casque protecteur du fantôme des vents",
+      "class": 30,
+      "icon": "917"
+    },
+    {
+      "id": 4026,
+      "name": "Casque de protection des voleurs du désert",
+      "class": 30,
+      "icon": "894"
+    },
+    {
+      "id": 4027,
+      "name": "Casque de protection des marchands",
+      "class": 30,
+      "icon": "917"
+    },
+    {
+      "id": 4028,
+      "name": "Bandeau du voleur novice",
+      "class": 30,
+      "icon": "894"
+    },
+    {
+      "id": 4022,
+      "name": "Turban du commandant",
+      "class": 30,
+      "icon": "893"
+    },
+    {
+      "id": 4023,
+      "name": "Turban du grand chef",
+      "class": 30,
+      "icon": "893"
+    },
+    {
+      "id": 4334,
+      "name": "Heaume du chevalier dragon [Abandonner] Impossible",
+      "class": 30,
+      "icon": "2948"
+    },
+    {
+      "id": 4490,
+      "name": "Corne dorée de Caligor [Abandonner] Impossible",
+      "class": 30,
+      "icon": "2657"
+    },
+    {
+      "id": 4929,
+      "name": "Casque du spectre de lave",
+      "class": 30,
+      "icon": "2429"
+    },
+    {
+      "id": 4930,
+      "name": "Casque du géant de flammes",
+      "class": 30,
+      "icon": "2430"
+    },
+    {
+      "id": 4941,
+      "name": "Casque céleste scellé",
+      "class": 2,
+      "icon": "2781"
+    },
+    {
+      "id": 4945,
+      "name": "Casque démoniaque scellé",
+      "class": 2,
+      "icon": "2782"
+    },
+    {
+      "id": 4971,
+      "name": "Chapeau céleste scellé en cuir",
+      "class": 4,
+      "icon": "2793"
+    },
+    {
+      "id": 4972,
+      "name": "Chapeau infernal scellé en cuir",
+      "class": 4,
+      "icon": "2795"
+    },
+    {
+      "id": 4973,
+      "name": "Serre-tête céleste scellé",
+      "class": 8,
+      "icon": "2794"
+    },
+    {
+      "id": 4974,
+      "name": "Serre-tête infernal scellé",
+      "class": 8,
+      "icon": "2796"
+    },
+    {
+      "id": 4975,
+      "name": "Corne d'Érénia artisanale [Abandonner] Impossible",
+      "class": 30,
+      "icon": "2791"
+    },
+    {
+      "id": 4988,
+      "name": "Chapeau à plume de Jennifer [Abandonner] Impossible",
+      "class": 30,
+      "icon": "2930"
+    },
+    {
+      "id": 4507,
+      "name": "Heaume des bêtes antiques",
+      "class": 30,
+      "icon": "4196"
+    },
+    {
+      "id": 4508,
+      "name": "Heaume cérémoniel",
+      "class": 30,
+      "icon": "4197"
+    },
+    {
+      "id": 4755,
+      "name": "Anneau céleste de Zénas [Abandonner] Impossible",
+      "class": 30,
+      "icon": "4049"
+    },
+    {
+      "id": 4841,
+      "name": "Heaume d'acier de Share",
+      "class": 2,
+      "icon": "2822"
+    },
+    {
+      "id": 4842,
+      "name": "Chapeau de cuir de la Couronne de glace",
+      "class": 4,
+      "icon": "2823"
+    },
+    {
+      "id": 4843,
+      "name": "Diadème de Mukraju",
+      "class": 8,
+      "icon": "2824"
+    },
+    {
+      "id": 4641,
+      "name": "Chapeau d'éclaireur",
+      "class": 30,
+      "icon": "4624"
+    },
+    {
+      "id": 4642,
+      "name": "Couronne à cornes draconiques",
+      "class": 30,
+      "icon": "4625"
+    },
+    {
+      "id": 8689,
+      "name": "Chapeau en feutre Mullan",
+      "class": 30,
+      "icon": "4960"
+    },
+    {
+      "id": 8837,
+      "name": "Casque styxien du fils de Thétis [Abandonner], [Commerce], [Vente] Impossible",
+      "class": 2,
+      "icon": "7528"
+    },
+    {
+      "id": 8839,
+      "name": "Casque des guerres navales de Joseon [Abandonner], [Commerce], [Vente] Impossible",
+      "class": 4,
+      "icon": "7530"
+    },
+    {
+      "id": 8841,
+      "name": "Chapeau frémissant d'Avalon [Abandonner], [Commerce], [Vente] Impossible",
+      "class": 8,
+      "icon": "7532"
+    },
+    {
+      "id": 8843,
+      "name": "Casque du tonnerre de Niflheim [Abandonner], [Commerce], [Vente] Impossible",
+      "class": 16,
+      "icon": "7534"
+    }
+  ],
+  "3": [
+    {
+      "id": 71,
+      "name": "Gants fins",
+      "class": null,
+      "icon": "71"
+    },
+    {
+      "id": 72,
+      "name": "Gants en caoutchouc",
+      "class": null,
+      "icon": "72"
+    },
+    {
+      "id": 60,
+      "name": "Gants en cuir",
+      "class": null,
+      "icon": "60"
+    },
+    {
+      "id": 716,
+      "name": "Maniques",
+      "class": null,
+      "icon": "716"
+    },
+    {
+      "id": 61,
+      "name": "Gants durables",
+      "class": null,
+      "icon": "61"
+    },
+    {
+      "id": 700,
+      "name": "Gants légers",
+      "class": null,
+      "icon": "700"
+    },
+    {
+      "id": 717,
+      "name": "Gants brillants",
+      "class": null,
+      "icon": "717"
+    },
+    {
+      "id": 701,
+      "name": "Gants en soie",
+      "class": null,
+      "icon": "701"
+    },
+    {
+      "id": 718,
+      "name": "Gants du vent",
+      "class": null,
+      "icon": "718"
+    },
+    {
+      "id": 702,
+      "name": "Gants magiques",
+      "class": null,
+      "icon": "702"
+    },
+    {
+      "id": 703,
+      "name": "Gants clairs",
+      "class": null,
+      "icon": "703"
+    },
+    {
+      "id": 315,
+      "name": "Gants des flammes",
+      "class": null,
+      "icon": "315"
+    },
+    {
+      "id": 704,
+      "name": "Gants de célérité",
+      "class": null,
+      "icon": "704"
+    },
+    {
+      "id": 325,
+      "name": "Gants indissolubles",
+      "class": null,
+      "icon": "325"
+    },
+    {
+      "id": 376,
+      "name": "Gants de bataille brillants",
+      "class": null,
+      "icon": "705"
+    },
+    {
+      "id": 377,
+      "name": "Gants de maille brillants",
+      "class": null,
+      "icon": "706"
+    },
+    {
+      "id": 378,
+      "name": "Gants de rapidité brillants",
+      "class": null,
+      "icon": "704"
+    },
+    {
+      "id": 379,
+      "name": "Gants de résistance brillants",
+      "class": null,
+      "icon": "719"
+    },
+    {
+      "id": 4833,
+      "name": "Gants du guerrier brillants (limité) [Abandonner], [Commerce], [Vente] Impossible",
+      "class": null,
+      "icon": "4830"
+    },
+    {
+      "id": 4834,
+      "name": "Gants en mailles brillants (limité) [Abandonner], [Commerce], [Vente] Impossible",
+      "class": null,
+      "icon": "4831"
+    },
+    {
+      "id": 4870,
+      "name": "Gants de rapidité brillants (limité) [Abandonner], [Commerce], [Vente] Impossible",
+      "class": null,
+      "icon": "4832"
+    },
+    {
+      "id": 4989,
+      "name": "Gants de résistance brillants (limité) [Abandonner], [Commerce], [Vente] Impossible",
+      "class": null,
+      "icon": "4833"
+    },
+    {
+      "id": 705,
+      "name": "Gants de bataille",
+      "class": null,
+      "icon": "705"
+    },
+    {
+      "id": 706,
+      "name": "Gants en mailles",
+      "class": null,
+      "icon": "706"
+    },
+    {
+      "id": 719,
+      "name": "Gants de résistance",
+      "class": null,
+      "icon": "719"
+    },
+    {
+      "id": 318,
+      "name": "Gants funestes",
+      "class": null,
+      "icon": "318"
+    },
+    {
+      "id": 707,
+      "name": "Gants d'éclair",
+      "class": null,
+      "icon": "707"
+    },
+    {
+      "id": 720,
+      "name": "Gants de l'Obscurité",
+      "class": null,
+      "icon": "720"
+    },
+    {
+      "id": 316,
+      "name": "Gant de la tempête",
+      "class": null,
+      "icon": "316"
+    },
+    {
+      "id": 774,
+      "name": "Gants de l'aube",
+      "class": null,
+      "icon": "720"
+    },
+    {
+      "id": 775,
+      "name": "Gants du feu",
+      "class": null,
+      "icon": "412"
+    },
+    {
+      "id": 380,
+      "name": "Gants de tempête brillants",
+      "class": null,
+      "icon": "316"
+    },
+    {
+      "id": 381,
+      "name": "Gants enflammés brillants",
+      "class": null,
+      "icon": "315"
+    },
+    {
+      "id": 382,
+      "name": "Gants divins brillants",
+      "class": null,
+      "icon": "317"
+    },
+    {
+      "id": 383,
+      "name": "Gants mortels brillants",
+      "class": null,
+      "icon": "318"
+    },
+    {
+      "id": 317,
+      "name": "Gants divins",
+      "class": null,
+      "icon": "317"
+    },
+    {
+      "id": 4036,
+      "name": "Gants en argent de la bande des voleurs",
+      "class": null,
+      "icon": "716"
+    },
+    {
+      "id": 4037,
+      "name": "Gants brillants de la bande des voleurs",
+      "class": null,
+      "icon": "61"
+    },
+    {
+      "id": 4038,
+      "name": "Gants maritimes",
+      "class": null,
+      "icon": "705"
+    },
+    {
+      "id": 4039,
+      "name": "Gants en cuir rocheux noirs",
+      "class": null,
+      "icon": "703"
+    },
+    {
+      "id": 4040,
+      "name": "Gants du maître voleur",
+      "class": null,
+      "icon": "707"
+    },
+    {
+      "id": 4844,
+      "name": "Honorable : gants du maître voleur",
+      "class": null,
+      "icon": "707"
+    },
+    {
+      "id": 8753,
+      "name": "Gants en argent de la bande des voleurs",
+      "class": null,
+      "icon": "716"
+    },
+    {
+      "id": 412,
+      "name": "Gants de Roobraph",
+      "class": null,
+      "icon": "412"
+    },
+    {
+      "id": 4329,
+      "name": "Gants du chevalier dragon",
+      "class": null,
+      "icon": "2940"
+    },
+    {
+      "id": 4931,
+      "name": "Gants de Magmaros",
+      "class": null,
+      "icon": "2431"
+    },
+    {
+      "id": 4932,
+      "name": "Gant de Valakus",
+      "class": null,
+      "icon": "2432"
+    },
+    {
+      "id": 413,
+      "name": "Gants de l'exécuteur",
+      "class": null,
+      "icon": "413"
+    },
+    {
+      "id": 4967,
+      "name": "Gants célestes scellés",
+      "class": null,
+      "icon": "2770"
+    },
+    {
+      "id": 4969,
+      "name": "Gants infernaux scellés",
+      "class": null,
+      "icon": "2772"
+    },
+    {
+      "id": 4548,
+      "name": "Gants du roi des esprits (copie)",
+      "class": null,
+      "icon": "4325"
+    },
+    {
+      "id": 4549,
+      "name": "Gants des bêtes antiques (copie)",
+      "class": null,
+      "icon": "4326"
+    },
+    {
+      "id": 4509,
+      "name": "Gants des bêtes antiques",
+      "class": null,
+      "icon": "4198"
+    },
+    {
+      "id": 4510,
+      "name": "Gants du roi des esprits",
+      "class": null,
+      "icon": "4199"
+    },
+    {
+      "id": 4644,
+      "name": "Gants de seigneur dragon [Abandonner], [Commerce], [Vente] Impossible",
+      "class": 30,
+      "icon": "4665"
+    },
+    {
+      "id": 8754,
+      "name": "Gants de seigneur dragon [Abandonner], [Commerce], [Vente] Impossible",
+      "class": 30,
+      "icon": "4665"
+    },
+    {
+      "id": 4643,
+      "name": "Gants de dragon volant",
+      "class": 30,
+      "icon": "4663"
+    },
+    {
+      "id": 8653,
+      "name": "Gants à vapeur [Abandonner], [Commerce], [Vente] Impossible",
+      "class": 30,
+      "icon": "4962"
+    },
+    {
+      "id": 8844,
+      "name": "Gants de l'aventurier dimensionnel [Abandonner], [Commerce], [Vente] Impossible",
+      "class": 30,
+      "icon": "7535"
+    },
+    {
+      "id": 8845,
+      "name": "Gants de Nézarun",
+      "class": 30,
+      "icon": "7536"
+    },
+    {
+      "id": 8875,
+      "name": "Gants démesurés de Nézarun",
+      "class": 30,
+      "icon": "7603"
+    }
+  ],
+  "4": [
+    {
+      "id": 62,
+      "name": "Chaussures d'Aventurier",
+      "class": null,
+      "icon": "62"
+    },
+    {
+      "id": 63,
+      "name": "Chaussures à talons hauts",
+      "class": null,
+      "icon": "63"
+    },
+    {
+      "id": 64,
+      "name": "Chaussures en cuir",
+      "class": null,
+      "icon": "64"
+    },
+    {
+      "id": 721,
+      "name": "Chaussures noires",
+      "class": null,
+      "icon": "721"
+    },
+    {
+      "id": 65,
+      "name": "Patin à roulettes",
+      "class": null,
+      "icon": "65"
+    },
+    {
+      "id": 708,
+      "name": "Bottes légères",
+      "class": null,
+      "icon": "708"
+    },
+    {
+      "id": 709,
+      "name": "Chaussures de célérité",
+      "class": null,
+      "icon": "709"
+    },
+    {
+      "id": 722,
+      "name": "Chaussures de l'Eau",
+      "class": null,
+      "icon": "722"
+    },
+    {
+      "id": 710,
+      "name": "Bottes en chaîne",
+      "class": null,
+      "icon": "710"
+    },
+    {
+      "id": 711,
+      "name": "Bottes en cuir",
+      "class": null,
+      "icon": "711"
+    },
+    {
+      "id": 723,
+      "name": "Bottes punks",
+      "class": null,
+      "icon": "723"
+    },
+    {
+      "id": 712,
+      "name": "Bottes en acier",
+      "class": null,
+      "icon": "712"
+    },
+    {
+      "id": 321,
+      "name": "Chaussures de l'illumination",
+      "class": null,
+      "icon": "321"
+    },
+    {
+      "id": 384,
+      "name": "Bottes de protection brillantes",
+      "class": null,
+      "icon": "713"
+    },
+    {
+      "id": 385,
+      "name": "Bottes en métal lourd brillantes",
+      "class": null,
+      "icon": "715"
+    },
+    {
+      "id": 386,
+      "name": "Bottes du vent brillantes",
+      "class": null,
+      "icon": "714"
+    },
+    {
+      "id": 387,
+      "name": "Bottes d'acier brillantes",
+      "class": null,
+      "icon": "712"
+    },
+    {
+      "id": 4995,
+      "name": "Bottes de protection brillantes (limité) [Abandonner], [Commerce], [Vente] Impossible",
+      "class": null,
+      "icon": "4834"
+    },
+    {
+      "id": 4996,
+      "name": "Bottes en métal lourd brillantes (limité) [Abandonner], [Commerce], [Vente] Impossible",
+      "class": null,
+      "icon": "4835"
+    },
+    {
+      "id": 4997,
+      "name": "Bottes du vent brillantes (limité) [Abandonner], [Commerce], [Vente] Impossible",
+      "class": null,
+      "icon": "4836"
+    },
+    {
+      "id": 4998,
+      "name": "Bottes d'acier brillantes (limité) [Abandonner], [Commerce], [Vente] Impossible",
+      "class": null,
+      "icon": "4837"
+    },
+    {
+      "id": 713,
+      "name": "Bottes de protection",
+      "class": null,
+      "icon": "713"
+    },
+    {
+      "id": 724,
+      "name": "Bottes à flammes",
+      "class": null,
+      "icon": "724"
+    },
+    {
+      "id": 714,
+      "name": "Bottes du vent",
+      "class": null,
+      "icon": "714"
+    },
+    {
+      "id": 715,
+      "name": "Bottes lourdes en métal",
+      "class": null,
+      "icon": "715"
+    },
+    {
+      "id": 320,
+      "name": "Chaussures des vagues",
+      "class": null,
+      "icon": "320"
+    },
+    {
+      "id": 725,
+      "name": "Bottes abyssales",
+      "class": null,
+      "icon": "725"
+    },
+    {
+      "id": 772,
+      "name": "Bottes de minuit",
+      "class": null,
+      "icon": "725"
+    },
+    {
+      "id": 773,
+      "name": "Chaussures d'âme",
+      "class": null,
+      "icon": "414"
+    },
+    {
+      "id": 319,
+      "name": "Chaussures du feu",
+      "class": null,
+      "icon": "319"
+    },
+    {
+      "id": 388,
+      "name": "Bottes de vague brillantes",
+      "class": null,
+      "icon": "320"
+    },
+    {
+      "id": 389,
+      "name": "Bottes de feu brillantes",
+      "class": null,
+      "icon": "319"
+    },
+    {
+      "id": 390,
+      "name": "Souliers de l'illumination brillants",
+      "class": null,
+      "icon": "321"
+    },
+    {
+      "id": 391,
+      "name": "Chaussures brillantes de l'Obscurité",
+      "class": null,
+      "icon": "322"
+    },
+    {
+      "id": 322,
+      "name": "Chaussures de l'Obscurité",
+      "class": null,
+      "icon": "322"
+    },
+    {
+      "id": 4041,
+      "name": "Chaussures en argent de la bande des voleurs",
+      "class": null,
+      "icon": "710"
+    },
+    {
+      "id": 4042,
+      "name": "Chaussures brillantes de la bande des voleurs",
+      "class": null,
+      "icon": "711"
+    },
+    {
+      "id": 4043,
+      "name": "Bottes maritimes",
+      "class": null,
+      "icon": "65"
+    },
+    {
+      "id": 4044,
+      "name": "Bottes en cuir rocheux noirs",
+      "class": null,
+      "icon": "721"
+    },
+    {
+      "id": 4045,
+      "name": "Chaussures du maître voleur",
+      "class": null,
+      "icon": "722"
+    },
+    {
+      "id": 4845,
+      "name": "Honorable : chaussures du maître voleur",
+      "class": null,
+      "icon": "722"
+    },
+    {
+      "id": 8752,
+      "name": "Chaussures en argent de la bande des voleurs",
+      "class": null,
+      "icon": "710"
+    },
+    {
+      "id": 414,
+      "name": "Souliers nébuleux",
+      "class": null,
+      "icon": "414"
+    },
+    {
+      "id": 4335,
+      "name": "Chaussures du chevalier dragon [Abandonner] Impossible",
+      "class": null,
+      "icon": "2949"
+    },
+    {
+      "id": 4933,
+      "name": "Bottes du géant de flammes",
+      "class": null,
+      "icon": "2433"
+    },
+    {
+      "id": 4934,
+      "name": "Bottes de Kertos",
+      "class": null,
+      "icon": "2434"
+    },
+    {
+      "id": 415,
+      "name": "Bottes de Kuru'kelron",
+      "class": null,
+      "icon": "415"
+    },
+    {
+      "id": 4550,
+      "name": "Chaussures des bêtes antiques (copie)",
+      "class": null,
+      "icon": "4327"
+    },
+    {
+      "id": 4551,
+      "name": "Chaussures du roi des esprits (copie)",
+      "class": null,
+      "icon": "4328"
+    },
+    {
+      "id": 4968,
+      "name": "Chaussures célestes scellées",
+      "class": null,
+      "icon": "2771"
+    },
+    {
+      "id": 4970,
+      "name": "Chaussures infernales scellées",
+      "class": null,
+      "icon": "2773"
+    },
+    {
+      "id": 4976,
+      "name": "Talons hauts luxueux de Zénas [Abandonner] Impossible",
+      "class": null,
+      "icon": "2792"
+    },
+    {
+      "id": 4839,
+      "name": "Chaussures de Fernon",
+      "class": null,
+      "icon": "2826"
+    },
+    {
+      "id": 4511,
+      "name": "Chaussures des bêtes antiques",
+      "class": null,
+      "icon": "4200"
+    },
+    {
+      "id": 4512,
+      "name": "Chaussures du roi des esprits",
+      "class": null,
+      "icon": "4201"
+    },
+    {
+      "id": 4646,
+      "name": "Chaussures de seigneur dragon [Abandonner], [Commerce], [Vente] Impossible",
+      "class": 30,
+      "icon": "4664"
+    },
+    {
+      "id": 8755,
+      "name": "Chaussures de seigneur dragon [Abandonner], [Commerce], [Vente] Impossible",
+      "class": 30,
+      "icon": "4664"
+    },
+    {
+      "id": 4645,
+      "name": "Chaussures en os de dragon légères",
+      "class": 30,
+      "icon": "4662"
+    },
+    {
+      "id": 8806,
+      "name": "Chaussures d'engrenage rouillées",
+      "class": null,
+      "icon": "7488"
+    },
+    {
+      "id": 8655,
+      "name": "Chaussures à vapeur [Abandonner], [Commerce], [Vente] Impossible",
+      "class": 30,
+      "icon": "4964"
+    },
+    {
+      "id": 8846,
+      "name": "Chaussures de l'aventurier dimensionnel [Abandonner], [Commerce], [Vente] Impossible",
+      "class": 30,
+      "icon": "7537"
+    },
+    {
+      "id": 8847,
+      "name": "Chaussures de Nézarun",
+      "class": 30,
+      "icon": "7538"
+    },
+    {
+      "id": 8876,
+      "name": "Chaussures démesurées de Nézarun",
+      "class": 30,
+      "icon": "7604"
+    }
+  ],
+  "5": [
+    {
+      "id": 8,
+      "name": "Catapulte en bois",
+      "class": 1,
+      "icon": "8"
+    },
+    {
+      "id": 9,
+      "name": "Catapulte en bois puissante",
+      "class": 1,
+      "icon": "9"
+    },
+    {
+      "id": 10,
+      "name": "Catapulte en bois d'apprenti",
+      "class": 1,
+      "icon": "10"
+    },
+    {
+      "id": 68,
+      "name": "Arbalète d'apprenti",
+      "class": 2,
+      "icon": "68"
+    },
+    {
+      "id": 78,
+      "name": "Dague d'apprenti",
+      "class": 4,
+      "icon": "78"
+    },
+    {
+      "id": 86,
+      "name": "Arme enchantée d'apprenti",
+      "class": 8,
+      "icon": "86"
+    },
+    {
+      "id": 11,
+      "name": "Catapulte d'Aventurier",
+      "class": 1,
+      "icon": "11"
+    },
+    {
+      "id": 69,
+      "name": "Arbalète en chêne",
+      "class": 2,
+      "icon": "69"
+    },
+    {
+      "id": 79,
+      "name": "Dague",
+      "class": 4,
+      "icon": "79"
+    },
+    {
+      "id": 87,
+      "name": "Petite arme enchantée",
+      "class": 8,
+      "icon": "87"
+    },
+    {
+      "id": 156,
+      "name": "Arbalète de combat",
+      "class": 2,
+      "icon": "156"
+    },
+    {
+      "id": 158,
+      "name": "Dague de montagnard",
+      "class": 4,
+      "icon": "158"
+    },
+    {
+      "id": 160,
+      "name": "Arme enchantée normale",
+      "class": 8,
+      "icon": "160"
+    },
+    {
+      "id": 70,
+      "name": "Arbalète féérique",
+      "class": 2,
+      "icon": "70"
+    },
+    {
+      "id": 80,
+      "name": "Dague de torture",
+      "class": 4,
+      "icon": "80"
+    },
+    {
+      "id": 88,
+      "name": "Arme enchantée magique",
+      "class": 8,
+      "icon": "88"
+    },
+    {
+      "id": 73,
+      "name": "Arbalète d'acier",
+      "class": 2,
+      "icon": "73"
+    },
+    {
+      "id": 81,
+      "name": "Dague noble",
+      "class": 4,
+      "icon": "81"
+    },
+    {
+      "id": 89,
+      "name": "Arme enchantée dorée",
+      "class": 8,
+      "icon": "89"
+    },
+    {
+      "id": 74,
+      "name": "Arbalète magistrale",
+      "class": 2,
+      "icon": "74"
+    },
+    {
+      "id": 82,
+      "name": "Dague magistrale",
+      "class": 4,
+      "icon": "82"
+    },
+    {
+      "id": 90,
+      "name": "Arme enchantée chef-d'œuvre",
+      "class": 8,
+      "icon": "90"
+    },
+    {
+      "id": 289,
+      "name": "Tranchoir",
+      "class": 4,
+      "icon": "289"
+    },
+    {
+      "id": 291,
+      "name": "Arbalète Winslet",
+      "class": 2,
+      "icon": "291"
+    },
+    {
+      "id": 293,
+      "name": "Arme enchantée paff",
+      "class": 8,
+      "icon": "293"
+    },
+    {
+      "id": 75,
+      "name": "Arbalète de l'Obscurité",
+      "class": 2,
+      "icon": "75"
+    },
+    {
+      "id": 83,
+      "name": "Dague en laiton",
+      "class": 4,
+      "icon": "83"
+    },
+    {
+      "id": 91,
+      "name": "Arme enchantée en laiton",
+      "class": 8,
+      "icon": "91"
+    },
+    {
+      "id": 157,
+      "name": "Arbalète de siège",
+      "class": 2,
+      "icon": "157"
+    },
+    {
+      "id": 159,
+      "name": "Dague poignard",
+      "class": 4,
+      "icon": "159"
+    },
+    {
+      "id": 161,
+      "name": "Arme enchantée en bronze",
+      "class": 8,
+      "icon": "161"
+    },
+    {
+      "id": 76,
+      "name": "Arbalète en hêtre",
+      "class": 2,
+      "icon": "76"
+    },
+    {
+      "id": 84,
+      "name": "Dague à rubis",
+      "class": 4,
+      "icon": "84"
+    },
+    {
+      "id": 92,
+      "name": "Noble arme enchantée",
+      "class": 8,
+      "icon": "92"
+    },
+    {
+      "id": 77,
+      "name": "Arbalète du courage",
+      "class": 2,
+      "icon": "77"
+    },
+    {
+      "id": 85,
+      "name": "Dague de l'esprit",
+      "class": 4,
+      "icon": "85"
+    },
+    {
+      "id": 93,
+      "name": "Arme enchantée de l'Obscurité",
+      "class": 8,
+      "icon": "93"
+    },
+    {
+      "id": 760,
+      "name": "Arbalète elfique",
+      "class": 2,
+      "icon": "77"
+    },
+    {
+      "id": 762,
+      "name": "Dague elfique",
+      "class": 4,
+      "icon": "85"
+    },
+    {
+      "id": 764,
+      "name": "Arme enchantée fantomatique",
+      "class": 8,
+      "icon": "93"
+    },
+    {
+      "id": 290,
+      "name": "Kriss",
+      "class": 4,
+      "icon": "290"
+    },
+    {
+      "id": 292,
+      "name": "Arbalète Balenty",
+      "class": 2,
+      "icon": "292"
+    },
+    {
+      "id": 294,
+      "name": "Arme enchantée de la Lumière",
+      "class": 8,
+      "icon": "294"
+    },
+    {
+      "id": 761,
+      "name": "Baliste",
+      "class": 2,
+      "icon": "292"
+    },
+    {
+      "id": 763,
+      "name": "Kriss de l'Obscurité",
+      "class": 4,
+      "icon": "290"
+    },
+    {
+      "id": 765,
+      "name": "Arme enchantée étoilée",
+      "class": 8,
+      "icon": "294"
+    },
+    {
+      "id": 402,
+      "name": "Bergarce",
+      "class": 2,
+      "icon": "402"
+    },
+    {
+      "id": 405,
+      "name": "Écaracci",
+      "class": 4,
+      "icon": "405"
+    },
+    {
+      "id": 408,
+      "name": "Rénobir",
+      "class": 8,
+      "icon": "408"
+    },
+    {
+      "id": 4006,
+      "name": "Arbalète du vagabond du désert",
+      "class": 2,
+      "icon": "291"
+    },
+    {
+      "id": 4008,
+      "name": "Dague du scorpion du désert",
+      "class": 4,
+      "icon": "289"
+    },
+    {
+      "id": 4010,
+      "name": "Arme enchantée des mages du désert",
+      "class": 8,
+      "icon": "293"
+    },
+    {
+      "id": 4758,
+      "name": "Insigne de bronze avec un cheval",
+      "class": 16,
+      "icon": "4061"
+    },
+    {
+      "id": 4999,
+      "name": "Insigne de bronze avec un cheval [Abandonner], [Commerce], [Vente] Impossible",
+      "class": 16,
+      "icon": "4061"
+    },
+    {
+      "id": 4007,
+      "name": "Arbalète du grand chef",
+      "class": 2,
+      "icon": "352"
+    },
+    {
+      "id": 4009,
+      "name": "Couteau du grand chef",
+      "class": 4,
+      "icon": "351"
+    },
+    {
+      "id": 4011,
+      "name": "Arme enchantée du grand chef",
+      "class": 8,
+      "icon": "355"
+    },
+    {
+      "id": 4759,
+      "name": "Insigne de bronze avec deux chevaux",
+      "class": 16,
+      "icon": "4062"
+    },
+    {
+      "id": 4764,
+      "name": "Insigne d'or avec un cheval",
+      "class": 16,
+      "icon": "4067"
+    },
+    {
+      "id": 4911,
+      "name": "Arbalète du héros oublié +10",
+      "class": 2,
+      "icon": "2411"
+    },
+    {
+      "id": 4914,
+      "name": "Dague du héros oublié +10",
+      "class": 4,
+      "icon": "2414"
+    },
+    {
+      "id": 4917,
+      "name": "Arme enchantée du héros oublié +10",
+      "class": 8,
+      "icon": "2417"
+    },
+    {
+      "id": 4857,
+      "name": "Honorable : dague de canine bleue de Calvina",
+      "class": 4,
+      "icon": "290"
+    },
+    {
+      "id": 4859,
+      "name": "Honorable : arme magique de corne bleue de Calvina",
+      "class": 8,
+      "icon": "294"
+    },
+    {
+      "id": 4861,
+      "name": "Honorable : arbalète d'épine bleue de Calvina",
+      "class": 2,
+      "icon": "292"
+    },
+    {
+      "id": 4760,
+      "name": "Insigne de bronze avec trois chevaux",
+      "class": 16,
+      "icon": "4063"
+    },
+    {
+      "id": 4765,
+      "name": "Insigne d'or avec deux chevaux",
+      "class": 16,
+      "icon": "4068"
+    },
+    {
+      "id": 4909,
+      "name": "Griffe du phénix",
+      "class": 2,
+      "icon": "2409"
+    },
+    {
+      "id": 4912,
+      "name": "Canine du chien de braise",
+      "class": 4,
+      "icon": "2412"
+    },
+    {
+      "id": 4915,
+      "name": "Souffle de Valaket",
+      "class": 8,
+      "icon": "2415"
+    },
+    {
+      "id": 351,
+      "name": "Tranchoir héroïque",
+      "class": 4,
+      "icon": "351"
+    },
+    {
+      "id": 352,
+      "name": "Arbalète de héros",
+      "class": 2,
+      "icon": "352"
+    },
+    {
+      "id": 355,
+      "name": "Arme enchantée héroïque",
+      "class": 8,
+      "icon": "355"
+    },
+    {
+      "id": 4761,
+      "name": "Insigne d'argent avec un cheval",
+      "class": 16,
+      "icon": "4064"
+    },
+    {
+      "id": 4766,
+      "name": "Insigne d'or avec trois chevaux",
+      "class": 16,
+      "icon": "4069"
+    },
+    {
+      "id": 4910,
+      "name": "Griffe de Graal",
+      "class": 2,
+      "icon": "2410"
+    },
+    {
+      "id": 4913,
+      "name": "Canine de Kertos",
+      "class": 4,
+      "icon": "2413"
+    },
+    {
+      "id": 4916,
+      "name": "Souffle de Valakus",
+      "class": 8,
+      "icon": "2416"
+    },
+    {
+      "id": 4762,
+      "name": "Insigne d'argent avec deux chevaux",
+      "class": 16,
+      "icon": "4065"
+    },
+    {
+      "id": 947,
+      "name": "Arbalète d'épine bleue de Calvina",
+      "class": 2,
+      "icon": "292"
+    },
+    {
+      "id": 948,
+      "name": "Dague de canine bleue de Calvina",
+      "class": 4,
+      "icon": "290"
+    },
+    {
+      "id": 949,
+      "name": "Arme enchantée de la corne bleue de Calvina",
+      "class": 8,
+      "icon": "294"
+    },
+    {
+      "id": 4863,
+      "name": "Honorable : arbalète du grand chef",
+      "class": 2,
+      "icon": "402"
+    },
+    {
+      "id": 4864,
+      "name": "Honorable : arme enchantée du grand chef",
+      "class": 8,
+      "icon": "408"
+    },
+    {
+      "id": 4865,
+      "name": "Honorable : couteau du grand chef",
+      "class": 4,
+      "icon": "405"
+    },
+    {
+      "id": 4763,
+      "name": "Insigne d'argent avec trois chevaux",
+      "class": 16,
+      "icon": "4066"
+    },
+    {
+      "id": 4459,
+      "name": "Arbalète de chef de guerre orc",
+      "class": 2,
+      "icon": "4172"
+    },
+    {
+      "id": 4466,
+      "name": "Dague d'assassin orc",
+      "class": 4,
+      "icon": "4175"
+    },
+    {
+      "id": 4469,
+      "name": "Arme enchantée orc",
+      "class": 8,
+      "icon": "4178"
+    },
+    {
+      "id": 4472,
+      "name": "Marque de jade en sekrass",
+      "class": 16,
+      "icon": "4181"
+    },
+    {
+      "id": 4767,
+      "name": "Insigne du dragon bleu magique",
+      "class": 16,
+      "icon": "4070"
+    },
+    {
+      "id": 4768,
+      "name": "Insigne du tigre blanc magique",
+      "class": 16,
+      "icon": "4071"
+    },
+    {
+      "id": 4769,
+      "name": "Insigne du phœnix rouge magique",
+      "class": 16,
+      "icon": "4072"
+    },
+    {
+      "id": 4770,
+      "name": "Insigne de la tortue noire magique",
+      "class": 16,
+      "icon": "4073"
+    },
+    {
+      "id": 4955,
+      "name": "Arbalète céleste scellée",
+      "class": 2,
+      "icon": "2762"
+    },
+    {
+      "id": 4956,
+      "name": "Arme enchantée céleste scellée",
+      "class": 8,
+      "icon": "2763"
+    },
+    {
+      "id": 4957,
+      "name": "Dague céleste sacrée",
+      "class": 4,
+      "icon": "2764"
+    },
+    {
+      "id": 4961,
+      "name": "Arbalète infernale scellée",
+      "class": 2,
+      "icon": "2780"
+    },
+    {
+      "id": 4962,
+      "name": "Arme enchantée infernale scellée",
+      "class": 8,
+      "icon": "2765"
+    },
+    {
+      "id": 4963,
+      "name": "Dague infernale scellée",
+      "class": 4,
+      "icon": "2766"
+    },
+    {
+      "id": 4978,
+      "name": "Arbalète brillante de Luminiel",
+      "class": 2,
+      "icon": "2815"
+    },
+    {
+      "id": 4979,
+      "name": "Arme enchantée du Lorten souterrain",
+      "class": 8,
+      "icon": "2818"
+    },
+    {
+      "id": 4980,
+      "name": "La lame gauche de Krem brisé",
+      "class": 4,
+      "icon": "2814"
+    },
+    {
+      "id": 4460,
+      "name": "Arbalète au loa lion",
+      "class": 2,
+      "icon": "4173"
+    },
+    {
+      "id": 4467,
+      "name": "Dague au loa chauve-souris",
+      "class": 4,
+      "icon": "4176"
+    },
+    {
+      "id": 4470,
+      "name": "Arme enchantée au loa serpent",
+      "class": 8,
+      "icon": "4179"
+    },
+    {
+      "id": 4473,
+      "name": "Marque de jade en sekrass bénie",
+      "class": 16,
+      "icon": "4182"
+    },
+    {
+      "id": 4465,
+      "name": "Arbalète du roi des bêtes",
+      "class": 2,
+      "icon": "4174"
+    },
+    {
+      "id": 4468,
+      "name": "Couteau de Bélial",
+      "class": 4,
+      "icon": "4177"
+    },
+    {
+      "id": 4471,
+      "name": "Flamme éternelle du roi des esprits",
+      "class": 8,
+      "icon": "4180"
+    },
+    {
+      "id": 4474,
+      "name": "Marque au loa ours",
+      "class": 16,
+      "icon": "4183"
+    },
+    {
+      "id": 4625,
+      "name": "Arbalète draconienne",
+      "class": 2,
+      "icon": "4634"
+    },
+    {
+      "id": 4627,
+      "name": "Dague draconienne",
+      "class": 4,
+      "icon": "4636"
+    },
+    {
+      "id": 4629,
+      "name": "Arme enchantée draconienne",
+      "class": 8,
+      "icon": "4638"
+    },
+    {
+      "id": 4631,
+      "name": "Jade draconique",
+      "class": 16,
+      "icon": "4640"
+    },
+    {
+      "id": 4626,
+      "name": "Arbalète de cristal draconique",
+      "class": 2,
+      "icon": "4635"
+    },
+    {
+      "id": 4628,
+      "name": "Dague d'os de dragon",
+      "class": 4,
+      "icon": "4637"
+    },
+    {
+      "id": 4630,
+      "name": "Arme enchantée du givre",
+      "class": 8,
+      "icon": "4639"
+    },
+    {
+      "id": 4632,
+      "name": "Œil draconique",
+      "class": 16,
+      "icon": "4641"
+    },
+    {
+      "id": 8635,
+      "name": "Arbalète d'engrenage",
+      "class": 2,
+      "icon": "4936"
+    },
+    {
+      "id": 8637,
+      "name": "Dague d'engrenage",
+      "class": 4,
+      "icon": "4938"
+    },
+    {
+      "id": 8639,
+      "name": "Pistolet d'engrenage",
+      "class": 8,
+      "icon": "4940"
+    },
+    {
+      "id": 8641,
+      "name": "Bouclier argenté d'engrenage",
+      "class": 16,
+      "icon": "4942"
+    },
+    {
+      "id": 8636,
+      "name": "Fusil arbalète",
+      "class": 2,
+      "icon": "4937"
+    },
+    {
+      "id": 8638,
+      "name": "Dague à vapeur à cartouche",
+      "class": 4,
+      "icon": "4939"
+    },
+    {
+      "id": 8640,
+      "name": "Pistolet à énergie",
+      "class": 8,
+      "icon": "4941"
+    },
+    {
+      "id": 8642,
+      "name": "Bouclier doré d'engrenage",
+      "class": 16,
+      "icon": "4943"
+    },
+    {
+      "id": 8820,
+      "name": "Arbalète d'Achille",
+      "class": 2,
+      "icon": "7511"
+    },
+    {
+      "id": 8822,
+      "name": "Dague de l'amiral Yi",
+      "class": 4,
+      "icon": "7513"
+    },
+    {
+      "id": 8824,
+      "name": "Arme enchantée de Merlin",
+      "class": 8,
+      "icon": "7515"
+    },
+    {
+      "id": 8826,
+      "name": "Bouclier couvert de runes",
+      "class": 16,
+      "icon": "7517"
+    },
+    {
+      "id": 8821,
+      "name": "Arbalète styxienne du fils de Thétis",
+      "class": 2,
+      "icon": "7512"
+    },
+    {
+      "id": 8823,
+      "name": "Dague des guerres navales de Joseon",
+      "class": 4,
+      "icon": "7514"
+    },
+    {
+      "id": 8825,
+      "name": "Arme enchantée frémissante d'Avalon",
+      "class": 8,
+      "icon": "7516"
+    },
+    {
+      "id": 8827,
+      "name": "Bouclier runique de Thor",
+      "class": 16,
+      "icon": "7518"
+    }
+  ],
+  "6": [
+    {
+      "id": 507,
+      "name": "Collier de mano noble",
+      "class": null,
+      "icon": "507"
+    },
+    {
+      "id": 514,
+      "name": "Collier œil de chat noble",
+      "class": null,
+      "icon": "514"
+    },
+    {
+      "id": 517,
+      "name": "Collier œil de chat luxueux",
+      "class": null,
+      "icon": "517"
+    },
+    {
+      "id": 309,
+      "name": "Collier en cristal antique",
+      "class": null,
+      "icon": "309"
+    },
+    {
+      "id": 522,
+      "name": "Collier en cristal noble",
+      "class": null,
+      "icon": "522"
+    },
+    {
+      "id": 312,
+      "name": "Collier à diamant antique",
+      "class": null,
+      "icon": "312"
+    },
+    {
+      "id": 530,
+      "name": "Collier à diamant noble",
+      "class": null,
+      "icon": "530"
+    },
+    {
+      "id": 533,
+      "name": "Collier à diamant luxueux",
+      "class": null,
+      "icon": "533"
+    },
+    {
+      "id": 303,
+      "name": "Collier d'orichalque noble",
+      "class": null,
+      "icon": "303"
+    },
+    {
+      "id": 304,
+      "name": "Collier d'orichalque antique",
+      "class": null,
+      "icon": "304"
+    },
+    {
+      "id": 416,
+      "name": "Collier de Diareason",
+      "class": null,
+      "icon": "416"
+    },
+    {
+      "id": 777,
+      "name": "Collier d'améthyste",
+      "class": null,
+      "icon": "416"
+    },
+    {
+      "id": 417,
+      "name": "Collier de Rudiselrun",
+      "class": null,
+      "icon": "417"
+    },
+    {
+      "id": 4331,
+      "name": "Collier avec l'énergie de la liche",
+      "class": null,
+      "icon": "2945"
+    },
+    {
+      "id": 4939,
+      "name": "Collier du chien de braise",
+      "class": null,
+      "icon": "2439"
+    },
+    {
+      "id": 4940,
+      "name": "Collier de Kertos",
+      "class": null,
+      "icon": "2440"
+    },
+    {
+      "id": 418,
+      "name": "Collier de Kedenoss",
+      "class": null,
+      "icon": "418"
+    },
+    {
+      "id": 4523,
+      "name": "Collier de jade",
+      "class": null,
+      "icon": "4212"
+    },
+    {
+      "id": 4524,
+      "name": "Collier d'obsidienne",
+      "class": null,
+      "icon": "4213"
+    },
+    {
+      "id": 4656,
+      "name": "Collier d'os de tricératops",
+      "class": 30,
+      "icon": "4643"
+    },
+    {
+      "id": 8667,
+      "name": "Collier en cuivre de Mullan",
+      "class": null,
+      "icon": "4976"
+    },
+    {
+      "id": 8668,
+      "name": "Collier en argent de Mullan",
+      "class": null,
+      "icon": "4977"
+    },
+    {
+      "id": 4655,
+      "name": "Collier portebonheur draconien",
+      "class": 30,
+      "icon": "4642"
+    },
+    {
+      "id": 4657,
+      "name": "Collier draconique",
+      "class": 30,
+      "icon": "4644"
+    },
+    {
+      "id": 8669,
+      "name": "Collier d'engrenage",
+      "class": null,
+      "icon": "4978"
+    },
+    {
+      "id": 8671,
+      "name": "Collier élémentaire",
+      "class": null,
+      "icon": "4979"
+    },
+    {
+      "id": 8854,
+      "name": "Collier de l'aventurier dimensionnel",
+      "class": 30,
+      "icon": "7545"
+    },
+    {
+      "id": 8856,
+      "name": "Collier à dimensiomant",
+      "class": 30,
+      "icon": "7547"
+    }
+  ],
+  "7": [
+    {
+      "id": 508,
+      "name": "Bague de mano noble",
+      "class": null,
+      "icon": "508"
+    },
+    {
+      "id": 310,
+      "name": "Bague en cristal antique",
+      "class": null,
+      "icon": "310"
+    },
+    {
+      "id": 523,
+      "name": "Bague en cristal noble",
+      "class": null,
+      "icon": "523"
+    },
+    {
+      "id": 525,
+      "name": "Bague en cristal luxueuse",
+      "class": null,
+      "icon": "525"
+    },
+    {
+      "id": 313,
+      "name": "Anneau en diamant antique",
+      "class": null,
+      "icon": "313"
+    },
+    {
+      "id": 531,
+      "name": "Anneau à diamant noble",
+      "class": null,
+      "icon": "531"
+    },
+    {
+      "id": 534,
+      "name": "Anneau à diamant luxueux",
+      "class": null,
+      "icon": "534"
+    },
+    {
+      "id": 305,
+      "name": "Bague d'orichalque noble",
+      "class": null,
+      "icon": "305"
+    },
+    {
+      "id": 781,
+      "name": "Anneau de pleine lune",
+      "class": null,
+      "icon": "305"
+    },
+    {
+      "id": 306,
+      "name": "Bague d'orichalque antique",
+      "class": null,
+      "icon": "306"
+    },
+    {
+      "id": 419,
+      "name": "Anneau de Diareason",
+      "class": null,
+      "icon": "419"
+    },
+    {
+      "id": 420,
+      "name": "Anneau de Rudiselrun",
+      "class": null,
+      "icon": "420"
+    },
+    {
+      "id": 4332,
+      "name": "Anneau avec l'énergie de la liche",
+      "class": null,
+      "icon": "2947"
+    },
+    {
+      "id": 4937,
+      "name": "Anneau du phénix",
+      "class": null,
+      "icon": "2437"
+    },
+    {
+      "id": 4938,
+      "name": "Anneau de Graal",
+      "class": null,
+      "icon": "2438"
+    },
+    {
+      "id": 421,
+      "name": "Anneau de Kedenoss",
+      "class": null,
+      "icon": "421"
+    },
+    {
+      "id": 4520,
+      "name": "Anneau d'obsidienne",
+      "class": null,
+      "icon": "4209"
+    },
+    {
+      "id": 4517,
+      "name": "Anneau de jade des esprits",
+      "class": null,
+      "icon": "4206"
+    },
+    {
+      "id": 4651,
+      "name": "Anneau céleste",
+      "class": 30,
+      "icon": "4646"
+    },
+    {
+      "id": 4653,
+      "name": "Anneau de griffe draconique",
+      "class": 30,
+      "icon": "4649"
+    },
+    {
+      "id": 8664,
+      "name": "Anneau d'engrenage",
+      "class": null,
+      "icon": "4974"
+    },
+    {
+      "id": 8666,
+      "name": "Anneau élémentaire",
+      "class": null,
+      "icon": "4975"
+    },
+    {
+      "id": 8851,
+      "name": "Bague de l'aventurier dimensionnel",
+      "class": 30,
+      "icon": "7542"
+    },
+    {
+      "id": 8853,
+      "name": "Anneau à dimensiomant",
+      "class": 30,
+      "icon": "7544"
+    }
+  ],
+  "8": [
+    {
+      "id": 509,
+      "name": "Bracelet de mano noble",
+      "class": null,
+      "icon": "509"
+    },
+    {
+      "id": 510,
+      "name": "Bracelet de mano luxueux",
+      "class": null,
+      "icon": "510"
+    },
+    {
+      "id": 516,
+      "name": "Bracelet œil de chat noble",
+      "class": null,
+      "icon": "516"
+    },
+    {
+      "id": 311,
+      "name": "Bracelet en cristal antique",
+      "class": null,
+      "icon": "311"
+    },
+    {
+      "id": 524,
+      "name": "Bracelet en cristal noble",
+      "class": null,
+      "icon": "524"
+    },
+    {
+      "id": 535,
+      "name": "Bracelet à diamant luxueux",
+      "class": null,
+      "icon": "535"
+    },
+    {
+      "id": 307,
+      "name": "Bracelet d'orichalque noble",
+      "class": null,
+      "icon": "307"
+    },
+    {
+      "id": 779,
+      "name": "Bracelet de pleine lune",
+      "class": null,
+      "icon": "307"
+    },
+    {
+      "id": 308,
+      "name": "Bracelet d'orichalque antique",
+      "class": null,
+      "icon": "308"
+    },
+    {
+      "id": 422,
+      "name": "Bracelet de Diareason",
+      "class": null,
+      "icon": "422"
+    },
+    {
+      "id": 423,
+      "name": "Bracelet de Rudiselrun",
+      "class": null,
+      "icon": "423"
+    },
+    {
+      "id": 4333,
+      "name": "Bracelet avec l'énergie de la liche",
+      "class": null,
+      "icon": "2946"
+    },
+    {
+      "id": 4935,
+      "name": "Bracelet du géant de flammes",
+      "class": null,
+      "icon": "2435"
+    },
+    {
+      "id": 4936,
+      "name": "Bracelet de Katol",
+      "class": null,
+      "icon": "2436"
+    },
+    {
+      "id": 424,
+      "name": "Bracelet de Kedenoss",
+      "class": null,
+      "icon": "424"
+    },
+    {
+      "id": 4516,
+      "name": "Bracelet de pierre sekrass",
+      "class": null,
+      "icon": "4205"
+    },
+    {
+      "id": 4650,
+      "name": "Bracelet d'os de tricératops",
+      "class": 30,
+      "icon": "4653"
+    },
+    {
+      "id": 4647,
+      "name": "Bracelet draconique gravé",
+      "class": 30,
+      "icon": "4650"
+    },
+    {
+      "id": 8659,
+      "name": "Ruban d'engrenage",
+      "class": null,
+      "icon": "7101"
+    },
+    {
+      "id": 8661,
+      "name": "Ruban élémentaire",
+      "class": null,
+      "icon": "4970"
+    },
+    {
+      "id": 8848,
+      "name": "Bracelet de l'aventurier dimensionnel",
+      "class": 30,
+      "icon": "7539"
+    },
+    {
+      "id": 8850,
+      "name": "Bracelet à dimensiomant",
+      "class": 30,
+      "icon": "7541"
+    }
+  ],
+  "9": [
+    {
+      "id": 205,
+      "name": "Lunettes à la mode",
+      "class": 1,
+      "icon": "205"
+    },
+    {
+      "id": 207,
+      "name": "Lunettes à la mode",
+      "class": 1,
+      "icon": "207"
+    },
+    {
+      "id": 208,
+      "name": "Lunettes à la mode",
+      "class": 1,
+      "icon": "208"
+    },
+    {
+      "id": 209,
+      "name": "Lunettes à la mode",
+      "class": 1,
+      "icon": "209"
+    },
+    {
+      "id": 210,
+      "name": "Lunettes à la mode",
+      "class": 1,
+      "icon": "210"
+    },
+    {
+      "id": 211,
+      "name": "Lunettes à la mode",
+      "class": 1,
+      "icon": "211"
+    },
+    {
+      "id": 206,
+      "name": "Masque de Kovolt",
+      "class": 1,
+      "icon": "206"
+    },
+    {
+      "id": 223,
+      "name": "Lunettes rectangulaires",
+      "class": 14,
+      "icon": "223"
+    },
+    {
+      "id": 224,
+      "name": "Masque clignotant",
+      "class": 14,
+      "icon": "224"
+    },
+    {
+      "id": 225,
+      "name": "Masque de frappeur",
+      "class": 14,
+      "icon": "225"
+    },
+    {
+      "id": 226,
+      "name": "Monocle",
+      "class": 14,
+      "icon": "226"
+    },
+    {
+      "id": 227,
+      "name": "Masque X",
+      "class": 14,
+      "icon": "227"
+    },
+    {
+      "id": 228,
+      "name": "Barbe et maquillage",
+      "class": 14,
+      "icon": "228"
+    },
+    {
+      "id": 230,
+      "name": "Lunettes rectangulaires",
+      "class": 14,
+      "icon": "230"
+    },
+    {
+      "id": 231,
+      "name": "Lunettes rectangulaires",
+      "class": 14,
+      "icon": "231"
+    },
+    {
+      "id": 232,
+      "name": "Lunettes rectangulaires",
+      "class": 14,
+      "icon": "232"
+    },
+    {
+      "id": 233,
+      "name": "Lunettes rectangulaires",
+      "class": 14,
+      "icon": "233"
+    },
+    {
+      "id": 234,
+      "name": "Lunettes rectangulaires",
+      "class": 14,
+      "icon": "234"
+    },
+    {
+      "id": 235,
+      "name": "Lunettes rectangulaires",
+      "class": 14,
+      "icon": "235"
+    },
+    {
+      "id": 239,
+      "name": "Monocle",
+      "class": 14,
+      "icon": "239"
+    },
+    {
+      "id": 240,
+      "name": "Monocle",
+      "class": 14,
+      "icon": "240"
+    },
+    {
+      "id": 241,
+      "name": "Monocle",
+      "class": 14,
+      "icon": "241"
+    },
+    {
+      "id": 242,
+      "name": "Monocle",
+      "class": 14,
+      "icon": "242"
+    },
+    {
+      "id": 361,
+      "name": "Masque furieux A [Abandonner] Impossible",
+      "class": 14,
+      "icon": "361"
+    },
+    {
+      "id": 362,
+      "name": "Masque furieux B [Abandonner] Impossible",
+      "class": 14,
+      "icon": "362"
+    },
+    {
+      "id": 363,
+      "name": "Masque furieux C [Abandonner] Impossible",
+      "class": 14,
+      "icon": "363"
+    },
+    {
+      "id": 366,
+      "name": "Masque silencieux A [Abandonner] Impossible",
+      "class": 14,
+      "icon": "366"
+    },
+    {
+      "id": 367,
+      "name": "Masque silencieux B [Abandonner] Impossible",
+      "class": 14,
+      "icon": "367"
+    },
+    {
+      "id": 368,
+      "name": "Masque silencieux C [Abandonner] Impossible",
+      "class": 14,
+      "icon": "368"
+    },
+    {
+      "id": 371,
+      "name": "Bandage oculaire de l'abîme A [Abandonner] Impossible",
+      "class": 14,
+      "icon": "371"
+    },
+    {
+      "id": 372,
+      "name": "Bandage oculaire de l'abîme B [Abandonner] Impossible",
+      "class": 14,
+      "icon": "372"
+    },
+    {
+      "id": 373,
+      "name": "Bandage oculaire de l'abîme C [Abandonner] Impossible",
+      "class": 14,
+      "icon": "373"
+    },
+    {
+      "id": 427,
+      "name": "Masque de chevalier",
+      "class": 14,
+      "icon": "427"
+    },
+    {
+      "id": 4601,
+      "name": "Lunettes de soleil bzzz (30 jours) [Abandonner] Impossible",
+      "class": 30,
+      "icon": "4507"
+    },
+    {
+      "id": 4602,
+      "name": "Lunettes de soleil bzzz (permanent) [Abandonner] Impossible",
+      "class": 30,
+      "icon": "4507"
+    },
+    {
+      "id": 4609,
+      "name": "Lunettes de soleil bzzz (30 jours) [Abandonner] Impossible",
+      "class": 30,
+      "icon": "4507"
+    },
+    {
+      "id": 4610,
+      "name": "Lunettes de soleil bzzz (permanent) [Abandonner] Impossible",
+      "class": 30,
+      "icon": "4507"
+    },
+    {
+      "id": 4846,
+      "name": "Masque du héros oublié D",
+      "class": 30,
+      "icon": "225"
+    },
+    {
+      "id": 4029,
+      "name": "Masque du maître voleur",
+      "class": 14,
+      "icon": "366"
+    },
+    {
+      "id": 4030,
+      "name": "Masque des marchands",
+      "class": 14,
+      "icon": "362"
+    },
+    {
+      "id": 4031,
+      "name": "Masque de la bande de Voleurs",
+      "class": 14,
+      "icon": "361"
+    },
+    {
+      "id": 4032,
+      "name": "Masque des premiers secours",
+      "class": 14,
+      "icon": "362"
+    },
+    {
+      "id": 4033,
+      "name": "Masque de l'inspecteur",
+      "class": 14,
+      "icon": "361"
+    },
+    {
+      "id": 4034,
+      "name": "Masque de l'élite",
+      "class": 30,
+      "icon": "363"
+    },
+    {
+      "id": 4035,
+      "name": "Masque du commandant",
+      "class": 30,
+      "icon": "225"
+    },
+    {
+      "id": 4927,
+      "name": "Masque antique",
+      "class": 30,
+      "icon": "2427"
+    },
+    {
+      "id": 4928,
+      "name": "Masque de feu antique",
+      "class": 30,
+      "icon": "2428"
+    },
+    {
+      "id": 4840,
+      "name": "Masque d'Azraël",
+      "class": 30,
+      "icon": "2825"
+    },
+    {
+      "id": 4672,
+      "name": "Masque de dragon [Abandonner] Impossible",
+      "class": 30,
+      "icon": "4680"
+    },
+    {
+      "id": 8687,
+      "name": "Masque de mineur [Abandonner] Impossible",
+      "class": 30,
+      "icon": "4966"
+    },
+    {
+      "id": 8688,
+      "name": "Masque de décontamination [Abandonner] Impossible",
+      "class": 30,
+      "icon": "4967"
+    }
+  ],
+  "10": [
+    {
+      "id": 800,
+      "name": "Fée du Feu",
+      "class": null,
+      "icon": "800"
+    },
+    {
+      "id": 801,
+      "name": "Fée de l'Eau",
+      "class": null,
+      "icon": "801"
+    },
+    {
+      "id": 802,
+      "name": "Fée de la Lumière",
+      "class": null,
+      "icon": "802"
+    },
+    {
+      "id": 803,
+      "name": "Fée de l'Obscurité",
+      "class": null,
+      "icon": "803"
+    },
+    {
+      "id": 884,
+      "name": "Fée du Feu (30 %) [Abandonner], [Commerce], [Vente] Impossible",
+      "class": null,
+      "icon": "800"
+    },
+    {
+      "id": 885,
+      "name": "Fée de l'Eau (30 %) [Abandonner], [Commerce], [Vente] Impossible",
+      "class": null,
+      "icon": "801"
+    },
+    {
+      "id": 886,
+      "name": "Fée de la Lumière (30 %) [Abandonner], [Commerce], [Vente] Impossible",
+      "class": null,
+      "icon": "802"
+    },
+    {
+      "id": 887,
+      "name": "Fée de l'Obscurité (30 %) [Abandonner], [Commerce], [Vente] Impossible",
+      "class": null,
+      "icon": "803"
+    },
+    {
+      "id": 273,
+      "name": "Solaris",
+      "class": null,
+      "icon": "804"
+    },
+    {
+      "id": 274,
+      "name": "Sellaim [Abandonner] Impossible",
+      "class": null,
+      "icon": "274"
+    },
+    {
+      "id": 278,
+      "name": "Grande Sellaim [Abandonner] Impossible",
+      "class": null,
+      "icon": "274"
+    },
+    {
+      "id": 275,
+      "name": "Woondine [Abandonner] Impossible",
+      "class": null,
+      "icon": "275"
+    },
+    {
+      "id": 279,
+      "name": "Grande Woondine [Abandonner] Impossible",
+      "class": null,
+      "icon": "275"
+    },
+    {
+      "id": 276,
+      "name": "Épérial [Abandonner] Impossible",
+      "class": null,
+      "icon": "276"
+    },
+    {
+      "id": 280,
+      "name": "Grande Épérial [Abandonner] Impossible",
+      "class": null,
+      "icon": "276"
+    },
+    {
+      "id": 277,
+      "name": "Turik [Abandonner] Impossible",
+      "class": null,
+      "icon": "277"
+    },
+    {
+      "id": 281,
+      "name": "Grande Turik [Abandonner] Impossible",
+      "class": null,
+      "icon": "277"
+    },
+    {
+      "id": 425,
+      "name": "Azuris",
+      "class": null,
+      "icon": "425"
+    },
+    {
+      "id": 920,
+      "name": "Fée magique rouge",
+      "class": null,
+      "icon": "920"
+    },
+    {
+      "id": 4129,
+      "name": "Elkaim [Abandonner] Impossible",
+      "class": null,
+      "icon": "987"
+    },
+    {
+      "id": 4130,
+      "name": "Ladine [Abandonner] Impossible",
+      "class": null,
+      "icon": "988"
+    },
+    {
+      "id": 4131,
+      "name": "Rumial [Abandonner] Impossible",
+      "class": null,
+      "icon": "989"
+    },
+    {
+      "id": 4132,
+      "name": "Varik [Abandonner] Impossible",
+      "class": null,
+      "icon": "993"
+    },
+    {
+      "id": 4705,
+      "name": "Zénas (Feu) [Abandonner] Impossible",
+      "class": null,
+      "icon": "4803"
+    },
+    {
+      "id": 4706,
+      "name": "Zénas (Eau) [Abandonner] Impossible",
+      "class": null,
+      "icon": "4802"
+    },
+    {
+      "id": 4707,
+      "name": "Zénas (Lumière) [Abandonner] Impossible",
+      "class": null,
+      "icon": "4804"
+    },
+    {
+      "id": 4708,
+      "name": "Zénas (Obscurité) [Abandonner] Impossible",
+      "class": null,
+      "icon": "4805"
+    },
+    {
+      "id": 4709,
+      "name": "Érénia (Feu) [Abandonner] Impossible",
+      "class": null,
+      "icon": "4801"
+    },
+    {
+      "id": 4710,
+      "name": "Érénia (Eau) [Abandonner] Impossible",
+      "class": null,
+      "icon": "4798"
+    },
+    {
+      "id": 4711,
+      "name": "Érénia (Lumière) [Abandonner] Impossible",
+      "class": null,
+      "icon": "4799"
+    },
+    {
+      "id": 4712,
+      "name": "Érénia (Obscurité) [Abandonner] Impossible",
+      "class": null,
+      "icon": "4800"
+    },
+    {
+      "id": 4713,
+      "name": "Fernon (Feu) [Abandonner] Impossible",
+      "class": null,
+      "icon": "4807"
+    },
+    {
+      "id": 4714,
+      "name": "Fernon (Eau) [Abandonner] Impossible",
+      "class": null,
+      "icon": "4806"
+    },
+    {
+      "id": 4715,
+      "name": "Fernon (Lumière) [Abandonner] Impossible",
+      "class": null,
+      "icon": "4808"
+    },
+    {
+      "id": 4716,
+      "name": "Fernon (Obscurité) [Abandonner] Impossible",
+      "class": null,
+      "icon": "4809"
+    },
+    {
+      "id": 8672,
+      "name": "Drone à vapeur de l'élément Feu [Abandonner] Impossible",
+      "class": null,
+      "icon": "4980"
+    },
+    {
+      "id": 8673,
+      "name": "Drone à vapeur de l'élément Eau [Abandonner] Impossible",
+      "class": null,
+      "icon": "4981"
+    },
+    {
+      "id": 8674,
+      "name": "Drone à vapeur de l'élément Lumière [Abandonner] Impossible",
+      "class": null,
+      "icon": "4983"
+    },
+    {
+      "id": 8675,
+      "name": "Drone à vapeur de l'élément Obscurité [Abandonner] Impossible",
+      "class": null,
+      "icon": "4984"
+    },
+    {
+      "id": 8743,
+      "name": "Ténébris [Abandonner], [Commerce], [Vente] Impossible",
+      "class": null,
+      "icon": "7157"
+    }
+  ],
+  "11": [
+    {
+      "id": 180,
+      "name": "Amulette du niveau d'attaque",
+      "class": null,
+      "icon": "180"
+    },
+    {
+      "id": 182,
+      "name": "Amulette du niveau d'attaque et de défense",
+      "class": null,
+      "icon": "182"
+    },
+    {
+      "id": 536,
+      "name": "Amulette de puissance [Abandonner] Impossible",
+      "class": null,
+      "icon": "536"
+    },
+    {
+      "id": 4048,
+      "name": "Carte de tarot (l'Amoureux) [Abandonner], [Commerce], [Vente] Impossible",
+      "class": null,
+      "icon": "658"
+    },
+    {
+      "id": 4050,
+      "name": "Carte de tarot (la Mort) [Abandonner], [Commerce], [Vente] Impossible",
+      "class": null,
+      "icon": "660"
+    },
+    {
+      "id": 4051,
+      "name": "Carte de tarot (le Diable) [Abandonner], [Commerce], [Vente] Impossible",
+      "class": null,
+      "icon": "661"
+    },
+    {
+      "id": 4054,
+      "name": "Carte de tarot (la Lune) [Abandonner], [Commerce], [Vente] Impossible",
+      "class": null,
+      "icon": "664"
+    },
+    {
+      "id": 4055,
+      "name": "Carte de tarot (le Soleil) [Abandonner], [Commerce], [Vente] Impossible",
+      "class": null,
+      "icon": "588"
+    },
+    {
+      "id": 4060,
+      "name": "Talisman du Feu [Abandonner], [Commerce], [Vente] Impossible",
+      "class": null,
+      "icon": "584"
+    },
+    {
+      "id": 4175,
+      "name": "Carte de tarot lugubre [Épouvantail] [Abandonner], [Commerce], [Vente] Impossible",
+      "class": null,
+      "icon": "2568"
+    },
+    {
+      "id": 4359,
+      "name": "Rune du feu [mère Nature] [Abandonner], [Commerce], [Vente] Impossible",
+      "class": null,
+      "icon": "2976"
+    },
+    {
+      "id": 4363,
+      "name": "Rune du feu rare [mère Nature] [Abandonner], [Commerce], [Vente] Impossible",
+      "class": null,
+      "icon": "2980"
+    },
+    {
+      "id": 4990,
+      "name": "Rune de l'éclair [Abandonner] Impossible",
+      "class": null,
+      "icon": "578"
+    },
+    {
+      "id": 4994,
+      "name": "Rune du feu [Abandonner] Impossible",
+      "class": null,
+      "icon": "584"
+    }
+  ],
+  "12": [
+    {
+      "id": 901,
+      "name": "Carte de spécialiste du Guerrier [Abandonner], [Commerce] Impossible",
+      "class": 2,
+      "icon": "901",
+      "sp": 2
+    },
+    {
+      "id": 902,
+      "name": "Carte de spécialiste du Ninja [Abandonner], [Commerce] Impossible",
+      "class": 2,
+      "icon": "902",
+      "sp": 3
+    },
+    {
+      "id": 909,
+      "name": "Carte de spécialiste du Croisé [Abandonner], [Commerce] Impossible",
+      "class": 2,
+      "icon": "909",
+      "sp": 10
+    },
+    {
+      "id": 910,
+      "name": "Carte de spécialiste du Berserk [Abandonner], [Commerce] Impossible",
+      "class": 2,
+      "icon": "910",
+      "sp": 11
+    },
+    {
+      "id": 4500,
+      "name": "Carte de spécialiste du Gladiateur [Abandonner], [Commerce] Impossible",
+      "class": 2,
+      "icon": "2544",
+      "sp": 17
+    },
+    {
+      "id": 4497,
+      "name": "Carte de spécialiste du Moine pugnace [Abandonner], [Commerce] Impossible",
+      "class": 2,
+      "icon": "2588",
+      "sp": 20
+    },
+    {
+      "id": 4493,
+      "name": "Carte de spécialiste du Mortifère [Abandonner], [Commerce] Impossible",
+      "class": 2,
+      "icon": "2654",
+      "sp": 23
+    },
+    {
+      "id": 4489,
+      "name": "Carte de spécialiste du Renégat [Abandonner], [Commerce] Impossible",
+      "class": 2,
+      "icon": "2706",
+      "sp": 26
+    },
+    {
+      "id": 4581,
+      "name": "Carte de spécialiste du Hacheur [Abandonner], [Commerce] Impossible",
+      "class": 2,
+      "icon": "4496",
+      "sp": 39
+    },
+    {
+      "id": 8521,
+      "name": "Carte de spécialiste du Chevalier dragon [Abandonner], [Commerce] Impossible",
+      "class": 2,
+      "icon": "4862",
+      "sp": 45
+    },
+    {
+      "id": 8712,
+      "name": "Carte de spécialiste : broyeur de pierre [Abandonner], [Commerce] Impossible",
+      "class": 2,
+      "icon": "7138",
+      "sp": 51
+    },
+    {
+      "id": 903,
+      "name": "Carte de spécialiste du Ranger [Abandonner], [Commerce] Impossible",
+      "class": 4,
+      "icon": "903",
+      "sp": 4
+    },
+    {
+      "id": 904,
+      "name": "Carte de spécialiste de l'Assassin [Abandonner], [Commerce] Impossible",
+      "class": 4,
+      "icon": "904",
+      "sp": 5
+    },
+    {
+      "id": 911,
+      "name": "Carte de spécialiste du Destructeur [Abandonner], [Commerce] Impossible",
+      "class": 4,
+      "icon": "911",
+      "sp": 12
+    },
+    {
+      "id": 912,
+      "name": "Carte de spécialiste du Garde-chasse [Abandonner], [Commerce] Impossible",
+      "class": 4,
+      "icon": "912",
+      "sp": 13
+    },
+    {
+      "id": 4501,
+      "name": "Carte de spécialiste du Canonnier de feu [Abandonner], [Commerce] Impossible",
+      "class": 4,
+      "icon": "2545",
+      "sp": 18
+    },
+    {
+      "id": 4498,
+      "name": "Carte de spécialiste de l'Éclaireur [Abandonner], [Commerce] Impossible",
+      "class": 4,
+      "icon": "2589",
+      "sp": 21
+    },
+    {
+      "id": 4492,
+      "name": "Carte de spécialiste du Chasseur de démons [Abandonner], [Commerce] Impossible",
+      "class": 4,
+      "icon": "2655",
+      "sp": 24
+    },
+    {
+      "id": 4488,
+      "name": "Carte de spécialiste de l'Ange vengeur [Abandonner], [Commerce] Impossible",
+      "class": 4,
+      "icon": "2707",
+      "sp": 27
+    },
+    {
+      "id": 4582,
+      "name": "Carte de spécialiste du Traqueur solaire [Abandonner], [Commerce] Impossible",
+      "class": 4,
+      "icon": "4494",
+      "sp": 40
+    },
+    {
+      "id": 8522,
+      "name": "Carte de spécialiste du Grenadier [Abandonner], [Commerce] Impossible",
+      "class": 4,
+      "icon": "4860",
+      "sp": 46
+    },
+    {
+      "id": 8713,
+      "name": "Carte de spécialiste : Chasseur nébuleux [Abandonner], [Commerce] Impossible",
+      "class": 4,
+      "icon": "7139",
+      "sp": 52
+    },
+    {
+      "id": 905,
+      "name": "Carte de spécialiste du Mage du feu [Abandonner], [Commerce] Impossible",
+      "class": 8,
+      "icon": "905",
+      "sp": 6
+    },
+    {
+      "id": 906,
+      "name": "Carte de spécialiste du mage sacré [Abandonner], [Commerce] Impossible",
+      "class": 8,
+      "icon": "906",
+      "sp": 7
+    },
+    {
+      "id": 913,
+      "name": "Carte de spécialiste du Mage de glace [Abandonner], [Commerce] Impossible",
+      "class": 8,
+      "icon": "913",
+      "sp": 14
+    },
+    {
+      "id": 914,
+      "name": "Carte de spécialiste du Mage ténébreux [Abandonner], [Commerce] Impossible",
+      "class": 8,
+      "icon": "914",
+      "sp": 15
+    },
+    {
+      "id": 4502,
+      "name": "Carte de spécialiste du Volcanor [Abandonner], [Commerce] Impossible",
+      "class": 8,
+      "icon": "2546",
+      "sp": 19
+    },
+    {
+      "id": 4499,
+      "name": "Carte de spécialiste de Sa Majesté des marées [Abandonner], [Commerce] Impossible",
+      "class": 8,
+      "icon": "2590",
+      "sp": 22
+    },
+    {
+      "id": 4491,
+      "name": "Carte de spécialiste du Devin [Abandonner], [Commerce] Impossible",
+      "class": 8,
+      "icon": "2656",
+      "sp": 25
+    },
+    {
+      "id": 4487,
+      "name": "Carte de spécialiste de l'Archimage [Abandonner], [Commerce] Impossible",
+      "class": 8,
+      "icon": "2708",
+      "sp": 28
+    },
+    {
+      "id": 4583,
+      "name": "Carte de spécialiste du Prêtre vaudou [Abandonner], [Commerce] Impossible",
+      "class": 8,
+      "icon": "4497",
+      "sp": 41
+    },
+    {
+      "id": 8523,
+      "name": "Carte de spécialiste du Gravitas [Abandonner], [Commerce] Impossible",
+      "class": 8,
+      "icon": "4863",
+      "sp": 47
+    },
+    {
+      "id": 8714,
+      "name": "Carte de spécialiste : Tempête de feu [Abandonner], [Commerce] Impossible",
+      "class": 8,
+      "icon": "7140",
+      "sp": 53
+    },
+    {
+      "id": 4486,
+      "name": "Carte de spécialiste de Drakenfer [Abandonner], [Commerce] Impossible",
+      "class": 16,
+      "icon": "4048",
+      "sp": 29
+    },
+    {
+      "id": 4485,
+      "name": "Carte de spécialiste d'Arts mystiques [Abandonner], [Commerce] Impossible",
+      "class": 16,
+      "icon": "4093",
+      "sp": 31
+    },
+    {
+      "id": 4437,
+      "name": "Carte de spécialiste de Maître loup [Abandonner], [Commerce] Impossible",
+      "class": 16,
+      "icon": "4126",
+      "sp": 33
+    },
+    {
+      "id": 4532,
+      "name": "Carte de spécialiste du guerrier-démon [Abandonner], [Commerce] Impossible",
+      "class": 16,
+      "icon": "4151",
+      "sp": 34
+    },
+    {
+      "id": 4580,
+      "name": "Carte de spécialiste du Druide ardent [Abandonner], [Commerce] Impossible",
+      "class": 16,
+      "icon": "4495",
+      "sp": 42
+    },
+    {
+      "id": 8524,
+      "name": "Carte de spécialiste d'Hydraupoing [Abandonner], [Commerce] Impossible",
+      "class": 16,
+      "icon": "4861",
+      "sp": 48
+    },
+    {
+      "id": 8715,
+      "name": "Carte de spécialiste : Foudroyeur [Abandonner], [Commerce] Impossible",
+      "class": 16,
+      "icon": "7141",
+      "sp": 54
+    },
+    {
+      "id": 908,
+      "name": "Carte de spécialiste de Jajamaru [Abandonner], [Commerce] Impossible",
+      "class": 30,
+      "icon": "908",
+      "sp": 9
+    },
+    {
+      "id": 4562,
+      "name": "Carte de spécialiste du Pêcheur [Abandonner], [Commerce] Impossible",
+      "class": 30,
+      "icon": "4405",
+      "sp": 35
+    },
+    {
+      "id": 4575,
+      "name": "Carte de spécialiste de cuisinier [Abandonner], [Commerce] Impossible",
+      "class": 30,
+      "icon": "4440",
+      "sp": 38
+    },
+    {
+      "id": 8580,
+      "name": "Carte de spécialiste de dresseur animalier [Abandonner], [Commerce] Impossible",
+      "class": 30,
+      "icon": "4893",
+      "sp": 49
+    },
+    {
+      "id": 900,
+      "name": "Carte de spécialiste de Pyjama [Abandonner], [Commerce] Impossible",
+      "class": 31,
+      "icon": "900",
+      "sp": 1
+    },
+    {
+      "id": 907,
+      "name": "Carte de spécialiste de la poule [Abandonner], [Commerce] Impossible",
+      "class": 31,
+      "icon": "907",
+      "sp": 8
+    },
+    {
+      "id": 4099,
+      "name": "Carte de spécialiste du pirate [Abandonner], [Commerce] Impossible",
+      "class": 31,
+      "icon": "915",
+      "sp": 16
+    },
+    {
+      "id": 4416,
+      "name": "Carte de spécialiste costume de mariage [Abandonner], [Commerce] Impossible",
+      "class": 31,
+      "icon": "4110",
+      "sp": 32
+    }
+  ],
+  "13": [
+    {
+      "id": 4225,
+      "name": "Robe festive rose (permanent) [Abandonner] Impossible",
+      "class": null,
+      "icon": "2635"
+    },
+    {
+      "id": 4237,
+      "name": "Costume de détective rouge (permanent) [Abandonner] Impossible",
+      "class": null,
+      "icon": "2641"
+    },
+    {
+      "id": 4409,
+      "name": "Costume de diable de feu (permanent) [Abandonner] Impossible",
+      "class": 30,
+      "icon": "4099"
+    },
+    {
+      "id": 4441,
+      "name": "Tenue de costume de fée (permanent) [Abandonner] Impossible",
+      "class": 30,
+      "icon": "4128"
+    },
+    {
+      "id": 4529,
+      "name": "Costume tropical (permanent) [Abandonner] Impossible",
+      "class": 30,
+      "icon": "4147"
+    },
+    {
+      "id": 4536,
+      "name": "Costume de sorcière-glaçon (permanent) [Abandonner] Impossible",
+      "class": 30,
+      "icon": "4282"
+    },
+    {
+      "id": 4553,
+      "name": "Costume sorcière citrouille/chevalier citrouille (permanent) [Abandonner] Impossible",
+      "class": 30,
+      "icon": "4335"
+    },
+    {
+      "id": 4577,
+      "name": "Costume du pays des merveilles (permanent) [Abandonner] Impossible",
+      "class": 30,
+      "icon": "4477"
+    },
+    {
+      "id": 4785,
+      "name": "Costume de rafting (permanent) [Abandonner] Impossible",
+      "class": 30,
+      "icon": "4823"
+    },
+    {
+      "id": 4789,
+      "name": "Tenue de plongeur pro (permanent) [Abandonner] Impossible",
+      "class": 30,
+      "icon": "4827"
+    },
+    {
+      "id": 4787,
+      "name": "Costume de navigateur (permanent) [Abandonner] Impossible",
+      "class": 30,
+      "icon": "4829"
+    },
+    {
+      "id": 4791,
+      "name": "Costume de plongeur (permanent) [Abandonner] Impossible",
+      "class": 30,
+      "icon": "4825"
+    },
+    {
+      "id": 8518,
+      "name": "Costume de squelette (permanent) [Abandonner] Impossible",
+      "class": 30,
+      "icon": "4858"
+    },
+    {
+      "id": 8680,
+      "name": "Costume de serviteur divin sinistre (permanent) [Abandonner] Impossible",
+      "class": 30,
+      "icon": "4933"
+    },
+    {
+      "id": 8707,
+      "name": "Costume du roi de Pâques (permanent) [Abandonner] Impossible",
+      "class": 30,
+      "icon": "7130"
+    },
+    {
+      "id": 8757,
+      "name": "Costume du minibouh (permanent) [Abandonner] Impossible",
+      "class": 30,
+      "icon": "7313"
+    },
+    {
+      "id": 8783,
+      "name": "Tunique du pharaon [Abandonner] Impossible",
+      "class": 30,
+      "icon": "7358"
+    },
+    {
+      "id": 8860,
+      "name": "Costume de gardien des âmes [Abandonner] Impossible",
+      "class": 30,
+      "icon": "7500"
+    },
+    {
+      "id": 8884,
+      "name": "Costume de l'apôtre dimensionnel (permanent) [Abandonner] Impossible",
+      "class": 30,
+      "icon": "7668"
+    }
+  ],
+  "14": [
+    {
+      "id": 652,
+      "name": "Chapeau de panda (permanent) [Abandonner] Impossible",
+      "class": 14,
+      "icon": "446"
+    },
+    {
+      "id": 653,
+      "name": "Chapeau d'ours brun (permanent) [Abandonner] Impossible",
+      "class": 14,
+      "icon": "454"
+    },
+    {
+      "id": 654,
+      "name": "Chapeau d'ours polaire (permanent) [Abandonner] Impossible",
+      "class": 14,
+      "icon": "455"
+    },
+    {
+      "id": 655,
+      "name": "Chapeau d'ours en peluche (permanent) [Abandonner] Impossible",
+      "class": 14,
+      "icon": "456"
+    },
+    {
+      "id": 457,
+      "name": "Chapeau de rat (permanent) [Abandonner] Impossible",
+      "class": 14,
+      "icon": "457"
+    },
+    {
+      "id": 478,
+      "name": "Chapeau orange (permanent) [Abandonner] Impossible",
+      "class": 14,
+      "icon": "478"
+    },
+    {
+      "id": 479,
+      "name": "Chapeau pot de fleur chic (permanent) [Abandonner] Impossible",
+      "class": 14,
+      "icon": "479"
+    },
+    {
+      "id": 480,
+      "name": "Chapeau coquille de noix (permanent) [Abandonner] Impossible",
+      "class": 14,
+      "icon": "480"
+    },
+    {
+      "id": 481,
+      "name": "Chapeau de fondateur bleu (permanent) [Abandonner] Impossible",
+      "class": null,
+      "icon": "481"
+    },
+    {
+      "id": 549,
+      "name": "Ayam (permanent) [Abandonner] Impossible",
+      "class": null,
+      "icon": "547"
+    },
+    {
+      "id": 482,
+      "name": "Chapeau de fondateur vert (permanent) [Abandonner] Impossible",
+      "class": null,
+      "icon": "482"
+    },
+    {
+      "id": 552,
+      "name": "Couronne d'impératrice (permanent) [Abandonner] Impossible",
+      "class": null,
+      "icon": "550"
+    },
+    {
+      "id": 483,
+      "name": "Chapeau de fondateur rouge (permanent) [Abandonner] Impossible",
+      "class": null,
+      "icon": "483"
+    },
+    {
+      "id": 555,
+      "name": "Pince à cheveux (permanent) [Abandonner] Impossible",
+      "class": null,
+      "icon": "553"
+    },
+    {
+      "id": 558,
+      "name": "Hogeon (permanent) [Abandonner] Impossible",
+      "class": null,
+      "icon": "556"
+    },
+    {
+      "id": 836,
+      "name": "Chapeau de dalmatien (permanent) [Abandonner] Impossible",
+      "class": null,
+      "icon": "834"
+    },
+    {
+      "id": 561,
+      "name": "Chapeau asiatique (permanent) [Abandonner] Impossible",
+      "class": null,
+      "icon": "559"
+    },
+    {
+      "id": 839,
+      "name": "Chapeau de rottweiler (permanent) [Abandonner] Impossible",
+      "class": null,
+      "icon": "837"
+    },
+    {
+      "id": 564,
+      "name": "Ebosi (permanent) [Abandonner] Impossible",
+      "class": null,
+      "icon": "562"
+    },
+    {
+      "id": 842,
+      "name": "Chapeau de chat siamois (permanent) [Abandonner] Impossible",
+      "class": null,
+      "icon": "840"
+    },
+    {
+      "id": 845,
+      "name": "Chapeau de chat bleu russe (permanent) [Abandonner] Impossible",
+      "class": null,
+      "icon": "843"
+    },
+    {
+      "id": 860,
+      "name": "Chapeau de bouledogue (permanent) [Abandonner] Impossible",
+      "class": null,
+      "icon": "858"
+    },
+    {
+      "id": 848,
+      "name": "Oreilles de lapin taquines (permanent) [Abandonner] Impossible",
+      "class": null,
+      "icon": "846"
+    },
+    {
+      "id": 863,
+      "name": "Chapeau de saint-bernard (permanent) [Abandonner] Impossible",
+      "class": null,
+      "icon": "861"
+    },
+    {
+      "id": 851,
+      "name": "Oreilles de lapin charmantes (permanent) [Abandonner] Impossible",
+      "class": null,
+      "icon": "849"
+    },
+    {
+      "id": 866,
+      "name": "Chapeau de chat birman (permanent) [Abandonner] Impossible",
+      "class": null,
+      "icon": "864"
+    },
+    {
+      "id": 854,
+      "name": "Chapeau de lion clair (permanent) [Abandonner] Impossible",
+      "class": null,
+      "icon": "852"
+    },
+    {
+      "id": 869,
+      "name": "Chapeau de korat (permanent) [Abandonner] Impossible",
+      "class": null,
+      "icon": "867"
+    },
+    {
+      "id": 857,
+      "name": "Chapeau de lion foncé (permanent) [Abandonner] Impossible",
+      "class": null,
+      "icon": "855"
+    },
+    {
+      "id": 872,
+      "name": "Chapeau de lièvre de mars (permanent) [Abandonner] Impossible",
+      "class": null,
+      "icon": "870"
+    },
+    {
+      "id": 875,
+      "name": "Chapeau de lièvre blanc (permanent) [Abandonner] Impossible",
+      "class": null,
+      "icon": "873"
+    },
+    {
+      "id": 897,
+      "name": "Serre-tête féérique (permanent) [Abandonner] Impossible",
+      "class": null,
+      "icon": "895"
+    },
+    {
+      "id": 878,
+      "name": "Chapeau de lion doré (permanent) [Abandonner] Impossible",
+      "class": null,
+      "icon": "876"
+    },
+    {
+      "id": 881,
+      "name": "Chapeau de lion noir (permanent) [Abandonner] Impossible",
+      "class": null,
+      "icon": "879"
+    },
+    {
+      "id": 915,
+      "name": "Chapeau de démon (permanent) [Abandonner] Impossible",
+      "class": null,
+      "icon": "898"
+    },
+    {
+      "id": 4076,
+      "name": "Bonnet de Noël (permanent) [Abandonner] Impossible",
+      "class": 14,
+      "icon": "973"
+    },
+    {
+      "id": 191,
+      "name": "Chapeau chic (m) (permanent) [Abandonner] Impossible",
+      "class": null,
+      "icon": "821"
+    },
+    {
+      "id": 198,
+      "name": "Serre-tête de starlette (permanent) [Abandonner] Impossible",
+      "class": null,
+      "icon": "196"
+    },
+    {
+      "id": 935,
+      "name": "Bandeau hawaïen (h) (permanent) [Abandonner] Impossible",
+      "class": null,
+      "icon": "933"
+    },
+    {
+      "id": 938,
+      "name": "Bandeau hawaïen (f) (permanent) [Abandonner] Impossible",
+      "class": null,
+      "icon": "936"
+    },
+    {
+      "id": 962,
+      "name": "Bonnet de marin bleu (permanent) [Abandonner] Impossible",
+      "class": null,
+      "icon": "959"
+    },
+    {
+      "id": 966,
+      "name": "Bonnet de matelot bleu (permanent) [Abandonner] Impossible",
+      "class": null,
+      "icon": "963"
+    },
+    {
+      "id": 988,
+      "name": "Coiffure de mariage (permanent) [Abandonner] Impossible",
+      "class": 30,
+      "icon": "4000"
+    },
+    {
+      "id": 4181,
+      "name": "Chapeau magique de la Lumière (permanent) [Abandonner] Impossible",
+      "class": 14,
+      "icon": "2609"
+    },
+    {
+      "id": 4221,
+      "name": "Diadème festif bleu (permanent) [Abandonner] Impossible",
+      "class": null,
+      "icon": "2634"
+    },
+    {
+      "id": 4233,
+      "name": "Casquette marron à visière (permanent) [Abandonner] Impossible",
+      "class": null,
+      "icon": "2640"
+    },
+    {
+      "id": 4231,
+      "name": "Casquette rouge à visière (permanent) [Abandonner] Impossible",
+      "class": null,
+      "icon": "2638"
+    },
+    {
+      "id": 4219,
+      "name": "Diadème de fête rose (permanent) [Abandonner] Impossible",
+      "class": null,
+      "icon": "2632"
+    },
+    {
+      "id": 4256,
+      "name": "Chapeau de tigre blanc de neige (1 permanent) [Abandonner] Impossible",
+      "class": 30,
+      "icon": "2685"
+    },
+    {
+      "id": 4287,
+      "name": "Toque de chef hôtelier (permanent) [Abandonner] Impossible",
+      "class": 14,
+      "icon": "2895"
+    },
+    {
+      "id": 4365,
+      "name": "Bonnet de renne (permanent) [Abandonner] Impossible",
+      "class": 14,
+      "icon": "2993"
+    },
+    {
+      "id": 4382,
+      "name": "Casque du guerrier givré (permanent) [Abandonner] Impossible",
+      "class": 30,
+      "icon": "4010"
+    },
+    {
+      "id": 4375,
+      "name": "Bonnet d'hiver (permanent) [Abandonner] Impossible",
+      "class": 30,
+      "icon": "4006"
+    },
+    {
+      "id": 4386,
+      "name": "Pince à cheveux de la marionnettiste (permanent) [Abandonner] Impossible",
+      "class": null,
+      "icon": "4046"
+    },
+    {
+      "id": 4394,
+      "name": "Coiffure de karatéka (permanent) [Abandonner] Impossible",
+      "class": 30,
+      "icon": "4056"
+    },
+    {
+      "id": 4429,
+      "name": "Chapeau du lapin de Pâques (permanent) [Abandonner] Impossible",
+      "class": 30,
+      "icon": "4111"
+    },
+    {
+      "id": 4421,
+      "name": "Petit chapeau de fête du lapin de Pâques (permanent) [Abandonner] Impossible",
+      "class": 30,
+      "icon": "4114"
+    },
+    {
+      "id": 4439,
+      "name": "Coiffe de costume de fée (permanent) [Abandonner] Impossible",
+      "class": 30,
+      "icon": "4127"
+    },
+    {
+      "id": 4542,
+      "name": "Chapeau magicien de Noz (permanent) [Abandonner] Impossible",
+      "class": 30,
+      "icon": "4290"
+    },
+    {
+      "id": 4555,
+      "name": "Chapeau sorcière citrouille/chevalier citrouille (permanent) [Abandonner] Impossible",
+      "class": 30,
+      "icon": "4334"
+    },
+    {
+      "id": 4568,
+      "name": "Crâne de Lancemort (permanent) [Abandonner] Impossible",
+      "class": 30,
+      "icon": "4434"
+    },
+    {
+      "id": 4579,
+      "name": "Coiffe du pays des merveilles (permanent) [Abandonner] Impossible",
+      "class": 30,
+      "icon": "4476"
+    },
+    {
+      "id": 4606,
+      "name": "Couronne bzzz (permanent) [Abandonner] Impossible",
+      "class": 30,
+      "icon": "4506"
+    },
+    {
+      "id": 4616,
+      "name": "Chapeau de pestologue (permanent) [Abandonner] Impossible",
+      "class": 30,
+      "icon": "4563"
+    },
+    {
+      "id": 4681,
+      "name": "Casque de voltigénieur (permanent) [Abandonner] Impossible",
+      "class": 30,
+      "icon": "4735"
+    },
+    {
+      "id": 4793,
+      "name": "Visière de rafting (permanent) [Abandonner] Impossible",
+      "class": 30,
+      "icon": "4822"
+    },
+    {
+      "id": 4797,
+      "name": "Régulateur de souffle (permanent) [Abandonner] Impossible",
+      "class": 30,
+      "icon": "4826"
+    },
+    {
+      "id": 4795,
+      "name": "Chapeau de capitaine (permanent) [Abandonner] Impossible",
+      "class": 30,
+      "icon": "4828"
+    },
+    {
+      "id": 4799,
+      "name": "Lot du tuba (permanent) [Abandonner] Impossible",
+      "class": 30,
+      "icon": "4824"
+    },
+    {
+      "id": 8520,
+      "name": "Masque de squelette (permanent) [Abandonner] Impossible",
+      "class": 30,
+      "icon": "4857"
+    },
+    {
+      "id": 8566,
+      "name": "Tête en peluche de dino (permanent) [Abandonner] Impossible",
+      "class": 30,
+      "icon": "4882"
+    },
+    {
+      "id": 8682,
+      "name": "Couvre-chef de serviteur divin sinistre (permanent) [Abandonner] Impossible",
+      "class": 30,
+      "icon": "4934"
+    },
+    {
+      "id": 8709,
+      "name": "Couronne du roi de Pâques (permanent) [Abandonner] Impossible",
+      "class": 30,
+      "icon": "7131"
+    },
+    {
+      "id": 8759,
+      "name": "Capuche du minibouh (permanent) [Abandonner] Impossible",
+      "class": 30,
+      "icon": "7314"
+    },
+    {
+      "id": 8785,
+      "name": "Némès [Abandonner] Impossible",
+      "class": 30,
+      "icon": "7359"
+    },
+    {
+      "id": 8862,
+      "name": "Chapeau de gardien des âmes [Abandonner] Impossible",
+      "class": 30,
+      "icon": "7501"
+    },
+    {
+      "id": 8886,
+      "name": "Capuche de l'apôtre dimensionnel (permanent) [Abandonner] Impossible",
+      "class": 30,
+      "icon": "7669"
+    }
+  ],
+  "15": [
+    {
+      "id": 4309,
+      "name": "Mégalame steampunk (permanent) [Abandonner] Impossible",
+      "class": 2,
+      "icon": "2918"
+    },
+    {
+      "id": 4310,
+      "name": "Arc mécanique steampunk (permanent) [Abandonner] Impossible",
+      "class": 4,
+      "icon": "2919"
+    },
+    {
+      "id": 4311,
+      "name": "Bâton-scie steampunk (permanent) [Abandonner] Impossible",
+      "class": 8,
+      "icon": "2920"
+    },
+    {
+      "id": 8717,
+      "name": "Gants d'horloger steampunk (permanent) [Abandonner] Impossible",
+      "class": 16,
+      "icon": "7142"
+    },
+    {
+      "id": 4588,
+      "name": "Makaira surgelé (permanent) [Abandonner] Impossible",
+      "class": 2,
+      "icon": "4504"
+    },
+    {
+      "id": 4590,
+      "name": "Pince de homard (permanent) [Abandonner] Impossible",
+      "class": 16,
+      "icon": "4503"
+    },
+    {
+      "id": 4592,
+      "name": "Arc de kraken (permanent) [Abandonner] Impossible",
+      "class": 4,
+      "icon": "4501"
+    },
+    {
+      "id": 4594,
+      "name": "Bâton corail (permanent) [Abandonner] Impossible",
+      "class": 8,
+      "icon": "4502"
+    },
+    {
+      "id": 4665,
+      "name": "Épée givrée (permanent) [Abandonner] Impossible",
+      "class": 2,
+      "icon": "4678"
+    },
+    {
+      "id": 4667,
+      "name": "Arc givré (permanent) [Abandonner] Impossible",
+      "class": 4,
+      "icon": "4679"
+    },
+    {
+      "id": 4669,
+      "name": "Baguette magique givrée (permanent) [Abandonner] Impossible",
+      "class": 8,
+      "icon": "4677"
+    },
+    {
+      "id": 4671,
+      "name": "Gants givrés (permanent) [Abandonner] Impossible",
+      "class": 16,
+      "icon": "4676"
+    },
+    {
+      "id": 8546,
+      "name": "Épée en chocolat (permanent) [Abandonner] Impossible",
+      "class": 2,
+      "icon": "4874"
+    },
+    {
+      "id": 8548,
+      "name": "Gants en chocolat (permanent) [Abandonner] Impossible",
+      "class": 16,
+      "icon": "4873"
+    },
+    {
+      "id": 8550,
+      "name": "Arc en chocolat (permanent) [Abandonner] Impossible",
+      "class": 4,
+      "icon": "4876"
+    },
+    {
+      "id": 8552,
+      "name": "Baguette magique en chocolat (permanent) [Abandonner] Impossible",
+      "class": 8,
+      "icon": "4875"
+    },
+    {
+      "id": 8598,
+      "name": "Sabre laser (permanent) [Abandonner] Impossible",
+      "class": 2,
+      "icon": "4922"
+    },
+    {
+      "id": 8600,
+      "name": "Gant laser (permanent) [Abandonner] Impossible",
+      "class": 16,
+      "icon": "4925"
+    },
+    {
+      "id": 8602,
+      "name": "Arc laser (permanent) [Abandonner] Impossible",
+      "class": 4,
+      "icon": "4923"
+    },
+    {
+      "id": 8604,
+      "name": "Baguette laser (permanent) [Abandonner] Impossible",
+      "class": 8,
+      "icon": "4924"
+    },
+    {
+      "id": 8699,
+      "name": "Épée florale [Abandonner] Impossible",
+      "class": 2,
+      "icon": "7120"
+    },
+    {
+      "id": 8701,
+      "name": "Arc floral [Abandonner] Impossible",
+      "class": 4,
+      "icon": "7121"
+    },
+    {
+      "id": 8703,
+      "name": "Baguette magique florale [Abandonner] Impossible",
+      "class": 8,
+      "icon": "7122"
+    },
+    {
+      "id": 8705,
+      "name": "Gantelet floral [Abandonner] Impossible",
+      "class": 16,
+      "icon": "7123"
+    },
+    {
+      "id": 8744,
+      "name": "Melon tranchant [Abandonner] Impossible",
+      "class": 2,
+      "icon": "7301"
+    },
+    {
+      "id": 8746,
+      "name": "Arc banane [Abandonner] Impossible",
+      "class": 4,
+      "icon": "7302"
+    },
+    {
+      "id": 8748,
+      "name": "Bâton melon [Abandonner] Impossible",
+      "class": 8,
+      "icon": "7303"
+    },
+    {
+      "id": 8750,
+      "name": "Gantelets ananas [Abandonner] Impossible",
+      "class": 16,
+      "icon": "7304"
+    },
+    {
+      "id": 8867,
+      "name": "Épée du gardien du zodiaque [Abandonner] Impossible",
+      "class": 2,
+      "icon": "7594"
+    },
+    {
+      "id": 8869,
+      "name": "Arc du gardien du zodiaque [Abandonner] Impossible",
+      "class": 4,
+      "icon": "7595"
+    },
+    {
+      "id": 8871,
+      "name": "Baguette magique du gardien du zodiaque [Abandonner] Impossible",
+      "class": 8,
+      "icon": "7596"
+    },
+    {
+      "id": 8873,
+      "name": "Poing du gardien du zodiaque [Abandonner] Impossible",
+      "class": 16,
+      "icon": "7597"
+    }
+  ],
+  "16": [
+    {
+      "id": 4443,
+      "name": "Ailes de costume de fée (permanent) [Abandonner] Impossible",
+      "class": 30,
+      "icon": "4129"
+    },
+    {
+      "id": 4531,
+      "name": "Ailes de costume tropical (permanent) [Abandonner] Impossible",
+      "class": 30,
+      "icon": "4148"
+    },
+    {
+      "id": 8568,
+      "name": "Ailes de dino (permanent) [Abandonner] Impossible",
+      "class": 30,
+      "icon": "4880"
+    },
+    {
+      "id": 8787,
+      "name": "Ailes de Nekhbet [Abandonner] Impossible",
+      "class": 30,
+      "icon": "7360"
+    },
+    {
+      "id": 8888,
+      "name": "Ailes de l'apôtre dimensionnel (permanent) [Abandonner] Impossible",
+      "class": 30,
+      "icon": "7670"
+    }
+  ],
+  "17": [
+    {
+      "id": 8585,
+      "name": "Minifamilier griffon (permanent) [Abandonner] Impossible",
+      "class": null,
+      "icon": "4917"
+    },
+    {
+      "id": 8586,
+      "name": "Minifamilier dragon noir (permanent) [Abandonner] Impossible",
+      "class": null,
+      "icon": "4918"
+    },
+    {
+      "id": 8613,
+      "name": "Minifamilier phénix (permanent) [Abandonner] Impossible",
+      "class": null,
+      "icon": "4927"
+    },
+    {
+      "id": 8616,
+      "name": "Minifamilier phénix bleu (permanent) [Abandonner] Impossible",
+      "class": null,
+      "icon": "4928"
+    },
+    {
+      "id": 8693,
+      "name": "Minifamilier dragon porte-bonheur bleu (permanent) [Abandonner] Impossible",
+      "class": null,
+      "icon": "7117"
+    },
+    {
+      "id": 8719,
+      "name": "Minifamilier : Petit esprit arc-en-ciel (permanent) [Abandonner] Impossible",
+      "class": null,
+      "icon": "7156"
+    },
+    {
+      "id": 8764,
+      "name": "Minifamilier « poney rose » (permanent) [Abandonner] Impossible",
+      "class": null,
+      "icon": "7328"
+    },
+    {
+      "id": 8788,
+      "name": "Minifamilier : Mielanie [Abandonner] Impossible",
+      "class": null,
+      "icon": "7379"
+    },
+    {
+      "id": 8800,
+      "name": "Minifamilier extraterrestre mignon (permanent) [Abandonner] Impossible",
+      "class": null,
+      "icon": "7434"
+    },
+    {
+      "id": 8879,
+      "name": "Minifamilier « Poney ardent » (permanent) [Abandonner] Impossible",
+      "class": null,
+      "icon": "7613"
+    }
+  ]
+}

@@ -1,0 +1,8946 @@
+[
+  {
+    "id": 835,
+    "text": "Abominable yéti (50)"
+  },
+  {
+    "id": 1652,
+    "text": "Achille (100 +100)"
+  },
+  {
+    "id": 1670,
+    "text": "Achille (100 +100)"
+  },
+  {
+    "id": 2035,
+    "text": "Achille l'enflammé (85)"
+  },
+  {
+    "id": 1641,
+    "text": "Adorable Fernon (1)"
+  },
+  {
+    "id": 732,
+    "text": "Affreux Rodolphe (15)"
+  },
+  {
+    "id": 734,
+    "text": "Affreux Rodolphe (25)"
+  },
+  {
+    "id": 736,
+    "text": "Affreux Rodolphe (35)"
+  },
+  {
+    "id": 738,
+    "text": "Affreux Rodolphe (45)"
+  },
+  {
+    "id": 744,
+    "text": "Affreux Rodolphe (55)"
+  },
+  {
+    "id": 746,
+    "text": "Affreux Rodolphe (65)"
+  },
+  {
+    "id": 1426,
+    "text": "Affreux Rodolphe (70)"
+  },
+  {
+    "id": 1164,
+    "text": "Agent de la troupe d'éclaireurs de Garton (83)"
+  },
+  {
+    "id": 1151,
+    "text": "Agent de la troupe d'éclaireurs de Kerus (81)"
+  },
+  {
+    "id": 1138,
+    "text": "Agent de la troupe d'éclaireurs de Melki (81)"
+  },
+  {
+    "id": 1031,
+    "text": "Agent de la troupe d'éclaireurs de Neil (80)"
+  },
+  {
+    "id": 2118,
+    "text": "Agneau jaune (1)"
+  },
+  {
+    "id": 1585,
+    "text": "Aide d'officier d'approvisionnement (0)"
+  },
+  {
+    "id": 1623,
+    "text": "Aile de jade (1)"
+  },
+  {
+    "id": 1615,
+    "text": "Aile de jade (92 +83)"
+  },
+  {
+    "id": 2575,
+    "text": "Alchimiste Felice (92)"
+  },
+  {
+    "id": 2676,
+    "text": "Alchimiste d'arrière-cour (50)"
+  },
+  {
+    "id": 3160,
+    "text": "Alchimiste draconien (95)"
+  },
+  {
+    "id": 2019,
+    "text": "Alchimiste du feu (85)"
+  },
+  {
+    "id": 2677,
+    "text": "Alchimiste vagabond (85)"
+  },
+  {
+    "id": 3255,
+    "text": "Aldo (0)"
+  },
+  {
+    "id": 3258,
+    "text": "Aldo, Hydraupoing (99)"
+  },
+  {
+    "id": 578,
+    "text": "Alfred Érudio (45)"
+  },
+  {
+    "id": 525,
+    "text": "Alice Bellia (45)"
+  },
+  {
+    "id": 3352,
+    "text": "Allos, l'assistant IA (99 +90)"
+  },
+  {
+    "id": 2754,
+    "text": "Alzanor (mini) (1)"
+  },
+  {
+    "id": 3140,
+    "text": "Alzanor dragon givré (100 +75)"
+  },
+  {
+    "id": 1582,
+    "text": "Amarok givré (99 +90)"
+  },
+  {
+    "id": 1624,
+    "text": "Ami mécanique (1)"
+  },
+  {
+    "id": 1651,
+    "text": "Amiral Yi (100 +100)"
+  },
+  {
+    "id": 1669,
+    "text": "Amiral Yi (100 +100)"
+  },
+  {
+    "id": 2683,
+    "text": "Amiral Œil d'aigle (1)"
+  },
+  {
+    "id": 566,
+    "text": "Amélia Glacia (50)"
+  },
+  {
+    "id": 2652,
+    "text": "Ancien des Goths (99)"
+  },
+  {
+    "id": 2390,
+    "text": "Ancien dragon des dimensions (100 +97)"
+  },
+  {
+    "id": 246,
+    "text": "Ancienne ombre nocturne (65)"
+  },
+  {
+    "id": 518,
+    "text": "Ange Israël (78)"
+  },
+  {
+    "id": 517,
+    "text": "Ange Jabiniel (77)"
+  },
+  {
+    "id": 519,
+    "text": "Ange Reedwhanel (80)"
+  },
+  {
+    "id": 394,
+    "text": "Annie (50)"
+  },
+  {
+    "id": 627,
+    "text": "Anémone sentinelle (75)"
+  },
+  {
+    "id": 3087,
+    "text": "Apprenti garde orc (90)"
+  },
+  {
+    "id": 3088,
+    "text": "Apprenti garde orc (90)"
+  },
+  {
+    "id": 215,
+    "text": "Araignée (60)"
+  },
+  {
+    "id": 214,
+    "text": "Araignée faible (58)"
+  },
+  {
+    "id": 216,
+    "text": "Araignée forte (62)"
+  },
+  {
+    "id": 293,
+    "text": "Araignée longues pattes (71)"
+  },
+  {
+    "id": 289,
+    "text": "Araignée noire géante (72)"
+  },
+  {
+    "id": 2738,
+    "text": "Araignée noire géante (mini) (1)"
+  },
+  {
+    "id": 163,
+    "text": "Araignée soldate (74)"
+  },
+  {
+    "id": 218,
+    "text": "Araignée venimeuse (59)"
+  },
+  {
+    "id": 3305,
+    "text": "Araignée épineuse (98 +87)"
+  },
+  {
+    "id": 3328,
+    "text": "Araignée épineuse contaminée (98 +87)"
+  },
+  {
+    "id": 3400,
+    "text": "Araignée épineuse des Catacombes (96 +87)"
+  },
+  {
+    "id": 606,
+    "text": "Arbre maudit (88)"
+  },
+  {
+    "id": 365,
+    "text": "Arc enchanté (37)"
+  },
+  {
+    "id": 2553,
+    "text": "Archange Lucifer (96)"
+  },
+  {
+    "id": 981,
+    "text": "Archange scellé (97)"
+  },
+  {
+    "id": 1569,
+    "text": "Archer Champidor (vétéran) (97 +85)"
+  },
+  {
+    "id": 3432,
+    "text": "Archer anglo-saxon (95 +97)"
+  },
+  {
+    "id": 3111,
+    "text": "Archer corrompu orc (97)"
+  },
+  {
+    "id": 3418,
+    "text": "Archer d'élite troyen (98 +97)"
+  },
+  {
+    "id": 1631,
+    "text": "Archer des dimensions (98 +97)"
+  },
+  {
+    "id": 3436,
+    "text": "Archer du Lac des murmures (98 +97)"
+  },
+  {
+    "id": 1656,
+    "text": "Archer du dragon marin (95 +85)"
+  },
+  {
+    "id": 1664,
+    "text": "Archer du dragon marin (95 +85)"
+  },
+  {
+    "id": 1658,
+    "text": "Archer grec (95 +85)"
+  },
+  {
+    "id": 1666,
+    "text": "Archer grec (95 +85)"
+  },
+  {
+    "id": 3366,
+    "text": "Archer koaren (92 +70)"
+  },
+  {
+    "id": 3180,
+    "text": "Archer mycète (92 +69)"
+  },
+  {
+    "id": 3273,
+    "text": "Archer mycète amélioré (92 +69)"
+  },
+  {
+    "id": 3216,
+    "text": "Archer mycète doré (92 +36)"
+  },
+  {
+    "id": 1465,
+    "text": "Archer mycète doré (expert) (92 +65)"
+  },
+  {
+    "id": 3249,
+    "text": "Archer mycète doré géant (93 +55)"
+  },
+  {
+    "id": 1468,
+    "text": "Archer mycète doré géant (expert) (93 +75)"
+  },
+  {
+    "id": 3183,
+    "text": "Archer mycète géant (96 +70)"
+  },
+  {
+    "id": 3276,
+    "text": "Archer mycète géant amélioré (96 +70)"
+  },
+  {
+    "id": 704,
+    "text": "Archer orc furieux (90)"
+  },
+  {
+    "id": 3033,
+    "text": "Archer orc royal (95)"
+  },
+  {
+    "id": 3388,
+    "text": "Archer ormycète des catacombes (98 +80)"
+  },
+  {
+    "id": 2303,
+    "text": "Archer sinistre (91)"
+  },
+  {
+    "id": 2569,
+    "text": "Archer spectral d'élite inconnu (91)"
+  },
+  {
+    "id": 2563,
+    "text": "Archer spectral de Fernon (92)"
+  },
+  {
+    "id": 2560,
+    "text": "Archer spectral inconnu (90)"
+  },
+  {
+    "id": 3414,
+    "text": "Archer troyen (95 +97)"
+  },
+  {
+    "id": 1650,
+    "text": "Archer vengeur des dimensions (99 +98)"
+  },
+  {
+    "id": 1685,
+    "text": "Archer vengeur du Lac des murmures (98 +96)"
+  },
+  {
+    "id": 1688,
+    "text": "Archer vengeur troyen (98 +96)"
+  },
+  {
+    "id": 272,
+    "text": "Archer à tête de mort (72)"
+  },
+  {
+    "id": 2666,
+    "text": "Archer à tête de mort (81)"
+  },
+  {
+    "id": 3127,
+    "text": "Archer à tête de mort d'Arku (79)"
+  },
+  {
+    "id": 273,
+    "text": "Archer à tête de mort ensorcelé (76)"
+  },
+  {
+    "id": 2733,
+    "text": "Archer à tête de mort ensorcelé (83)"
+  },
+  {
+    "id": 2387,
+    "text": "Archimage des dimensions (99 +97)"
+  },
+  {
+    "id": 510,
+    "text": "Archtheridon Ducdenfer (70)"
+  },
+  {
+    "id": 2530,
+    "text": "Archtheridon Ducdenfer (93)"
+  },
+  {
+    "id": 1542,
+    "text": "Arma géant (100 +90)"
+  },
+  {
+    "id": 3374,
+    "text": "Arma géant (99 +90)"
+  },
+  {
+    "id": 2378,
+    "text": "Arma géant M.P.M. (99 +90)"
+  },
+  {
+    "id": 1552,
+    "text": "Arma géant absolu (100 +95)"
+  },
+  {
+    "id": 3384,
+    "text": "Arma géant absolu (espace-temps) (99 +90)"
+  },
+  {
+    "id": 1618,
+    "text": "Arma géant spectral (95 +95)"
+  },
+  {
+    "id": 2657,
+    "text": "Armurerie dans le désert (50)"
+  },
+  {
+    "id": 521,
+    "text": "Arnold Artisan (45)"
+  },
+  {
+    "id": 3215,
+    "text": "Aros, chef des drakovs (99 +75)"
+  },
+  {
+    "id": 3404,
+    "text": "Arquebusier ashigaru (95 +97)"
+  },
+  {
+    "id": 3294,
+    "text": "Artificier mécanique (96 +87)"
+  },
+  {
+    "id": 3323,
+    "text": "Artificier mécanique IA (99 +87)"
+  },
+  {
+    "id": 3345,
+    "text": "Artificier mécanique IA (99 +87)"
+  },
+  {
+    "id": 2382,
+    "text": "Artificier mécanique IA (99 +87)"
+  },
+  {
+    "id": 2702,
+    "text": "Arts mystiques (90)"
+  },
+  {
+    "id": 2703,
+    "text": "Arts mystiques (cachée) (1)"
+  },
+  {
+    "id": 2543,
+    "text": "Asael (95)"
+  },
+  {
+    "id": 2755,
+    "text": "Asgobas (mini) (1)"
+  },
+  {
+    "id": 1462,
+    "text": "Asgobas blessé (99 +60)"
+  },
+  {
+    "id": 1597,
+    "text": "Asgobas exténué (100 +80)"
+  },
+  {
+    "id": 2730,
+    "text": "Asgobas faible (100 +80)"
+  },
+  {
+    "id": 1576,
+    "text": "Asgobas reconstitué (100 +91)"
+  },
+  {
+    "id": 1463,
+    "text": "Asgobas rétabli (99 +80)"
+  },
+  {
+    "id": 3046,
+    "text": "Asgot (99)"
+  },
+  {
+    "id": 2682,
+    "text": "Aspirant diabolique Gratte (1)"
+  },
+  {
+    "id": 3113,
+    "text": "Assassin corrompu orc (96)"
+  },
+  {
+    "id": 1234,
+    "text": "Assassin d'escorte de Shay (88)"
+  },
+  {
+    "id": 1230,
+    "text": "Assassin d'escorte de Shoran (88)"
+  },
+  {
+    "id": 1353,
+    "text": "Assassin d'élite (83)"
+  },
+  {
+    "id": 1168,
+    "text": "Assassin d'élite de Garton (85)"
+  },
+  {
+    "id": 1155,
+    "text": "Assassin d'élite de Kerus (82)"
+  },
+  {
+    "id": 1142,
+    "text": "Assassin d'élite de Melki (82)"
+  },
+  {
+    "id": 1101,
+    "text": "Assassin d'élite de Neil (80)"
+  },
+  {
+    "id": 785,
+    "text": "Assassin de Paimon (90)"
+  },
+  {
+    "id": 1303,
+    "text": "Assassin de la garde de Shay (88)"
+  },
+  {
+    "id": 1299,
+    "text": "Assassin de la garde de Shoran (88)"
+  },
+  {
+    "id": 1160,
+    "text": "Assassin de la troupe d'éclaireurs de Garton (83)"
+  },
+  {
+    "id": 1147,
+    "text": "Assassin de la troupe d'éclaireurs de Kerus (81)"
+  },
+  {
+    "id": 1134,
+    "text": "Assassin de la troupe d'éclaireurs de Melki (81)"
+  },
+  {
+    "id": 1021,
+    "text": "Assassin de la troupe d'éclaireurs de Neil (80)"
+  },
+  {
+    "id": 1158,
+    "text": "Assassin de la troupe d'éclaireurs de Shay (84)"
+  },
+  {
+    "id": 1291,
+    "text": "Assassin de la troupe d'éclaireurs de Shay (84)"
+  },
+  {
+    "id": 1210,
+    "text": "Assassin de la troupe d'éclaireurs de Shoran (84)"
+  },
+  {
+    "id": 1295,
+    "text": "Assassin de la troupe d'éclaireurs de Shoran (84)"
+  },
+  {
+    "id": 1222,
+    "text": "Assassin de transport de Shay (85)"
+  },
+  {
+    "id": 1226,
+    "text": "Assassin de transport de Shoran (85)"
+  },
+  {
+    "id": 3032,
+    "text": "Assassin orc royal (95)"
+  },
+  {
+    "id": 1270,
+    "text": "Assistant Shane (99)"
+  },
+  {
+    "id": 2695,
+    "text": "Assistant d'équipement (80)"
+  },
+  {
+    "id": 2579,
+    "text": "Astaroth (99)"
+  },
+  {
+    "id": 538,
+    "text": "Aurélius Roshu (50)"
+  },
+  {
+    "id": 967,
+    "text": "Autel des anges (0)"
+  },
+  {
+    "id": 968,
+    "text": "Autel des démons (0)"
+  },
+  {
+    "id": 3219,
+    "text": "Avatar d'Alzanor (99 +75)"
+  },
+  {
+    "id": 3039,
+    "text": "Avatar de Carno roi des bêtes (98)"
+  },
+  {
+    "id": 3040,
+    "text": "Avatar de Kirollas roi des esprits (98)"
+  },
+  {
+    "id": 3220,
+    "text": "Avatar de Valehir (99 +75)"
+  },
+  {
+    "id": 3271,
+    "text": "Avatar de Valehir (amélioré) (99 +75)"
+  },
+  {
+    "id": 1470,
+    "text": "Avatar du roi des bêtes (1)"
+  },
+  {
+    "id": 1456,
+    "text": "Avatar du roi des esprits (1)"
+  },
+  {
+    "id": 3152,
+    "text": "Aéline (99)"
+  },
+  {
+    "id": 3202,
+    "text": "Aéline de la Cime du Krem (99)"
+  },
+  {
+    "id": 3259,
+    "text": "Aéline, Gravitas (99)"
+  },
+  {
+    "id": 2513,
+    "text": "Bacoum (89)"
+  },
+  {
+    "id": 2520,
+    "text": "Bacoum d'élite (92)"
+  },
+  {
+    "id": 1587,
+    "text": "Bananosaure (75)"
+  },
+  {
+    "id": 1593,
+    "text": "Bananosaure Rex (85)"
+  },
+  {
+    "id": 2766,
+    "text": "Bananosaure furieux (75)"
+  },
+  {
+    "id": 2546,
+    "text": "Barak (96)"
+  },
+  {
+    "id": 624,
+    "text": "Baron Bérios (80)"
+  },
+  {
+    "id": 469,
+    "text": "Basilic (75)"
+  },
+  {
+    "id": 493,
+    "text": "Basilic (75)"
+  },
+  {
+    "id": 494,
+    "text": "Basilic (75)"
+  },
+  {
+    "id": 495,
+    "text": "Basilic (75)"
+  },
+  {
+    "id": 753,
+    "text": "Basilic des neiges (74)"
+  },
+  {
+    "id": 1244,
+    "text": "Basilic des sables désertiques (83)"
+  },
+  {
+    "id": 2647,
+    "text": "Basilic des sables désertiques violent (83)"
+  },
+  {
+    "id": 1252,
+    "text": "Basilic des sables fantomatiques (83)"
+  },
+  {
+    "id": 1011,
+    "text": "Basilic des sables marins (80)"
+  },
+  {
+    "id": 1123,
+    "text": "Basilic des sables mouvants (83)"
+  },
+  {
+    "id": 1119,
+    "text": "Basilic des sables poussiéreux (81)"
+  },
+  {
+    "id": 1111,
+    "text": "Basilic des sables tempétueux (81)"
+  },
+  {
+    "id": 583,
+    "text": "Basilic fort (65)"
+  },
+  {
+    "id": 3116,
+    "text": "Basilic infernal (90)"
+  },
+  {
+    "id": 3395,
+    "text": "Bave caverneuse des catacombes (98 +87)"
+  },
+  {
+    "id": 3298,
+    "text": "Bave osseuse (97 +87)"
+  },
+  {
+    "id": 3336,
+    "text": "Bave osseuse des grottes (97 +87)"
+  },
+  {
+    "id": 3341,
+    "text": "Bave osseuse du géant moussu (97 +87)"
+  },
+  {
+    "id": 3299,
+    "text": "Bave osseuse géante (98 +87)"
+  },
+  {
+    "id": 3093,
+    "text": "Ben le marchand (90)"
+  },
+  {
+    "id": 534,
+    "text": "Benito Butler (35)"
+  },
+  {
+    "id": 508,
+    "text": "Benteruke (66)"
+  },
+  {
+    "id": 984,
+    "text": "Berserker de Paimon (97)"
+  },
+  {
+    "id": 793,
+    "text": "Bibi Bazar (80)"
+  },
+  {
+    "id": 1583,
+    "text": "Boa bleu (1)"
+  },
+  {
+    "id": 1584,
+    "text": "Boa vert (1)"
+  },
+  {
+    "id": 317,
+    "text": "Bob (24)"
+  },
+  {
+    "id": 136,
+    "text": "Boing (22)"
+  },
+  {
+    "id": 137,
+    "text": "Boing dur (36)"
+  },
+  {
+    "id": 139,
+    "text": "Boing fléau d'armes (44)"
+  },
+  {
+    "id": 174,
+    "text": "Boing ovni faible (67)"
+  },
+  {
+    "id": 175,
+    "text": "Boing ovni fort (70)"
+  },
+  {
+    "id": 595,
+    "text": "Boing satellite (58)"
+  },
+  {
+    "id": 1395,
+    "text": "Boing scellé (70)"
+  },
+  {
+    "id": 192,
+    "text": "Boing à roue dentée A (71)"
+  },
+  {
+    "id": 193,
+    "text": "Boing à roue dentée B (71)"
+  },
+  {
+    "id": 172,
+    "text": "Boing épineux faible (68)"
+  },
+  {
+    "id": 173,
+    "text": "Boing épineux fort (71)"
+  },
+  {
+    "id": 2376,
+    "text": "Boitier électromagnétique (pôle+) (99)"
+  },
+  {
+    "id": 2377,
+    "text": "Boitier électromagnétique (pôle-) (99)"
+  },
+  {
+    "id": 1094,
+    "text": "Bolporti, le tisseur de soie (50)"
+  },
+  {
+    "id": 1236,
+    "text": "Bombardier d'escorte de Shay (89)"
+  },
+  {
+    "id": 1232,
+    "text": "Bombardier d'escorte de Shoran (89)"
+  },
+  {
+    "id": 1355,
+    "text": "Bombardier d'élite (83)"
+  },
+  {
+    "id": 1170,
+    "text": "Bombardier d'élite de Garton (86)"
+  },
+  {
+    "id": 1157,
+    "text": "Bombardier d'élite de Kerus (83)"
+  },
+  {
+    "id": 1144,
+    "text": "Bombardier d'élite de Melki (83)"
+  },
+  {
+    "id": 1103,
+    "text": "Bombardier d'élite de Neil (81)"
+  },
+  {
+    "id": 1902,
+    "text": "Bombardier de l'équipe d'exploration des voleurs du désert (89)"
+  },
+  {
+    "id": 1305,
+    "text": "Bombardier de la garde de Shay (89)"
+  },
+  {
+    "id": 1301,
+    "text": "Bombardier de la garde de Shoran (89)"
+  },
+  {
+    "id": 1162,
+    "text": "Bombardier de la troupe d'éclaireurs de Garton (82)"
+  },
+  {
+    "id": 1136,
+    "text": "Bombardier de la troupe d'éclaireurs de Melki (80)"
+  },
+  {
+    "id": 1023,
+    "text": "Bombardier de la troupe d'éclaireurs de Neil (79)"
+  },
+  {
+    "id": 1208,
+    "text": "Bombardier de la troupe d'éclaireurs de Shay (85)"
+  },
+  {
+    "id": 1293,
+    "text": "Bombardier de la troupe d'éclaireurs de Shay (85)"
+  },
+  {
+    "id": 1212,
+    "text": "Bombardier de la troupe d'éclaireurs de Shoran (85)"
+  },
+  {
+    "id": 1297,
+    "text": "Bombardier de la troupe d'éclaireurs de Shoran (85)"
+  },
+  {
+    "id": 1224,
+    "text": "Bombardier de transport de Shay (86)"
+  },
+  {
+    "id": 1228,
+    "text": "Bombardier de transport de Shoran (86)"
+  },
+  {
+    "id": 1149,
+    "text": "Bombardiers de la troupe d'éclaireurs de Kerus (80)"
+  },
+  {
+    "id": 1382,
+    "text": "Bombe citrouille (30)"
+  },
+  {
+    "id": 2343,
+    "text": "Bombe à œufs fous (0)"
+  },
+  {
+    "id": 531,
+    "text": "Bonhomme de neige (30)"
+  },
+  {
+    "id": 535,
+    "text": "Bonhomme de neige (30)"
+  },
+  {
+    "id": 3175,
+    "text": "Bonhomme de neige (97 +69)"
+  },
+  {
+    "id": 3176,
+    "text": "Bonhomme de neige d'ombregivre (98 +80)"
+  },
+  {
+    "id": 3390,
+    "text": "Bonhomme de neige des catacombes (99 +80)"
+  },
+  {
+    "id": 3222,
+    "text": "Bonhomme de neige givré (99 +75)"
+  },
+  {
+    "id": 740,
+    "text": "Bonhomme de neige malfaisant (15)"
+  },
+  {
+    "id": 741,
+    "text": "Bonhomme de neige malfaisant (25)"
+  },
+  {
+    "id": 742,
+    "text": "Bonhomme de neige malfaisant (35)"
+  },
+  {
+    "id": 743,
+    "text": "Bonhomme de neige malfaisant (45)"
+  },
+  {
+    "id": 750,
+    "text": "Bonhomme de neige malfaisant (55)"
+  },
+  {
+    "id": 751,
+    "text": "Bonhomme de neige malfaisant (65)"
+  },
+  {
+    "id": 2708,
+    "text": "Bori l'ours polaire (1)"
+  },
+  {
+    "id": 1056,
+    "text": "Bouclier de chaleur étincelante (93)"
+  },
+  {
+    "id": 3236,
+    "text": "Boule de neige (93 +66)"
+  },
+  {
+    "id": 808,
+    "text": "Boule de neige domptée (1)"
+  },
+  {
+    "id": 1591,
+    "text": "Boulet de canon pastèque (45)"
+  },
+  {
+    "id": 196,
+    "text": "Boulon du frisson (porte 1) (28)"
+  },
+  {
+    "id": 380,
+    "text": "Boulon du frisson (porte 2) (30)"
+  },
+  {
+    "id": 381,
+    "text": "Boulon du frisson (porte 3) (31)"
+  },
+  {
+    "id": 3163,
+    "text": "Bourdon dragon (92 +62)"
+  },
+  {
+    "id": 3164,
+    "text": "Bourdon grognon dragon (92 +62)"
+  },
+  {
+    "id": 1678,
+    "text": "Bourreau de Hideyoshi (98 +99)"
+  },
+  {
+    "id": 995,
+    "text": "Bourreau du nébulon (99 +75)"
+  },
+  {
+    "id": 1690,
+    "text": "Bourreau géant troyen (98 +99)"
+  },
+  {
+    "id": 1265,
+    "text": "Boîte aux lettres de Neil (1)"
+  },
+  {
+    "id": 1680,
+    "text": "Braconnier à hache de Midgard (98 +96)"
+  },
+  {
+    "id": 1282,
+    "text": "Breuvage suspect (0)"
+  },
+  {
+    "id": 1367,
+    "text": "Bricoleur (99)"
+  },
+  {
+    "id": 153,
+    "text": "Brigand d'élite kenko (50)"
+  },
+  {
+    "id": 152,
+    "text": "Brigand kenko (46)"
+  },
+  {
+    "id": 151,
+    "text": "Brigand novice kenko (43)"
+  },
+  {
+    "id": 1490,
+    "text": "Brouillard sans fin de Valehir (99 +75)"
+  },
+  {
+    "id": 3304,
+    "text": "Bébé araignée épineuse (96 +87)"
+  },
+  {
+    "id": 3151,
+    "text": "Bébé bourdon dragon (90 +61)"
+  },
+  {
+    "id": 3203,
+    "text": "Bébé dragon céleste (1)"
+  },
+  {
+    "id": 3391,
+    "text": "Bébé dragon givré pestilentiel (96 +83)"
+  },
+  {
+    "id": 3300,
+    "text": "Bébé lézard muqueux (96 +87)"
+  },
+  {
+    "id": 1488,
+    "text": "Bébé panda (1)"
+  },
+  {
+    "id": 3192,
+    "text": "Bébé tricératops (92 +69)"
+  },
+  {
+    "id": 3267,
+    "text": "Bébé tricératops amélioré (92 +69)"
+  },
+  {
+    "id": 2750,
+    "text": "Bélial (mini) (1)"
+  },
+  {
+    "id": 1598,
+    "text": "Bélial tendu (100)"
+  },
+  {
+    "id": 16,
+    "text": "Bélier (35)"
+  },
+  {
+    "id": 15,
+    "text": "Bélier fatigué (24)"
+  },
+  {
+    "id": 17,
+    "text": "Bélier nerveux (37)"
+  },
+  {
+    "id": 3214,
+    "text": "Bémos, chef des drakovs (99 +75)"
+  },
+  {
+    "id": 402,
+    "text": "Bête (63)"
+  },
+  {
+    "id": 2327,
+    "text": "Bête de Laurena (90)"
+  },
+  {
+    "id": 3016,
+    "text": "Bête démoniaque (96)"
+  },
+  {
+    "id": 701,
+    "text": "Bête infernale brutale (90)"
+  },
+  {
+    "id": 434,
+    "text": "Bête maudite (72)"
+  },
+  {
+    "id": 1400,
+    "text": "Bête scellée (70)"
+  },
+  {
+    "id": 1255,
+    "text": "Cactus des sables désertiques (83)"
+  },
+  {
+    "id": 1258,
+    "text": "Cactus des sables fantomatiques (83)"
+  },
+  {
+    "id": 1008,
+    "text": "Cactus des sables marins (80)"
+  },
+  {
+    "id": 1130,
+    "text": "Cactus des sables mouvants (83)"
+  },
+  {
+    "id": 1126,
+    "text": "Cactus des sables poussiéreux (81)"
+  },
+  {
+    "id": 1129,
+    "text": "Cactus des sables poussiéreux (81)"
+  },
+  {
+    "id": 3066,
+    "text": "Cadavre de Logtas (0)"
+  },
+  {
+    "id": 2305,
+    "text": "Caligor (98)"
+  },
+  {
+    "id": 302,
+    "text": "Calvin Coach (35)"
+  },
+  {
+    "id": 3363,
+    "text": "Capitaine (99 +80)"
+  },
+  {
+    "id": 3154,
+    "text": "Capitaine Enrico (100)"
+  },
+  {
+    "id": 1504,
+    "text": "Capitaine Jack Panon (75)"
+  },
+  {
+    "id": 354,
+    "text": "Capitaine Lance (27)"
+  },
+  {
+    "id": 1500,
+    "text": "Capitaine Pete O'Peng (70)"
+  },
+  {
+    "id": 337,
+    "text": "Capitaine de la garde de NosVille (20)"
+  },
+  {
+    "id": 339,
+    "text": "Capitaine des chevaliers (35)"
+  },
+  {
+    "id": 358,
+    "text": "Capitaine des chevaliers de Ramos (36)"
+  },
+  {
+    "id": 3108,
+    "text": "Capitaine des chevaliers ténébreux (99)"
+  },
+  {
+    "id": 2654,
+    "text": "Capitaine des pirates (70)"
+  },
+  {
+    "id": 2655,
+    "text": "Capitaine des pirates (70)"
+  },
+  {
+    "id": 1454,
+    "text": "Capitaine des voleurs (97)"
+  },
+  {
+    "id": 2634,
+    "text": "Capitaine des voleurs du désert (92)"
+  },
+  {
+    "id": 3213,
+    "text": "Capitaine drakov (98 +74)"
+  },
+  {
+    "id": 2583,
+    "text": "Capitaine du vaisseau (50)"
+  },
+  {
+    "id": 2598,
+    "text": "Capitaine du vaisseau (50)"
+  },
+  {
+    "id": 543,
+    "text": "Cappen (43)"
+  },
+  {
+    "id": 3287,
+    "text": "Carabinier Mullan (93 +82)"
+  },
+  {
+    "id": 3312,
+    "text": "Carabinier loyaliste (96 +87)"
+  },
+  {
+    "id": 3291,
+    "text": "Carabinier mécanique (96 +87)"
+  },
+  {
+    "id": 3321,
+    "text": "Carabinier mécanique IA (99 +87)"
+  },
+  {
+    "id": 3343,
+    "text": "Carabinier mécanique IA (99 +87)"
+  },
+  {
+    "id": 3314,
+    "text": "Carabinier mécanique loyaliste (98 +87)"
+  },
+  {
+    "id": 3331,
+    "text": "Carabinier mécanique loyaliste (98 +87)"
+  },
+  {
+    "id": 2380,
+    "text": "Carabinier mécano-aquatique IA (99 +87)"
+  },
+  {
+    "id": 3370,
+    "text": "Carabinier rebelle (93 +73)"
+  },
+  {
+    "id": 2749,
+    "text": "Carno (mini) (1)"
+  },
+  {
+    "id": 3028,
+    "text": "Carno roi des bêtes corrompu (99)"
+  },
+  {
+    "id": 3038,
+    "text": "Carno roi des bêtes corrompu (endormi) (98)"
+  },
+  {
+    "id": 327,
+    "text": "Carven (65)"
+  },
+  {
+    "id": 285,
+    "text": "Castra obscur (68)"
+  },
+  {
+    "id": 2737,
+    "text": "Castra obscur (mini) (1)"
+  },
+  {
+    "id": 455,
+    "text": "Catlotte (70)"
+  },
+  {
+    "id": 454,
+    "text": "Catrisha (70)"
+  },
+  {
+    "id": 325,
+    "text": "Cenil (63)"
+  },
+  {
+    "id": 326,
+    "text": "Cenil (63)"
+  },
+  {
+    "id": 3248,
+    "text": "Cerf chimérique des glaciers (96 +46)"
+  },
+  {
+    "id": 1478,
+    "text": "Cerf chimérique des glaciers (expert) (96 +76)"
+  },
+  {
+    "id": 3221,
+    "text": "Cerf chimérique givré (99 +75)"
+  },
+  {
+    "id": 3429,
+    "text": "Cerf draconique (98 +97)"
+  },
+  {
+    "id": 3177,
+    "text": "Cerf givré (97 +69)"
+  },
+  {
+    "id": 3178,
+    "text": "Cerf givré antique (98 +80)"
+  },
+  {
+    "id": 3389,
+    "text": "Cerf spectral des catacombes (98 +80)"
+  },
+  {
+    "id": 2762,
+    "text": "Chacha Noël (1)"
+  },
+  {
+    "id": 1235,
+    "text": "Chasseur d'escorte de Shay (89)"
+  },
+  {
+    "id": 1231,
+    "text": "Chasseur d'escorte de Shoran (89)"
+  },
+  {
+    "id": 1354,
+    "text": "Chasseur d'élite (83)"
+  },
+  {
+    "id": 1169,
+    "text": "Chasseur d'élite de Garton (86)"
+  },
+  {
+    "id": 1156,
+    "text": "Chasseur d'élite de Kerus (83)"
+  },
+  {
+    "id": 1143,
+    "text": "Chasseur d'élite de Melki (83)"
+  },
+  {
+    "id": 1102,
+    "text": "Chasseur d'élite de Neil (81)"
+  },
+  {
+    "id": 3206,
+    "text": "Chasseur de dragons décomposé (98 +80)"
+  },
+  {
+    "id": 1901,
+    "text": "Chasseur de l'équipe d'exploration des voleurs du désert (89)"
+  },
+  {
+    "id": 1304,
+    "text": "Chasseur de la garde de Shay (89)"
+  },
+  {
+    "id": 1300,
+    "text": "Chasseur de la garde de Shoran (89)"
+  },
+  {
+    "id": 1161,
+    "text": "Chasseur de la troupe d'éclaireurs de Garton (82)"
+  },
+  {
+    "id": 1148,
+    "text": "Chasseur de la troupe d'éclaireurs de Kerus (80)"
+  },
+  {
+    "id": 1135,
+    "text": "Chasseur de la troupe d'éclaireurs de Melki (80)"
+  },
+  {
+    "id": 1022,
+    "text": "Chasseur de la troupe d'éclaireurs de Neil (79)"
+  },
+  {
+    "id": 1171,
+    "text": "Chasseur de la troupe d'éclaireurs de Shay (85)"
+  },
+  {
+    "id": 1292,
+    "text": "Chasseur de la troupe d'éclaireurs de Shay (85)"
+  },
+  {
+    "id": 1211,
+    "text": "Chasseur de la troupe d'éclaireurs de Shoran (85)"
+  },
+  {
+    "id": 1296,
+    "text": "Chasseur de la troupe d'éclaireurs de Shoran (85)"
+  },
+  {
+    "id": 695,
+    "text": "Chasseur de prime gobelin (90)"
+  },
+  {
+    "id": 1223,
+    "text": "Chasseur de transport de Shay (86)"
+  },
+  {
+    "id": 1227,
+    "text": "Chasseur de transport de Shoran (86)"
+  },
+  {
+    "id": 3095,
+    "text": "Chasseur de trésors Irus (90)"
+  },
+  {
+    "id": 3094,
+    "text": "Chasseur de trésors Orus (90)"
+  },
+  {
+    "id": 1080,
+    "text": "Chasseur de trésors mort (1)"
+  },
+  {
+    "id": 560,
+    "text": "Chasseur mokan (77)"
+  },
+  {
+    "id": 625,
+    "text": "Chasseur océanique (75)"
+  },
+  {
+    "id": 770,
+    "text": "Chasseur océanique invoqué (75)"
+  },
+  {
+    "id": 574,
+    "text": "Chasseur sombre (75)"
+  },
+  {
+    "id": 3120,
+    "text": "Chasseur sournois (91)"
+  },
+  {
+    "id": 1911,
+    "text": "Chaîne enflammée (93)"
+  },
+  {
+    "id": 1048,
+    "text": "Chaîne enflammée forte (93)"
+  },
+  {
+    "id": 1946,
+    "text": "Chef Thierry (1)"
+  },
+  {
+    "id": 3067,
+    "text": "Chef Toufle (90)"
+  },
+  {
+    "id": 3030,
+    "text": "Chef Toufle (98)"
+  },
+  {
+    "id": 987,
+    "text": "Chef de troupe de Paimon (100)"
+  },
+  {
+    "id": 392,
+    "text": "Chef koaren (75)"
+  },
+  {
+    "id": 3055,
+    "text": "Chef orc corrompu (98)"
+  },
+  {
+    "id": 2580,
+    "text": "Chercheur d'espace-temps des Croisés (92)"
+  },
+  {
+    "id": 338,
+    "text": "Chevalier (20)"
+  },
+  {
+    "id": 321,
+    "text": "Chevalier de Lord Cuarry (20)"
+  },
+  {
+    "id": 311,
+    "text": "Chevalier de Lord Cuarry (35)"
+  },
+  {
+    "id": 3364,
+    "text": "Chevalier de Lord Cuarry (99 +75)"
+  },
+  {
+    "id": 601,
+    "text": "Chevalier de la mort (72)"
+  },
+  {
+    "id": 703,
+    "text": "Chevalier de la mort (90)"
+  },
+  {
+    "id": 3260,
+    "text": "Chevalier dragon épuisé (99)"
+  },
+  {
+    "id": 2707,
+    "text": "Chevalier en armure de Bélial (98)"
+  },
+  {
+    "id": 442,
+    "text": "Chevalier infernal (82)"
+  },
+  {
+    "id": 487,
+    "text": "Chevalier infernal (82)"
+  },
+  {
+    "id": 488,
+    "text": "Chevalier infernal (82)"
+  },
+  {
+    "id": 489,
+    "text": "Chevalier infernal (82)"
+  },
+  {
+    "id": 2527,
+    "text": "Chevalier infernal (90)"
+  },
+  {
+    "id": 724,
+    "text": "Chevalier infernal fort (55)"
+  },
+  {
+    "id": 805,
+    "text": "Chevalier infernal fort (90)"
+  },
+  {
+    "id": 1393,
+    "text": "Chevalier infernal scellé (70)"
+  },
+  {
+    "id": 2522,
+    "text": "Chevalier mystique (85)"
+  },
+  {
+    "id": 812,
+    "text": "Chevalier mystique scellé (90)"
+  },
+  {
+    "id": 379,
+    "text": "Chevalier pinto (4)"
+  },
+  {
+    "id": 2516,
+    "text": "Chevalier protecteur d'Erenia (89)"
+  },
+  {
+    "id": 2506,
+    "text": "Chevalier protecteur de Zénas (88)"
+  },
+  {
+    "id": 2301,
+    "text": "Chevalier ténébreux (91)"
+  },
+  {
+    "id": 3026,
+    "text": "Chevalier ténébreux de Bélial (98)"
+  },
+  {
+    "id": 593,
+    "text": "Chien de Satan (51)"
+  },
+  {
+    "id": 1392,
+    "text": "Chien de Satan scellé (70)"
+  },
+  {
+    "id": 1045,
+    "text": "Chien de braise (88)"
+  },
+  {
+    "id": 1909,
+    "text": "Chien de braise agile (88)"
+  },
+  {
+    "id": 1914,
+    "text": "Chien de braise flou (88)"
+  },
+  {
+    "id": 1910,
+    "text": "Chien de braise mordant (89)"
+  },
+  {
+    "id": 617,
+    "text": "Chien de garde de la Grotte cristalline (75)"
+  },
+  {
+    "id": 780,
+    "text": "Chien de garde de la Grotte cristalline invoqué (75)"
+  },
+  {
+    "id": 377,
+    "text": "Chien de l'enfer (42)"
+  },
+  {
+    "id": 580,
+    "text": "Chien de l'enfer (45)"
+  },
+  {
+    "id": 1389,
+    "text": "Chien de l'enfer scellé (70)"
+  },
+  {
+    "id": 590,
+    "text": "Chien gardien de l'enfer (38)"
+  },
+  {
+    "id": 1061,
+    "text": "Chilton, le gardien du phare (99)"
+  },
+  {
+    "id": 1915,
+    "text": "Chiot de Kertos (90)"
+  },
+  {
+    "id": 676,
+    "text": "Chris l'officier déchu (30)"
+  },
+  {
+    "id": 445,
+    "text": "Chrysos (77)"
+  },
+  {
+    "id": 490,
+    "text": "Chrysos (77)"
+  },
+  {
+    "id": 491,
+    "text": "Chrysos (77)"
+  },
+  {
+    "id": 492,
+    "text": "Chrysos (77)"
+  },
+  {
+    "id": 803,
+    "text": "Chuck Poussin (1)"
+  },
+  {
+    "id": 3077,
+    "text": "Churigo (90)"
+  },
+  {
+    "id": 1279,
+    "text": "Cinquièmes marchandises (0)"
+  },
+  {
+    "id": 3080,
+    "text": "Citoyen orc (90)"
+  },
+  {
+    "id": 3081,
+    "text": "Citoyenne orc (90)"
+  },
+  {
+    "id": 1323,
+    "text": "Clerc mort (1)"
+  },
+  {
+    "id": 1637,
+    "text": "Clone de la Dame du lac (99 +90)"
+  },
+  {
+    "id": 2113,
+    "text": "Clone des ténèbres invoqué (1)"
+  },
+  {
+    "id": 2114,
+    "text": "Clone des ténèbres invoqué (1)"
+  },
+  {
+    "id": 2115,
+    "text": "Clone des ténèbres invoqué (1)"
+  },
+  {
+    "id": 2112,
+    "text": "Clone des ténèbres invoqué (1)"
+  },
+  {
+    "id": 776,
+    "text": "Clone du roi des bêtes (90)"
+  },
+  {
+    "id": 204,
+    "text": "Cochon (58)"
+  },
+  {
+    "id": 205,
+    "text": "Cochon fort (63)"
+  },
+  {
+    "id": 536,
+    "text": "Cochon porte-bonheur du nouvel an (1)"
+  },
+  {
+    "id": 1421,
+    "text": "Cochon scellé (70)"
+  },
+  {
+    "id": 1347,
+    "text": "Coffre aux trésors de l'oubli (0)"
+  },
+  {
+    "id": 1346,
+    "text": "Coffre de la bande des voleurs (0)"
+  },
+  {
+    "id": 1288,
+    "text": "Coffre de parchemins (1)"
+  },
+  {
+    "id": 1281,
+    "text": "Coffre des listes de commandements (1)"
+  },
+  {
+    "id": 1336,
+    "text": "Coffre des marchands d'Akamur (0)"
+  },
+  {
+    "id": 1337,
+    "text": "Coffre des marchands d'Akamur (0)"
+  },
+  {
+    "id": 1339,
+    "text": "Coffre perdu (Camp de Garton) (0)"
+  },
+  {
+    "id": 1338,
+    "text": "Coffre perdu (Camp de Kerus) (0)"
+  },
+  {
+    "id": 1341,
+    "text": "Coffre perdu (Centre des voleurs) (0)"
+  },
+  {
+    "id": 1310,
+    "text": "Coffre scellé (0)"
+  },
+  {
+    "id": 1327,
+    "text": "Coffre à poussière de fées (0)"
+  },
+  {
+    "id": 1348,
+    "text": "Coffre étrange (70)"
+  },
+  {
+    "id": 3237,
+    "text": "Coffre étrange (99)"
+  },
+  {
+    "id": 1284,
+    "text": "Coffre étrange de Garton (1)"
+  },
+  {
+    "id": 1283,
+    "text": "Coffre étrange de Kerus (1)"
+  },
+  {
+    "id": 1342,
+    "text": "Coffre étrange non découvert (0)"
+  },
+  {
+    "id": 2111,
+    "text": "Collectionneur Akon (99)"
+  },
+  {
+    "id": 393,
+    "text": "Colly (70)"
+  },
+  {
+    "id": 2348,
+    "text": "Colonne de cristal obscur suspecte (90 +70)"
+  },
+  {
+    "id": 121,
+    "text": "Combattant koaren (36)"
+  },
+  {
+    "id": 120,
+    "text": "Combattant koaren novice (29)"
+  },
+  {
+    "id": 236,
+    "text": "Combattant squelettique (60)"
+  },
+  {
+    "id": 235,
+    "text": "Combattant squelettique faible (57)"
+  },
+  {
+    "id": 237,
+    "text": "Combattant squelettique fort (63)"
+  },
+  {
+    "id": 439,
+    "text": "Combattant squelettique ressuscité (75)"
+  },
+  {
+    "id": 1647,
+    "text": "Commandant Ellyk (99)"
+  },
+  {
+    "id": 1019,
+    "text": "Commandant Garton (88)"
+  },
+  {
+    "id": 1018,
+    "text": "Commandant Kerus (85)"
+  },
+  {
+    "id": 1358,
+    "text": "Commandant Kerus (86)"
+  },
+  {
+    "id": 1017,
+    "text": "Commandant Melki (85)"
+  },
+  {
+    "id": 1016,
+    "text": "Commandant Neil (83)"
+  },
+  {
+    "id": 1361,
+    "text": "Commandant Shay (89)"
+  },
+  {
+    "id": 1030,
+    "text": "Commandant Shay (90)"
+  },
+  {
+    "id": 1360,
+    "text": "Commandant Shoran (89)"
+  },
+  {
+    "id": 1029,
+    "text": "Commandant Shoran (90)"
+  },
+  {
+    "id": 1359,
+    "text": "Commandant de Camp de Garton (86)"
+  },
+  {
+    "id": 3295,
+    "text": "Commandant de troupes mécaniques (97 +87)"
+  },
+  {
+    "id": 3325,
+    "text": "Commandant de troupes mécaniques IA (99 +90)"
+  },
+  {
+    "id": 2535,
+    "text": "Commandant des croisés (98)"
+  },
+  {
+    "id": 2385,
+    "text": "Commandant des dimensions (99 +97)"
+  },
+  {
+    "id": 1357,
+    "text": "Commandant du Camp de Melki (86)"
+  },
+  {
+    "id": 1356,
+    "text": "Commandant du Camp de Neil (86)"
+  },
+  {
+    "id": 3335,
+    "text": "Commandant mécanique loyaliste (98 +85)"
+  },
+  {
+    "id": 3318,
+    "text": "Commandant mécanique loyaliste (98 +87)"
+  },
+  {
+    "id": 1559,
+    "text": "Commandant robotique (99 +90)"
+  },
+  {
+    "id": 3420,
+    "text": "Commandant troyen (98 +97)"
+  },
+  {
+    "id": 1036,
+    "text": "Conservateur des reliques antiques (89)"
+  },
+  {
+    "id": 387,
+    "text": "Coq de combat (1)"
+  },
+  {
+    "id": 591,
+    "text": "Coq de combat géant (38)"
+  },
+  {
+    "id": 1390,
+    "text": "Coq de combat scellé (70)"
+  },
+  {
+    "id": 1681,
+    "text": "Corrupteur de Midgard (98 +96)"
+  },
+  {
+    "id": 46,
+    "text": "Cosse de pois (10)"
+  },
+  {
+    "id": 47,
+    "text": "Cosse de pois dure (13)"
+  },
+  {
+    "id": 45,
+    "text": "Cosse de pois molle (8)"
+  },
+  {
+    "id": 49,
+    "text": "Cosse de pois sauvages (29)"
+  },
+  {
+    "id": 52,
+    "text": "Cosse de pois épineux (58)"
+  },
+  {
+    "id": 51,
+    "text": "Cosse de pois épineux fainéante (55)"
+  },
+  {
+    "id": 53,
+    "text": "Cosse de pois épineux rapide (61)"
+  },
+  {
+    "id": 3045,
+    "text": "Cottari (99)"
+  },
+  {
+    "id": 607,
+    "text": "Crabe royal (88)"
+  },
+  {
+    "id": 1398,
+    "text": "Crabe royal scellé (70)"
+  },
+  {
+    "id": 1447,
+    "text": "Cristal draconique (0)"
+  },
+  {
+    "id": 2539,
+    "text": "Croisé Graham (92)"
+  },
+  {
+    "id": 2540,
+    "text": "Croisé Graham (92)"
+  },
+  {
+    "id": 2590,
+    "text": "Croisé blessé (92)"
+  },
+  {
+    "id": 2597,
+    "text": "Croisé blessé (92)"
+  },
+  {
+    "id": 2565,
+    "text": "Croisé blessé (96)"
+  },
+  {
+    "id": 2505,
+    "text": "Croisé de la 2e escouade (92)"
+  },
+  {
+    "id": 2532,
+    "text": "Croisé de la 6e escouade (92)"
+  },
+  {
+    "id": 2533,
+    "text": "Croisé de la 6e escouade (92)"
+  },
+  {
+    "id": 2534,
+    "text": "Croisé de la 6e escouade (92)"
+  },
+  {
+    "id": 2566,
+    "text": "Croisé fou (92)"
+  },
+  {
+    "id": 2567,
+    "text": "Croisé manipulé (91)"
+  },
+  {
+    "id": 255,
+    "text": "Crâne agacé (66)"
+  },
+  {
+    "id": 238,
+    "text": "Crâne faible (57)"
+  },
+  {
+    "id": 239,
+    "text": "Crâne faible (60)"
+  },
+  {
+    "id": 240,
+    "text": "Crâne faible (63)"
+  },
+  {
+    "id": 258,
+    "text": "Crâne faible (66)"
+  },
+  {
+    "id": 259,
+    "text": "Crâne faible (69)"
+  },
+  {
+    "id": 260,
+    "text": "Crâne faible (73)"
+  },
+  {
+    "id": 257,
+    "text": "Crâne furieux (73)"
+  },
+  {
+    "id": 256,
+    "text": "Crâne maudit (69)"
+  },
+  {
+    "id": 1053,
+    "text": "Créature flamboyante (92)"
+  },
+  {
+    "id": 283,
+    "text": "Cuby (1)"
+  },
+  {
+    "id": 3357,
+    "text": "Cuisinière de Souterville (0)"
+  },
+  {
+    "id": 1548,
+    "text": "Cupcake arc-en-ciel du 16e anniversaire (1)"
+  },
+  {
+    "id": 1547,
+    "text": "Cupcake au chocolat du 16e anniversaire (1)"
+  },
+  {
+    "id": 674,
+    "text": "Cupidia (30)"
+  },
+  {
+    "id": 675,
+    "text": "Cupidia (30)"
+  },
+  {
+    "id": 2641,
+    "text": "Cupidia sans ailes (1)"
+  },
+  {
+    "id": 500,
+    "text": "Daisy Akamur (58)"
+  },
+  {
+    "id": 629,
+    "text": "Dame Calvina (80)"
+  },
+  {
+    "id": 407,
+    "text": "Dame diabolique (70)"
+  },
+  {
+    "id": 436,
+    "text": "Dame diabolique maudite (75)"
+  },
+  {
+    "id": 25,
+    "text": "Dander (2)"
+  },
+  {
+    "id": 420,
+    "text": "Dander fou (45)"
+  },
+  {
+    "id": 28,
+    "text": "Dander toxique (18)"
+  },
+  {
+    "id": 27,
+    "text": "Dander toxique faible (14)"
+  },
+  {
+    "id": 29,
+    "text": "Dander toxique fort (21)"
+  },
+  {
+    "id": 823,
+    "text": "Darko (1)"
+  },
+  {
+    "id": 3044,
+    "text": "Datius (99)"
+  },
+  {
+    "id": 3449,
+    "text": "Datius (99)"
+  },
+  {
+    "id": 1073,
+    "text": "Delmon Milow (50)"
+  },
+  {
+    "id": 2524,
+    "text": "Deront, le chevalier sombre (93)"
+  },
+  {
+    "id": 1316,
+    "text": "Deuxième tablette d'écriture (0)"
+  },
+  {
+    "id": 1276,
+    "text": "Deuxièmes marchandises (0)"
+  },
+  {
+    "id": 1269,
+    "text": "Devin Nuki (99)"
+  },
+  {
+    "id": 1397,
+    "text": "Diable de Feu scellé (70)"
+  },
+  {
+    "id": 748,
+    "text": "Diable de feu faible (85)"
+  },
+  {
+    "id": 443,
+    "text": "Diable de feu volant (85)"
+  },
+  {
+    "id": 194,
+    "text": "Diable des enfers (25)"
+  },
+  {
+    "id": 191,
+    "text": "Diable érable (78)"
+  },
+  {
+    "id": 73,
+    "text": "Diablotin (45)"
+  },
+  {
+    "id": 2332,
+    "text": "Diablotin Cheongbi (95)"
+  },
+  {
+    "id": 2331,
+    "text": "Diablotin Hongbi (95)"
+  },
+  {
+    "id": 672,
+    "text": "Diablotin ailé funeste (1)"
+  },
+  {
+    "id": 2334,
+    "text": "Diablotin clone de Cheongbi (90)"
+  },
+  {
+    "id": 2333,
+    "text": "Diablotin clone de Hongbi (90)"
+  },
+  {
+    "id": 76,
+    "text": "Diablotin cornu (52)"
+  },
+  {
+    "id": 77,
+    "text": "Diablotin cornu furieux (54)"
+  },
+  {
+    "id": 75,
+    "text": "Diablotin cornu heureux (48)"
+  },
+  {
+    "id": 1416,
+    "text": "Diablotin cornu scellé (70)"
+  },
+  {
+    "id": 1417,
+    "text": "Diablotin cornu scellé (70)"
+  },
+  {
+    "id": 767,
+    "text": "Diablotin des flammes (90)"
+  },
+  {
+    "id": 2121,
+    "text": "Diablotin effrayant (1)"
+  },
+  {
+    "id": 2122,
+    "text": "Diablotin effrayant (1)"
+  },
+  {
+    "id": 651,
+    "text": "Diablotin horrifiant (1)"
+  },
+  {
+    "id": 2124,
+    "text": "Diablotin infâme (1)"
+  },
+  {
+    "id": 653,
+    "text": "Diablotin infâme (1)"
+  },
+  {
+    "id": 80,
+    "text": "Diablotin satanique (54)"
+  },
+  {
+    "id": 2123,
+    "text": "Diablotin sinistre (1)"
+  },
+  {
+    "id": 652,
+    "text": "Diablotin sinistre (1)"
+  },
+  {
+    "id": 309,
+    "text": "Diablotin épéiste (70)"
+  },
+  {
+    "id": 3029,
+    "text": "Dieu-démon Bélial (100)"
+  },
+  {
+    "id": 1640,
+    "text": "Dimensiolithe (100 +100)"
+  },
+  {
+    "id": 806,
+    "text": "Dino Vorex (1)"
+  },
+  {
+    "id": 3386,
+    "text": "Docteur Frox (0)"
+  },
+  {
+    "id": 1654,
+    "text": "Docteure Dimensio (100 +100)"
+  },
+  {
+    "id": 395,
+    "text": "Doggo (40)"
+  },
+  {
+    "id": 2686,
+    "text": "Dr Miaou (99)"
+  },
+  {
+    "id": 2685,
+    "text": "Dr Miaou fou (1)"
+  },
+  {
+    "id": 2743,
+    "text": "Draco (mini) (1)"
+  },
+  {
+    "id": 3145,
+    "text": "Draconien (95)"
+  },
+  {
+    "id": 3146,
+    "text": "Draconien (95)"
+  },
+  {
+    "id": 3147,
+    "text": "Draconien (95)"
+  },
+  {
+    "id": 3168,
+    "text": "Dragon azur (96 +62)"
+  },
+  {
+    "id": 3227,
+    "text": "Dragon azur de l'armée draconique (98 +74)"
+  },
+  {
+    "id": 3170,
+    "text": "Dragon carmin (96 +70)"
+  },
+  {
+    "id": 1622,
+    "text": "Dragon crépusculaire (1)"
+  },
+  {
+    "id": 3228,
+    "text": "Dragon céleste de l'armée draconique (98 +74)"
+  },
+  {
+    "id": 1575,
+    "text": "Dragon d'obsidienne (vétéran) (99 +86)"
+  },
+  {
+    "id": 440,
+    "text": "Dragon de feu (80)"
+  },
+  {
+    "id": 2389,
+    "text": "Dragon des dimensions (99 +97)"
+  },
+  {
+    "id": 809,
+    "text": "Dragon doré (99 +46)"
+  },
+  {
+    "id": 1481,
+    "text": "Dragon doré (expert) (99 +66)"
+  },
+  {
+    "id": 3272,
+    "text": "Dragon givré géant amélioré (99 +75)"
+  },
+  {
+    "id": 3241,
+    "text": "Dragon givré magique (100 +75)"
+  },
+  {
+    "id": 3393,
+    "text": "Dragon givré pestilentiel (98 +83)"
+  },
+  {
+    "id": 3188,
+    "text": "Dragon harpie (95 +70)"
+  },
+  {
+    "id": 3232,
+    "text": "Dragon harpie de l'armée draconique (97 +72)"
+  },
+  {
+    "id": 3247,
+    "text": "Dragon harpie sombre (96 +46)"
+  },
+  {
+    "id": 1476,
+    "text": "Dragon harpie sombre (expert) (96 +65)"
+  },
+  {
+    "id": 1573,
+    "text": "Dragon harpie sombre (vétéran) (98 +85)"
+  },
+  {
+    "id": 3392,
+    "text": "Dragon igné pestilentiel (97 +83)"
+  },
+  {
+    "id": 3238,
+    "text": "Dragon inconnu (0)"
+  },
+  {
+    "id": 3240,
+    "text": "Dragon mort-vivant magique (100 +75)"
+  },
+  {
+    "id": 1461,
+    "text": "Dragon mort-vivant sacré (99 +62)"
+  },
+  {
+    "id": 1482,
+    "text": "Dragon mort-vivant sacré (expert) (99 +82)"
+  },
+  {
+    "id": 1616,
+    "text": "Dragon pestenoire (92 +85)"
+  },
+  {
+    "id": 444,
+    "text": "Dragon squelettique (77)"
+  },
+  {
+    "id": 2662,
+    "text": "Dragon squelettique (95)"
+  },
+  {
+    "id": 3200,
+    "text": "Dragon volcanique (94 +69)"
+  },
+  {
+    "id": 3226,
+    "text": "Dragon volcanique de l'armée draconique (98 +74)"
+  },
+  {
+    "id": 3205,
+    "text": "Dragon volcanique dressé (94 +68)"
+  },
+  {
+    "id": 3201,
+    "text": "Dragon volcanique géant (95 +70)"
+  },
+  {
+    "id": 3217,
+    "text": "Dragon zombie Valehir (100 +75)"
+  },
+  {
+    "id": 3171,
+    "text": "Dragon-marteau (95 +69)"
+  },
+  {
+    "id": 3263,
+    "text": "Dragon-marteau amélioré (97 +72)"
+  },
+  {
+    "id": 3172,
+    "text": "Dragon-marteau géant (97 +72)"
+  },
+  {
+    "id": 3167,
+    "text": "Dragonnet azur (95 +61)"
+  },
+  {
+    "id": 3169,
+    "text": "Dragonnet carmin (95 +69)"
+  },
+  {
+    "id": 2700,
+    "text": "Drakenfer (88)"
+  },
+  {
+    "id": 1274,
+    "text": "Drapeau d'Akamur détruit (0)"
+  },
+  {
+    "id": 685,
+    "text": "Dresseur animalier samouraï (30)"
+  },
+  {
+    "id": 1947,
+    "text": "Dresseuse animalière Lucie (1)"
+  },
+  {
+    "id": 155,
+    "text": "Dryade de Fernon (60)"
+  },
+  {
+    "id": 1682,
+    "text": "Durathror (98 +99)"
+  },
+  {
+    "id": 2549,
+    "text": "Débutant de la 2e escouade (91)"
+  },
+  {
+    "id": 596,
+    "text": "Démon de racines (63)"
+  },
+  {
+    "id": 288,
+    "text": "Démon horrible (63)"
+  },
+  {
+    "id": 986,
+    "text": "Dépendant au mana (99)"
+  },
+  {
+    "id": 511,
+    "text": "Echekaruel Mysticaron (81)"
+  },
+  {
+    "id": 527,
+    "text": "Edward (45)"
+  },
+  {
+    "id": 1365,
+    "text": "Eldin (80)"
+  },
+  {
+    "id": 2582,
+    "text": "Eldin (99)"
+  },
+  {
+    "id": 3010,
+    "text": "Elfe noir corrompu (95)"
+  },
+  {
+    "id": 3125,
+    "text": "Elfe noire de la Tour céleste (1)"
+  },
+  {
+    "id": 717,
+    "text": "Elfe noire furieuse (90)"
+  },
+  {
+    "id": 1364,
+    "text": "Elias (80)"
+  },
+  {
+    "id": 2542,
+    "text": "Eligoss (99)"
+  },
+  {
+    "id": 1366,
+    "text": "Elly (99)"
+  },
+  {
+    "id": 1241,
+    "text": "Embrochant des sables désertiques (83)"
+  },
+  {
+    "id": 1249,
+    "text": "Embrochant des sables fantomatiques (83)"
+  },
+  {
+    "id": 1006,
+    "text": "Embrochant des sables marins (80)"
+  },
+  {
+    "id": 1116,
+    "text": "Embrochant des sables poussiéreux (81)"
+  },
+  {
+    "id": 1108,
+    "text": "Embrochant des sables tempétueux (81)"
+  },
+  {
+    "id": 2692,
+    "text": "Employé de la banque Cuarry (35)"
+  },
+  {
+    "id": 1568,
+    "text": "Enigma (0)"
+  },
+  {
+    "id": 579,
+    "text": "Enkidu (68)"
+  },
+  {
+    "id": 483,
+    "text": "Enkidu (74)"
+  },
+  {
+    "id": 520,
+    "text": "Enkidu (75)"
+  },
+  {
+    "id": 2046,
+    "text": "Enkidu de Glacerus (80)"
+  },
+  {
+    "id": 971,
+    "text": "Entraîneur animalier de Rodolphe (30)"
+  },
+  {
+    "id": 636,
+    "text": "Entraîneur animalier de l'épouvante (1)"
+  },
+  {
+    "id": 1510,
+    "text": "Entraîneur animalier des pirates (30)"
+  },
+  {
+    "id": 2620,
+    "text": "Erdimine (1)"
+  },
+  {
+    "id": 2621,
+    "text": "Erdimine (92)"
+  },
+  {
+    "id": 2514,
+    "text": "Erenia (93)"
+  },
+  {
+    "id": 576,
+    "text": "Ermite sombre (77)"
+  },
+  {
+    "id": 1163,
+    "text": "Espion de la troupe d'éclaireurs de Garton (83)"
+  },
+  {
+    "id": 1150,
+    "text": "Espion de la troupe d'éclaireurs de Kerus (81)"
+  },
+  {
+    "id": 1137,
+    "text": "Espion de la troupe d'éclaireurs de Melki (81)"
+  },
+  {
+    "id": 1027,
+    "text": "Espion de la troupe d'éclaireurs de Neil (80)"
+  },
+  {
+    "id": 403,
+    "text": "Espion kenko (65)"
+  },
+  {
+    "id": 389,
+    "text": "Espion koaren (40)"
+  },
+  {
+    "id": 413,
+    "text": "Esprit amoureux (51)"
+  },
+  {
+    "id": 2644,
+    "text": "Esprit assoiffé (83)"
+  },
+  {
+    "id": 777,
+    "text": "Esprit de Destructeur (90)"
+  },
+  {
+    "id": 757,
+    "text": "Esprit de Druide ardent (99)"
+  },
+  {
+    "id": 792,
+    "text": "Esprit de Hacheur de la chute d'eau (95)"
+  },
+  {
+    "id": 759,
+    "text": "Esprit de Hacheur de la chute d'eau (99)"
+  },
+  {
+    "id": 791,
+    "text": "Esprit de Prêtre vaudou (95)"
+  },
+  {
+    "id": 758,
+    "text": "Esprit de Prêtre vaudou (99)"
+  },
+  {
+    "id": 761,
+    "text": "Esprit de Traqueur solaire (99)"
+  },
+  {
+    "id": 1079,
+    "text": "Esprit de chasseur de trésors (50)"
+  },
+  {
+    "id": 3437,
+    "text": "Esprit de la Dame du lac (98 +97)"
+  },
+  {
+    "id": 2697,
+    "text": "Esprit de la mariée Bouhmiaou (1)"
+  },
+  {
+    "id": 3012,
+    "text": "Esprit des bois (94)"
+  },
+  {
+    "id": 2696,
+    "text": "Esprit du marié Bouhmiaou (1)"
+  },
+  {
+    "id": 3011,
+    "text": "Esprit gardien (97)"
+  },
+  {
+    "id": 718,
+    "text": "Esprit mousse assassin (90)"
+  },
+  {
+    "id": 1469,
+    "text": "Esprit sylvestre de la Tour céleste (1)"
+  },
+  {
+    "id": 708,
+    "text": "Esprit sylvestre furieux (90)"
+  },
+  {
+    "id": 211,
+    "text": "Essaim dangereux (1)"
+  },
+  {
+    "id": 210,
+    "text": "Essaim furieux (1)"
+  },
+  {
+    "id": 2501,
+    "text": "Esther (91)"
+  },
+  {
+    "id": 847,
+    "text": "Esther scellé (91)"
+  },
+  {
+    "id": 304,
+    "text": "Eva Energy (35)"
+  },
+  {
+    "id": 2764,
+    "text": "Exomarcheur (f) (0)"
+  },
+  {
+    "id": 2763,
+    "text": "Exomarcheur (h) (0)"
+  },
+  {
+    "id": 2538,
+    "text": "Expert de livres de compétences (98)"
+  },
+  {
+    "id": 1558,
+    "text": "Expert en équipement de Souterville (0)"
+  },
+  {
+    "id": 3385,
+    "text": "Experte en coquillages (1)"
+  },
+  {
+    "id": 613,
+    "text": "Fabian Frost (45)"
+  },
+  {
+    "id": 499,
+    "text": "Fabian Frost (58)"
+  },
+  {
+    "id": 2053,
+    "text": "Falco (80)"
+  },
+  {
+    "id": 1408,
+    "text": "Fantôme d'ombre (80)"
+  },
+  {
+    "id": 1409,
+    "text": "Fantôme d'ombre (80)"
+  },
+  {
+    "id": 1410,
+    "text": "Fantôme d'ombre (80)"
+  },
+  {
+    "id": 621,
+    "text": "Fantôme d'émeraude (80)"
+  },
+  {
+    "id": 1099,
+    "text": "Fantôme de Grenigas (50)"
+  },
+  {
+    "id": 1177,
+    "text": "Fantôme de l'agitation (88)"
+  },
+  {
+    "id": 1181,
+    "text": "Fantôme de l'agonie (86)"
+  },
+  {
+    "id": 1686,
+    "text": "Fantôme de la Dame du lac (98 +99)"
+  },
+  {
+    "id": 2100,
+    "text": "Fantôme de la garnison (88)"
+  },
+  {
+    "id": 1013,
+    "text": "Fantôme de la prière (83)"
+  },
+  {
+    "id": 1913,
+    "text": "Fantôme de lave (88)"
+  },
+  {
+    "id": 2044,
+    "text": "Fantôme de lave de Draco (80)"
+  },
+  {
+    "id": 623,
+    "text": "Fantôme de rubis (80)"
+  },
+  {
+    "id": 622,
+    "text": "Fantôme de saphir (80)"
+  },
+  {
+    "id": 1173,
+    "text": "Fantôme des lamentations (85)"
+  },
+  {
+    "id": 1033,
+    "text": "Fantôme des sables (84)"
+  },
+  {
+    "id": 1204,
+    "text": "Fantôme des sables arides (86)"
+  },
+  {
+    "id": 1200,
+    "text": "Fantôme des sables aériens (85)"
+  },
+  {
+    "id": 1185,
+    "text": "Fantôme des sables désertiques (85)"
+  },
+  {
+    "id": 1193,
+    "text": "Fantôme des sables mouvants (88)"
+  },
+  {
+    "id": 1189,
+    "text": "Fantôme des sables poussiéreux (86)"
+  },
+  {
+    "id": 1037,
+    "text": "Fantôme des sables venteux (83)"
+  },
+  {
+    "id": 1196,
+    "text": "Fantôme des sables volcaniques (84)"
+  },
+  {
+    "id": 2101,
+    "text": "Fantôme du garde du corps (92)"
+  },
+  {
+    "id": 684,
+    "text": "Fantôme du guerrier-démon (90)"
+  },
+  {
+    "id": 2102,
+    "text": "Fantôme du tireur (90)"
+  },
+  {
+    "id": 3073,
+    "text": "Femme de Logtas (90)"
+  },
+  {
+    "id": 2574,
+    "text": "Fernon incomplète (94)"
+  },
+  {
+    "id": 670,
+    "text": "Fibi Givrée (1)"
+  },
+  {
+    "id": 2653,
+    "text": "Fille goth (50)"
+  },
+  {
+    "id": 3179,
+    "text": "Fils d'Alzanor (99 +80)"
+  },
+  {
+    "id": 3264,
+    "text": "Fils d'Alzanor (amélioré) (99 +80)"
+  },
+  {
+    "id": 1330,
+    "text": "Flacon de poison (0)"
+  },
+  {
+    "id": 1335,
+    "text": "Flacon médicinal (0)"
+  },
+  {
+    "id": 132,
+    "text": "Flamme (50)"
+  },
+  {
+    "id": 2039,
+    "text": "Flamme d'Achille (82)"
+  },
+  {
+    "id": 133,
+    "text": "Flamme furieuse (51)"
+  },
+  {
+    "id": 1435,
+    "text": "Flocon, la fée des neiges (1)"
+  },
+  {
+    "id": 1655,
+    "text": "Flotte de guerre du dragon marin (95 +85)"
+  },
+  {
+    "id": 1663,
+    "text": "Flotte de guerre du dragon marin (95 +85)"
+  },
+  {
+    "id": 366,
+    "text": "Fléau d'armes enchanté (38)"
+  },
+  {
+    "id": 2014,
+    "text": "Fosse de lave (99)"
+  },
+  {
+    "id": 2055,
+    "text": "Fouineur algide (81)"
+  },
+  {
+    "id": 2309,
+    "text": "Foxy (95)"
+  },
+  {
+    "id": 3382,
+    "text": "Fragment de Pollutus (99 +87)"
+  },
+  {
+    "id": 1541,
+    "text": "Fragment de Pollutus (99 +90)"
+  },
+  {
+    "id": 3348,
+    "text": "Fragment de Pollutus (99 +90)"
+  },
+  {
+    "id": 316,
+    "text": "Frappeur kenko (55)"
+  },
+  {
+    "id": 269,
+    "text": "Frappeur kenko violent (72)"
+  },
+  {
+    "id": 2617,
+    "text": "Frigg (1)"
+  },
+  {
+    "id": 2602,
+    "text": "Frigg (92)"
+  },
+  {
+    "id": 2623,
+    "text": "Fureteur (92)"
+  },
+  {
+    "id": 720,
+    "text": "Fureur des rongeurs (1)"
+  },
+  {
+    "id": 278,
+    "text": "Fée algide furieuse (55)"
+  },
+  {
+    "id": 279,
+    "text": "Fée algide violente (75)"
+  },
+  {
+    "id": 3014,
+    "text": "Fée de mousse (92)"
+  },
+  {
+    "id": 449,
+    "text": "Fée des herbins (1)"
+  },
+  {
+    "id": 448,
+    "text": "Fée des herbins (1)"
+  },
+  {
+    "id": 3433,
+    "text": "Fée du Lac des murmures (97 +97)"
+  },
+  {
+    "id": 2045,
+    "text": "Félix Frost (80)"
+  },
+  {
+    "id": 3254,
+    "text": "Gail (0)"
+  },
+  {
+    "id": 359,
+    "text": "Garde (32)"
+  },
+  {
+    "id": 2658,
+    "text": "Garde (92)"
+  },
+  {
+    "id": 2660,
+    "text": "Garde (92)"
+  },
+  {
+    "id": 2674,
+    "text": "Garde (92)"
+  },
+  {
+    "id": 351,
+    "text": "Garde Jim (18)"
+  },
+  {
+    "id": 1268,
+    "text": "Garde Putran (50)"
+  },
+  {
+    "id": 350,
+    "text": "Garde Sam (15)"
+  },
+  {
+    "id": 336,
+    "text": "Garde blessé (20)"
+  },
+  {
+    "id": 1262,
+    "text": "Garde d'entrepôt (70)"
+  },
+  {
+    "id": 1557,
+    "text": "Garde de Souterville (93 +73)"
+  },
+  {
+    "id": 3375,
+    "text": "Garde de Souterville (93 +73)"
+  },
+  {
+    "id": 618,
+    "text": "Garde de la Grotte cristalline (77)"
+  },
+  {
+    "id": 781,
+    "text": "Garde de la Grotte cristalline invoqué (77)"
+  },
+  {
+    "id": 1074,
+    "text": "Garde des marchands d'Akamur (50)"
+  },
+  {
+    "id": 356,
+    "text": "Garde en chef Ray Ramos (45)"
+  },
+  {
+    "id": 3365,
+    "text": "Garde koaren (92 +40)"
+  },
+  {
+    "id": 3376,
+    "text": "Garde mécanique de Souterville (96 +79)"
+  },
+  {
+    "id": 3378,
+    "text": "Garde mécanique de Souterville (96 +79)"
+  },
+  {
+    "id": 3047,
+    "text": "Garde orc (99)"
+  },
+  {
+    "id": 3048,
+    "text": "Garde orc (99)"
+  },
+  {
+    "id": 3091,
+    "text": "Garde orc blessé (90)"
+  },
+  {
+    "id": 3092,
+    "text": "Garde orc blessée (90)"
+  },
+  {
+    "id": 3031,
+    "text": "Garde orc royal (95)"
+  },
+  {
+    "id": 299,
+    "text": "Garde zombi amaigri (76)"
+  },
+  {
+    "id": 2010,
+    "text": "Garde zombi amaigri (90)"
+  },
+  {
+    "id": 297,
+    "text": "Garde zombi bossu (70)"
+  },
+  {
+    "id": 295,
+    "text": "Garde zombi décharné (69)"
+  },
+  {
+    "id": 298,
+    "text": "Garde zombi ignoble (74)"
+  },
+  {
+    "id": 296,
+    "text": "Garde zombi traînard (73)"
+  },
+  {
+    "id": 3362,
+    "text": "Gardien arbalétrier (92 +70)"
+  },
+  {
+    "id": 1166,
+    "text": "Gardien de Garton (85)"
+  },
+  {
+    "id": 1153,
+    "text": "Gardien de Kerus (82)"
+  },
+  {
+    "id": 1140,
+    "text": "Gardien de Melki (82)"
+  },
+  {
+    "id": 1024,
+    "text": "Gardien de Neil (81)"
+  },
+  {
+    "id": 3123,
+    "text": "Gardien de l'aiguille (97)"
+  },
+  {
+    "id": 620,
+    "text": "Gardien de la Grotte cristalline (75)"
+  },
+  {
+    "id": 783,
+    "text": "Gardien de la Grotte cristalline invoqué (75)"
+  },
+  {
+    "id": 3122,
+    "text": "Gardien de la tour de sable (95)"
+  },
+  {
+    "id": 679,
+    "text": "Gardien des anges (99)"
+  },
+  {
+    "id": 1605,
+    "text": "Gardien des catacombes de la Tour (0)"
+  },
+  {
+    "id": 680,
+    "text": "Gardien des démons (99)"
+  },
+  {
+    "id": 1907,
+    "text": "Gardien des reliques (82)"
+  },
+  {
+    "id": 1307,
+    "text": "Gardien des voleurs du désert (85)"
+  },
+  {
+    "id": 3280,
+    "text": "Gardien dragon cramoisi (96 +70)"
+  },
+  {
+    "id": 3281,
+    "text": "Gardien dragon céleste (98 +74)"
+  },
+  {
+    "id": 3282,
+    "text": "Gardien dragon volcanique (98 +74)"
+  },
+  {
+    "id": 1041,
+    "text": "Gardien du portail des ruines antiques (89)"
+  },
+  {
+    "id": 504,
+    "text": "Gardien démoniaque (57)"
+  },
+  {
+    "id": 477,
+    "text": "Gardien faible (72)"
+  },
+  {
+    "id": 486,
+    "text": "Gardien fort (78)"
+  },
+  {
+    "id": 3121,
+    "text": "Gardien géant de glace (95)"
+  },
+  {
+    "id": 506,
+    "text": "Gardien infernal cruel (62)"
+  },
+  {
+    "id": 505,
+    "text": "Gardien infernal terrible (60)"
+  },
+  {
+    "id": 626,
+    "text": "Gardien océanique (77)"
+  },
+  {
+    "id": 771,
+    "text": "Gardien océanique invoqué (77)"
+  },
+  {
+    "id": 810,
+    "text": "Gardien scellé (90)"
+  },
+  {
+    "id": 91,
+    "text": "Gargs (54)"
+  },
+  {
+    "id": 94,
+    "text": "Gargs dingue (57)"
+  },
+  {
+    "id": 92,
+    "text": "Gargs fort (56)"
+  },
+  {
+    "id": 95,
+    "text": "Gargs psychotique (58)"
+  },
+  {
+    "id": 1394,
+    "text": "Gargs scellé (70)"
+  },
+  {
+    "id": 271,
+    "text": "Gargs sombre (40)"
+  },
+  {
+    "id": 284,
+    "text": "Ginseng (55)"
+  },
+  {
+    "id": 2736,
+    "text": "Ginseng (mini) (1)"
+  },
+  {
+    "id": 582,
+    "text": "Ginseng fort (45)"
+  },
+  {
+    "id": 603,
+    "text": "Ginseng millénaire (76)"
+  },
+  {
+    "id": 290,
+    "text": "Ginseng plantule (38)"
+  },
+  {
+    "id": 1403,
+    "text": "Ginseng scellé (70)"
+  },
+  {
+    "id": 2744,
+    "text": "Glacerus (mini) (1)"
+  },
+  {
+    "id": 2049,
+    "text": "Glacerus le Rude (95)"
+  },
+  {
+    "id": 1205,
+    "text": "Gladiateur des sables arides (87)"
+  },
+  {
+    "id": 1201,
+    "text": "Gladiateur des sables aériens (86)"
+  },
+  {
+    "id": 1038,
+    "text": "Gladiateur des sables venteux (84)"
+  },
+  {
+    "id": 1197,
+    "text": "Gladiateur des sables volcaniques (85)"
+  },
+  {
+    "id": 3009,
+    "text": "Gobelin corrompu (95)"
+  },
+  {
+    "id": 3004,
+    "text": "Goblin-patate (92)"
+  },
+  {
+    "id": 3405,
+    "text": "Gokenin (97 +97)"
+  },
+  {
+    "id": 2036,
+    "text": "Golem d'Achille (82)"
+  },
+  {
+    "id": 711,
+    "text": "Golem de boue d'Arku (78)"
+  },
+  {
+    "id": 468,
+    "text": "Golem de feu (72)"
+  },
+  {
+    "id": 242,
+    "text": "Golem de lave (61)"
+  },
+  {
+    "id": 241,
+    "text": "Golem de lave faible (58)"
+  },
+  {
+    "id": 243,
+    "text": "Golem de lave fort (64)"
+  },
+  {
+    "id": 2607,
+    "text": "Golem de lave fort (74)"
+  },
+  {
+    "id": 261,
+    "text": "Golem de lave furieux (68)"
+  },
+  {
+    "id": 262,
+    "text": "Golem de lave violent (74)"
+  },
+  {
+    "id": 3015,
+    "text": "Golem de roche (95)"
+  },
+  {
+    "id": 775,
+    "text": "Golem de roche diabolique (90)"
+  },
+  {
+    "id": 1326,
+    "text": "Golem des sables désertiques (89)"
+  },
+  {
+    "id": 1325,
+    "text": "Golem des sables mouvants (89)"
+  },
+  {
+    "id": 1324,
+    "text": "Golem des sables poussiéreux (89)"
+  },
+  {
+    "id": 3302,
+    "text": "Golem fongique (99 +87)"
+  },
+  {
+    "id": 3381,
+    "text": "Golem fongique (99 +87)"
+  },
+  {
+    "id": 3329,
+    "text": "Golem fongique contaminé (99 +87)"
+  },
+  {
+    "id": 3338,
+    "text": "Golem fongique des grottes (99 +86)"
+  },
+  {
+    "id": 3399,
+    "text": "Golem fongique spectral (96 +87)"
+  },
+  {
+    "id": 3173,
+    "text": "Golem glacé (97 +69)"
+  },
+  {
+    "id": 3174,
+    "text": "Golem glacé antique (98 +80)"
+  },
+  {
+    "id": 3223,
+    "text": "Golem glacé d'Alzanor (98 +74)"
+  },
+  {
+    "id": 599,
+    "text": "Golem slade (68)"
+  },
+  {
+    "id": 1405,
+    "text": "Golem slade scellé (70)"
+  },
+  {
+    "id": 3007,
+    "text": "Goule (95)"
+  },
+  {
+    "id": 3126,
+    "text": "Goule d'Arku (79)"
+  },
+  {
+    "id": 706,
+    "text": "Goule pourrie (90)"
+  },
+  {
+    "id": 1054,
+    "text": "Graal, le grand phénix (95)"
+  },
+  {
+    "id": 2557,
+    "text": "Graham (1)"
+  },
+  {
+    "id": 482,
+    "text": "Grand chien de l'enfer (79)"
+  },
+  {
+    "id": 26,
+    "text": "Grand dander (4)"
+  },
+  {
+    "id": 74,
+    "text": "Grand diablotin (50)"
+  },
+  {
+    "id": 1419,
+    "text": "Grand diablotin cornu scellé (70)"
+  },
+  {
+    "id": 79,
+    "text": "Grand diablotin satanique (56)"
+  },
+  {
+    "id": 957,
+    "text": "Grand feu de camp (1)"
+  },
+  {
+    "id": 104,
+    "text": "Grand hamster métallique (47)"
+  },
+  {
+    "id": 3041,
+    "text": "Grand hydromme (95)"
+  },
+  {
+    "id": 292,
+    "text": "Grand lézard de terre (69)"
+  },
+  {
+    "id": 2384,
+    "text": "Grand mage des dimensions (99 +97)"
+  },
+  {
+    "id": 3446,
+    "text": "Grand meurtrier dimensionnel (99 +97)"
+  },
+  {
+    "id": 142,
+    "text": "Grand mime (37)"
+  },
+  {
+    "id": 14,
+    "text": "Grand mouflon (32)"
+  },
+  {
+    "id": 921,
+    "text": "Grand panneau indicateur (1)"
+  },
+  {
+    "id": 41,
+    "text": "Grand pois sauvage (32)"
+  },
+  {
+    "id": 1066,
+    "text": "Grand prêtre Eladin (99)"
+  },
+  {
+    "id": 2,
+    "text": "Grand renard (25)"
+  },
+  {
+    "id": 3104,
+    "text": "Grand scorpion aux yeux rouges (96)"
+  },
+  {
+    "id": 398,
+    "text": "Grand taupe-criquet (60)"
+  },
+  {
+    "id": 219,
+    "text": "Grande araignée venimeuse (62)"
+  },
+  {
+    "id": 50,
+    "text": "Grande cosse de pois sauvages (32)"
+  },
+  {
+    "id": 225,
+    "text": "Grande guêpe (63)"
+  },
+  {
+    "id": 472,
+    "text": "Grande méduse (77)"
+  },
+  {
+    "id": 611,
+    "text": "Grande patate royale monstrueuse (70)"
+  },
+  {
+    "id": 334,
+    "text": "Grande poule (1)"
+  },
+  {
+    "id": 475,
+    "text": "Graylander (79)"
+  },
+  {
+    "id": 725,
+    "text": "Graylander fort (75)"
+  },
+  {
+    "id": 1402,
+    "text": "Graylander scellé (70)"
+  },
+  {
+    "id": 3186,
+    "text": "Gremlin (93 +69)"
+  },
+  {
+    "id": 3257,
+    "text": "Grenadier Gail (99)"
+  },
+  {
+    "id": 3261,
+    "text": "Grenadier épuisé (99)"
+  },
+  {
+    "id": 2742,
+    "text": "Grenigas (mini) (1)"
+  },
+  {
+    "id": 1599,
+    "text": "Grenigas fatigué (99)"
+  },
+  {
+    "id": 1058,
+    "text": "Grenigas, le dieu du Feu (95)"
+  },
+  {
+    "id": 3246,
+    "text": "Griffe dorée (95 +45)"
+  },
+  {
+    "id": 1473,
+    "text": "Griffe dorée (expert) (92 +65)"
+  },
+  {
+    "id": 3252,
+    "text": "Griffe dorée sacrée (95 +56)"
+  },
+  {
+    "id": 1475,
+    "text": "Griffe dorée sacrée (expert) (95 +75)"
+  },
+  {
+    "id": 1572,
+    "text": "Griffon (vétéran) (98 +85)"
+  },
+  {
+    "id": 3387,
+    "text": "Griffon des catacombes (93 +80)"
+  },
+  {
+    "id": 361,
+    "text": "Grondeur (43)"
+  },
+  {
+    "id": 181,
+    "text": "Gros pigeon (70)"
+  },
+  {
+    "id": 602,
+    "text": "Grosse sangsue (76)"
+  },
+  {
+    "id": 134,
+    "text": "Guerpard (53)"
+  },
+  {
+    "id": 135,
+    "text": "Guerpard de l'ombre (53)"
+  },
+  {
+    "id": 594,
+    "text": "Guerpard géant (58)"
+  },
+  {
+    "id": 1495,
+    "text": "Guerpard géant cruel (85)"
+  },
+  {
+    "id": 3233,
+    "text": "Guerrier centaure de l'armée draconique (99 +75)"
+  },
+  {
+    "id": 1574,
+    "text": "Guerrier centaure de l'armée draconique bleue (vétéran) (99 +86)"
+  },
+  {
+    "id": 3245,
+    "text": "Guerrier centaure de l'armée draconique rouge (97 +56)"
+  },
+  {
+    "id": 1480,
+    "text": "Guerrier centaure de l'armée draconique rouge (expert) (97 +66)"
+  },
+  {
+    "id": 3112,
+    "text": "Guerrier corrompu orc (98)"
+  },
+  {
+    "id": 3426,
+    "text": "Guerrier d'élite de Midgard (98 +97)"
+  },
+  {
+    "id": 3421,
+    "text": "Guerrier de Midgard (95 +97)"
+  },
+  {
+    "id": 1657,
+    "text": "Guerrier de bronze grec (95 +85)"
+  },
+  {
+    "id": 1665,
+    "text": "Guerrier de bronze grec (95 +85)"
+  },
+  {
+    "id": 3416,
+    "text": "Guerrier de malachite troyen (98 +97)"
+  },
+  {
+    "id": 1630,
+    "text": "Guerrier des dimensions (98 +97)"
+  },
+  {
+    "id": 1562,
+    "text": "Guerrier dragon Chamouraï (1)"
+  },
+  {
+    "id": 441,
+    "text": "Guerrier funeste (80)"
+  },
+  {
+    "id": 605,
+    "text": "Guerrier géant (82)"
+  },
+  {
+    "id": 3422,
+    "text": "Guerrier géant de malachite troyen (98 +97)"
+  },
+  {
+    "id": 122,
+    "text": "Guerrier koaren d'élite (40)"
+  },
+  {
+    "id": 559,
+    "text": "Guerrier mokan (75)"
+  },
+  {
+    "id": 609,
+    "text": "Guerrier molda (81)"
+  },
+  {
+    "id": 561,
+    "text": "Guerrier molda puissant (70)"
+  },
+  {
+    "id": 2571,
+    "text": "Guerrier spectral d'élite de rang inférieur (97)"
+  },
+  {
+    "id": 2572,
+    "text": "Guerrier spectral d'élite de rang supérieur (97)"
+  },
+  {
+    "id": 2678,
+    "text": "Guerrier squelettique Ragnar (92)"
+  },
+  {
+    "id": 702,
+    "text": "Guerrier troll corrompu (90)"
+  },
+  {
+    "id": 446,
+    "text": "Guerrier yak (75)"
+  },
+  {
+    "id": 1659,
+    "text": "Guerrier à la hache de Midgard (95 +85)"
+  },
+  {
+    "id": 1667,
+    "text": "Guerrier à la hache de Midgard (95 +85)"
+  },
+  {
+    "id": 274,
+    "text": "Guerrier à tête de mort (74)"
+  },
+  {
+    "id": 2667,
+    "text": "Guerrier à tête de mort (82)"
+  },
+  {
+    "id": 2038,
+    "text": "Guerrier à tête de mort d'Achille (80)"
+  },
+  {
+    "id": 275,
+    "text": "Guerrier à tête de mort ensorcelé (78)"
+  },
+  {
+    "id": 2734,
+    "text": "Guerrier à tête de mort ensorcelé (84)"
+  },
+  {
+    "id": 573,
+    "text": "Guetteur sombre (75)"
+  },
+  {
+    "id": 3158,
+    "text": "Guide Pavio (95)"
+  },
+  {
+    "id": 224,
+    "text": "Guêpe (60)"
+  },
+  {
+    "id": 687,
+    "text": "Gâteau pudding (1)"
+  },
+  {
+    "id": 709,
+    "text": "Gâteau pudding doré (1)"
+  },
+  {
+    "id": 399,
+    "text": "Géant brumeux (64)"
+  },
+  {
+    "id": 435,
+    "text": "Géant brumeux maudit (72)"
+  },
+  {
+    "id": 1401,
+    "text": "Géant brumeux scellé (70)"
+  },
+  {
+    "id": 1925,
+    "text": "Géant de flammes (95)"
+  },
+  {
+    "id": 1047,
+    "text": "Géant de flammes (95)"
+  },
+  {
+    "id": 2043,
+    "text": "Géant de flammes de Draco (80)"
+  },
+  {
+    "id": 1034,
+    "text": "Géant des sables (85)"
+  },
+  {
+    "id": 1186,
+    "text": "Géant des sables désertiques (86)"
+  },
+  {
+    "id": 1194,
+    "text": "Géant des sables mouvants (89)"
+  },
+  {
+    "id": 1190,
+    "text": "Géant des sables poussiéreux (87)"
+  },
+  {
+    "id": 2642,
+    "text": "Géant des sables violent (85)"
+  },
+  {
+    "id": 1540,
+    "text": "Géant moussu Pollutus (100 +90)"
+  },
+  {
+    "id": 3340,
+    "text": "Géant moussu Pollutus (99 +87)"
+  },
+  {
+    "id": 1633,
+    "text": "Général Hideyoshi (99 +90)"
+  },
+  {
+    "id": 357,
+    "text": "Général des chevaliers de Ramos (39)"
+  },
+  {
+    "id": 3354,
+    "text": "Gérant de centrale de Souterville (0)"
+  },
+  {
+    "id": 3359,
+    "text": "Gérant des cheminots de Souterville (0)"
+  },
+  {
+    "id": 3377,
+    "text": "Gérant du NosBazar de Souterville (0)"
+  },
+  {
+    "id": 1077,
+    "text": "Habitant (50)"
+  },
+  {
+    "id": 1078,
+    "text": "Habitant (50)"
+  },
+  {
+    "id": 1095,
+    "text": "Habitant de la Zone du chaos (50)"
+  },
+  {
+    "id": 1096,
+    "text": "Habitant de la Zone du chaos (50)"
+  },
+  {
+    "id": 1379,
+    "text": "Habitant du port (50)"
+  },
+  {
+    "id": 1380,
+    "text": "Habitant du port (50)"
+  },
+  {
+    "id": 1553,
+    "text": "Habitant mullan (0)"
+  },
+  {
+    "id": 1554,
+    "text": "Habitant mullan (0)"
+  },
+  {
+    "id": 367,
+    "text": "Haillon déchiré (55)"
+  },
+  {
+    "id": 1085,
+    "text": "Hamid (50)"
+  },
+  {
+    "id": 97,
+    "text": "Hamster (12)"
+  },
+  {
+    "id": 692,
+    "text": "Hamster de l'ombre (1)"
+  },
+  {
+    "id": 719,
+    "text": "Hamster de la nuit (1)"
+  },
+  {
+    "id": 98,
+    "text": "Hamster furieux (15)"
+  },
+  {
+    "id": 96,
+    "text": "Hamster heureux (9)"
+  },
+  {
+    "id": 657,
+    "text": "Hamster infernal (1)"
+  },
+  {
+    "id": 103,
+    "text": "Hamster métallique (43)"
+  },
+  {
+    "id": 658,
+    "text": "Hamster patapouf (1)"
+  },
+  {
+    "id": 659,
+    "text": "Hamster titan (1)"
+  },
+  {
+    "id": 100,
+    "text": "Hamster toxique (30)"
+  },
+  {
+    "id": 99,
+    "text": "Hamster toxique faible (27)"
+  },
+  {
+    "id": 101,
+    "text": "Hamster toxique fort (18)"
+  },
+  {
+    "id": 2605,
+    "text": "Hamster toxique fort (68)"
+  },
+  {
+    "id": 2324,
+    "text": "Hamster-tigre (78)"
+  },
+  {
+    "id": 2325,
+    "text": "Hamster-tigre venimeux (80)"
+  },
+  {
+    "id": 2042,
+    "text": "Harold de Nos (80)"
+  },
+  {
+    "id": 2577,
+    "text": "Harpago (99)"
+  },
+  {
+    "id": 1674,
+    "text": "Haut dragon des dimensions (100 +98)"
+  },
+  {
+    "id": 1673,
+    "text": "Haut mage des dimensions (99 +98)"
+  },
+  {
+    "id": 1903,
+    "text": "Haut prêtre du dieu du feu (93)"
+  },
+  {
+    "id": 1064,
+    "text": "Hazel (99)"
+  },
+  {
+    "id": 452,
+    "text": "Herbin géant (25)"
+  },
+  {
+    "id": 450,
+    "text": "Herbin géant (30)"
+  },
+  {
+    "id": 3002,
+    "text": "Hibours (95)"
+  },
+  {
+    "id": 690,
+    "text": "Hibours corrompu (90)"
+  },
+  {
+    "id": 1474,
+    "text": "Hibours de la Tour céleste (1)"
+  },
+  {
+    "id": 3101,
+    "text": "Hibours du roi des bêtes (97)"
+  },
+  {
+    "id": 3103,
+    "text": "Hibours fou (96)"
+  },
+  {
+    "id": 3128,
+    "text": "Hurluberlu (1)"
+  },
+  {
+    "id": 3262,
+    "text": "Hydraupoing épuisé (99)"
+  },
+  {
+    "id": 3000,
+    "text": "Hydromme (90)"
+  },
+  {
+    "id": 565,
+    "text": "Hémil Mélius (50)"
+  },
+  {
+    "id": 1028,
+    "text": "Ibrahim (90)"
+  },
+  {
+    "id": 2740,
+    "text": "Ibrahim (mini) (1)"
+  },
+  {
+    "id": 733,
+    "text": "Ignoble Rodolphe (17)"
+  },
+  {
+    "id": 735,
+    "text": "Ignoble Rodolphe (27)"
+  },
+  {
+    "id": 737,
+    "text": "Ignoble Rodolphe (37)"
+  },
+  {
+    "id": 739,
+    "text": "Ignoble Rodolphe (47)"
+  },
+  {
+    "id": 745,
+    "text": "Ignoble Rodolphe (57)"
+  },
+  {
+    "id": 749,
+    "text": "Ignoble Rodolphe (67)"
+  },
+  {
+    "id": 1427,
+    "text": "Ignoble Rodolphe (70)"
+  },
+  {
+    "id": 2105,
+    "text": "Inferno (1)"
+  },
+  {
+    "id": 3285,
+    "text": "Ingénieur Mullan (90 +82)"
+  },
+  {
+    "id": 3356,
+    "text": "Ingénieur de Souterville (0)"
+  },
+  {
+    "id": 3309,
+    "text": "Ingénieur fou (99 +87)"
+  },
+  {
+    "id": 3310,
+    "text": "Ingénieur loyaliste (95 +87)"
+  },
+  {
+    "id": 2000,
+    "text": "Ingénieur militaire des marchands d'Amakur (80)"
+  },
+  {
+    "id": 3372,
+    "text": "Ingénieur rebelle (90 +71)"
+  },
+  {
+    "id": 1097,
+    "text": "Inspecteur Serges (50)"
+  },
+  {
+    "id": 3353,
+    "text": "Instructeur militaire Mullan (0)"
+  },
+  {
+    "id": 1577,
+    "text": "Intendant d'insignes de raid (0)"
+  },
+  {
+    "id": 1578,
+    "text": "Intendant d'insignes de raid (0)"
+  },
+  {
+    "id": 1579,
+    "text": "Intendant d'insignes de raid (0)"
+  },
+  {
+    "id": 1580,
+    "text": "Intendant d'insignes de raid (0)"
+  },
+  {
+    "id": 1581,
+    "text": "Intendant d'insignes de raid (0)"
+  },
+  {
+    "id": 3355,
+    "text": "Inventeur de Souterville (0)"
+  },
+  {
+    "id": 710,
+    "text": "Invocateur de bombe ver (90)"
+  },
+  {
+    "id": 722,
+    "text": "Invocateur de monstre (90)"
+  },
+  {
+    "id": 3096,
+    "text": "Irukur (90)"
+  },
+  {
+    "id": 2041,
+    "text": "Irène Williams (80)"
+  },
+  {
+    "id": 522,
+    "text": "Isaac Artisan (45)"
+  },
+  {
+    "id": 1349,
+    "text": "Isalin (70)"
+  },
+  {
+    "id": 1350,
+    "text": "Isalin (70)"
+  },
+  {
+    "id": 1351,
+    "text": "Isalin (70)"
+  },
+  {
+    "id": 2512,
+    "text": "Ismatte (92)"
+  },
+  {
+    "id": 3070,
+    "text": "Itura (90)"
+  },
+  {
+    "id": 1381,
+    "text": "Jack O'Lantern (50)"
+  },
+  {
+    "id": 456,
+    "text": "Jack le bûcheron (72)"
+  },
+  {
+    "id": 545,
+    "text": "Jackpen (30)"
+  },
+  {
+    "id": 730,
+    "text": "Jackpen invoqué (1)"
+  },
+  {
+    "id": 423,
+    "text": "Jajamaru (50)"
+  },
+  {
+    "id": 3417,
+    "text": "Javelinier troyen (98 +97)"
+  },
+  {
+    "id": 827,
+    "text": "Jelly caracolant (1)"
+  },
+  {
+    "id": 655,
+    "text": "Jelly carnivore (1)"
+  },
+  {
+    "id": 654,
+    "text": "Jelly gluante (1)"
+  },
+  {
+    "id": 168,
+    "text": "Jelly invisible (34)"
+  },
+  {
+    "id": 656,
+    "text": "Jelly magique (1)"
+  },
+  {
+    "id": 89,
+    "text": "Jelly obscur (53)"
+  },
+  {
+    "id": 170,
+    "text": "Jelly obscur faible (34)"
+  },
+  {
+    "id": 87,
+    "text": "Jelly obscur fatigué (49)"
+  },
+  {
+    "id": 88,
+    "text": "Jelly obscur nerveux (54)"
+  },
+  {
+    "id": 1418,
+    "text": "Jelly obscur scellé (70)"
+  },
+  {
+    "id": 82,
+    "text": "Jelly rose (41)"
+  },
+  {
+    "id": 169,
+    "text": "Jelly rose faible (34)"
+  },
+  {
+    "id": 723,
+    "text": "Jelly rose géant (25)"
+  },
+  {
+    "id": 83,
+    "text": "Jelly rose nerveux (44)"
+  },
+  {
+    "id": 1386,
+    "text": "Jelly rose scellé (70)"
+  },
+  {
+    "id": 1414,
+    "text": "Jelly rose scellé (70)"
+  },
+  {
+    "id": 85,
+    "text": "Jelly rouge (45)"
+  },
+  {
+    "id": 2606,
+    "text": "Jelly rouge (58)"
+  },
+  {
+    "id": 167,
+    "text": "Jelly rouge faible (34)"
+  },
+  {
+    "id": 84,
+    "text": "Jelly rouge fatigué (43)"
+  },
+  {
+    "id": 86,
+    "text": "Jelly rouge nerveux (51)"
+  },
+  {
+    "id": 1415,
+    "text": "Jelly rouge scellé (70)"
+  },
+  {
+    "id": 825,
+    "text": "Jelly sautillant (1)"
+  },
+  {
+    "id": 2640,
+    "text": "Jennifer (1)"
+  },
+  {
+    "id": 2650,
+    "text": "Jennifer (92)"
+  },
+  {
+    "id": 355,
+    "text": "Jerico (35)"
+  },
+  {
+    "id": 1606,
+    "text": "Jeune Bananosaure (65)"
+  },
+  {
+    "id": 1609,
+    "text": "Jeune Bananosaure Rex (80)"
+  },
+  {
+    "id": 1611,
+    "text": "Jeune Pitamaous (80)"
+  },
+  {
+    "id": 1608,
+    "text": "Jeune Pitaya nain (65)"
+  },
+  {
+    "id": 1607,
+    "text": "Jeune Pommard (65)"
+  },
+  {
+    "id": 1610,
+    "text": "Jeune Pommard géant (80)"
+  },
+  {
+    "id": 830,
+    "text": "Jeune Rudy Loubard (1)"
+  },
+  {
+    "id": 834,
+    "text": "Jeune Rudy Loubard scellé (70)"
+  },
+  {
+    "id": 3438,
+    "text": "Jeune buffle des dimensions (98 +97)"
+  },
+  {
+    "id": 3425,
+    "text": "Jeune cerf draconique (98 +97)"
+  },
+  {
+    "id": 2388,
+    "text": "Jeune dragon des dimensions (99 +97)"
+  },
+  {
+    "id": 826,
+    "text": "Jeune jelly caracolant (1)"
+  },
+  {
+    "id": 824,
+    "text": "Jeune jelly sautillant (1)"
+  },
+  {
+    "id": 3444,
+    "text": "Jeune loup des dimensions (98 +97)"
+  },
+  {
+    "id": 677,
+    "text": "Jeune loup roux (75)"
+  },
+  {
+    "id": 1551,
+    "text": "Jeune lézard muqueux apprivoisé (1)"
+  },
+  {
+    "id": 1612,
+    "text": "Jeune mini Poultèque (85)"
+  },
+  {
+    "id": 816,
+    "text": "Jeune ratufu Rodolphe (1)"
+  },
+  {
+    "id": 1434,
+    "text": "Jeune ratufu Rodolphe scellé (70)"
+  },
+  {
+    "id": 480,
+    "text": "Jeune taupe (75)"
+  },
+  {
+    "id": 1060,
+    "text": "Jin Hamadin (50)"
+  },
+  {
+    "id": 3360,
+    "text": "Joailler de Souterville (0)"
+  },
+  {
+    "id": 2001,
+    "text": "John, l'aventurier (85)"
+  },
+  {
+    "id": 1329,
+    "text": "Journal du voyageur (0)"
+  },
+  {
+    "id": 502,
+    "text": "Justin Flamsombre (75)"
+  },
+  {
+    "id": 1088,
+    "text": "Kamil (50)"
+  },
+  {
+    "id": 2033,
+    "text": "Kan, le grand magicien (99)"
+  },
+  {
+    "id": 544,
+    "text": "Kangpen (35)"
+  },
+  {
+    "id": 731,
+    "text": "Kangpen invoqué (1)"
+  },
+  {
+    "id": 2205,
+    "text": "Kangpen invoqué (75)"
+  },
+  {
+    "id": 3074,
+    "text": "Kantrok (90)"
+  },
+  {
+    "id": 507,
+    "text": "Kartos (65)"
+  },
+  {
+    "id": 315,
+    "text": "Kenel (48)"
+  },
+  {
+    "id": 329,
+    "text": "Kenel (52)"
+  },
+  {
+    "id": 2745,
+    "text": "Kertos (mini) (1)"
+  },
+  {
+    "id": 1046,
+    "text": "Kertos, le chien-démon (93)"
+  },
+  {
+    "id": 637,
+    "text": "Kertos, le chien-démon fort (95)"
+  },
+  {
+    "id": 2581,
+    "text": "Kerzena (99)"
+  },
+  {
+    "id": 462,
+    "text": "Khanty Noirdestin (50)"
+  },
+  {
+    "id": 1604,
+    "text": "Kiki (1)"
+  },
+  {
+    "id": 2578,
+    "text": "Kirel (99)"
+  },
+  {
+    "id": 2748,
+    "text": "Kirollas (mini) (1)"
+  },
+  {
+    "id": 3027,
+    "text": "Kirollas roi des esprits corrompu (99)"
+  },
+  {
+    "id": 319,
+    "text": "Kliff (50)"
+  },
+  {
+    "id": 3150,
+    "text": "Koala dormeur (1)"
+  },
+  {
+    "id": 1613,
+    "text": "Koko (1)"
+  },
+  {
+    "id": 307,
+    "text": "Korrkoaren (50)"
+  },
+  {
+    "id": 314,
+    "text": "Korrkoaren (54)"
+  },
+  {
+    "id": 313,
+    "text": "Korrkoaren épuisé (38)"
+  },
+  {
+    "id": 1614,
+    "text": "Koukou (1)"
+  },
+  {
+    "id": 353,
+    "text": "Krispo, le manager des mines (9)"
+  },
+  {
+    "id": 266,
+    "text": "Kukukeen (75)"
+  },
+  {
+    "id": 515,
+    "text": "Kupei Karustier (72)"
+  },
+  {
+    "id": 3075,
+    "text": "Kuyantrok (90)"
+  },
+  {
+    "id": 553,
+    "text": "Lace (70)"
+  },
+  {
+    "id": 10,
+    "text": "Laineux (11)"
+  },
+  {
+    "id": 650,
+    "text": "Laineux choc (1)"
+  },
+  {
+    "id": 649,
+    "text": "Laineux flash (1)"
+  },
+  {
+    "id": 11,
+    "text": "Laineux furieux (21)"
+  },
+  {
+    "id": 9,
+    "text": "Laineux heureux (7)"
+  },
+  {
+    "id": 648,
+    "text": "Laineux électro (1)"
+  },
+  {
+    "id": 1055,
+    "text": "Lame de chaleur étincelante (93)"
+  },
+  {
+    "id": 1455,
+    "text": "Lamépine infernale (91)"
+  },
+  {
+    "id": 1057,
+    "text": "Lance de chaleur étincelante (93)"
+  },
+  {
+    "id": 3292,
+    "text": "Lance-flamme mécanique (96 +87)"
+  },
+  {
+    "id": 3322,
+    "text": "Lance-flamme mécanique IA (99 +87)"
+  },
+  {
+    "id": 3344,
+    "text": "Lance-flamme mécanique IA (99 +87)"
+  },
+  {
+    "id": 3333,
+    "text": "Lance-flamme mécanique loyaliste (87 +87)"
+  },
+  {
+    "id": 3315,
+    "text": "Lance-flamme mécanique loyaliste (98 +87)"
+  },
+  {
+    "id": 3316,
+    "text": "Lance-flamme mécanique loyaliste (98 +87)"
+  },
+  {
+    "id": 3332,
+    "text": "Lance-flamme mécanique loyaliste (98 +87)"
+  },
+  {
+    "id": 997,
+    "text": "Lancemort (1)"
+  },
+  {
+    "id": 1660,
+    "text": "Lanceur de hache de Midgard (95 +85)"
+  },
+  {
+    "id": 1668,
+    "text": "Lanceur de hache de Midgard (95 +85)"
+  },
+  {
+    "id": 3423,
+    "text": "Lanceur de hache de Midgard (95 +97)"
+  },
+  {
+    "id": 148,
+    "text": "Lanceur de javelot novice kenko (42)"
+  },
+  {
+    "id": 3431,
+    "text": "Lancier anglo-saxon (95 +97)"
+  },
+  {
+    "id": 3403,
+    "text": "Lancier ashigaru (95 +97)"
+  },
+  {
+    "id": 1675,
+    "text": "Lancier avide ashigaru (98 +96)"
+  },
+  {
+    "id": 1684,
+    "text": "Lancier avide du Lac des murmures (98 +96)"
+  },
+  {
+    "id": 1687,
+    "text": "Lancier avide troyen (98 +96)"
+  },
+  {
+    "id": 3110,
+    "text": "Lancier corrompu orc (97)"
+  },
+  {
+    "id": 150,
+    "text": "Lancier d'élite kenko (49)"
+  },
+  {
+    "id": 3435,
+    "text": "Lancier du Lac des murmures (98 +97)"
+  },
+  {
+    "id": 3196,
+    "text": "Lancier du repaire draconique (99 +80)"
+  },
+  {
+    "id": 254,
+    "text": "Lancier horrible (65)"
+  },
+  {
+    "id": 2525,
+    "text": "Lancier horrible (88)"
+  },
+  {
+    "id": 149,
+    "text": "Lancier kenko (45)"
+  },
+  {
+    "id": 253,
+    "text": "Lancier laid (63)"
+  },
+  {
+    "id": 3413,
+    "text": "Lancier troyen (95 +97)"
+  },
+  {
+    "id": 154,
+    "text": "Lanetan (55)"
+  },
+  {
+    "id": 2317,
+    "text": "Lapin de Pâques fou (30)"
+  },
+  {
+    "id": 795,
+    "text": "Lapin fripon agile (0)"
+  },
+  {
+    "id": 664,
+    "text": "Lapin mignon (1)"
+  },
+  {
+    "id": 2731,
+    "text": "Lapin noir (1)"
+  },
+  {
+    "id": 836,
+    "text": "Lapinou Padbra (1)"
+  },
+  {
+    "id": 2059,
+    "text": "Laranéya (85)"
+  },
+  {
+    "id": 484,
+    "text": "Larve (75)"
+  },
+  {
+    "id": 470,
+    "text": "Larve géante (77)"
+  },
+  {
+    "id": 978,
+    "text": "Lazekiel scellé (95)"
+  },
+  {
+    "id": 2502,
+    "text": "Lazékiel (92)"
+  },
+  {
+    "id": 540,
+    "text": "Leika Passage (45)"
+  },
+  {
+    "id": 568,
+    "text": "Leika Passage (45)"
+  },
+  {
+    "id": 2664,
+    "text": "Les morts-vivants (79)"
+  },
+  {
+    "id": 1328,
+    "text": "Lettre au chef des voleurs du désert (1)"
+  },
+  {
+    "id": 3078,
+    "text": "Liatiz (90)"
+  },
+  {
+    "id": 2576,
+    "text": "Libel (99)"
+  },
+  {
+    "id": 3190,
+    "text": "Libellule charognarde (98 +79)"
+  },
+  {
+    "id": 3225,
+    "text": "Libellule charognarde géante (98 +74)"
+  },
+  {
+    "id": 3394,
+    "text": "Libellule pestilentielle (97 +83)"
+  },
+  {
+    "id": 1648,
+    "text": "Lieutenant Karlis (99)"
+  },
+  {
+    "id": 2308,
+    "text": "Lilith (99)"
+  },
+  {
+    "id": 202,
+    "text": "Lion-loup (60)"
+  },
+  {
+    "id": 2058,
+    "text": "Lion-loup givré (80)"
+  },
+  {
+    "id": 1423,
+    "text": "Lion-loup scellé (70)"
+  },
+  {
+    "id": 203,
+    "text": "Lion-loup violent (62)"
+  },
+  {
+    "id": 3049,
+    "text": "Lipaga (10)"
+  },
+  {
+    "id": 3097,
+    "text": "Lisuka (90)"
+  },
+  {
+    "id": 2359,
+    "text": "Lièvre doudou de Lola (90)"
+  },
+  {
+    "id": 3084,
+    "text": "Logota (90)"
+  },
+  {
+    "id": 2357,
+    "text": "Lola Longoreil (95)"
+  },
+  {
+    "id": 200,
+    "text": "Loup (57)"
+  },
+  {
+    "id": 662,
+    "text": "Loup algide (1)"
+  },
+  {
+    "id": 2715,
+    "text": "Loup blizzard (1)"
+  },
+  {
+    "id": 2209,
+    "text": "Loup de Lucie (85)"
+  },
+  {
+    "id": 2211,
+    "text": "Loup de Lucie (85)"
+  },
+  {
+    "id": 2714,
+    "text": "Loup des glaces (1)"
+  },
+  {
+    "id": 2713,
+    "text": "Loup des neiges (1)"
+  },
+  {
+    "id": 754,
+    "text": "Loup des neiges (68)"
+  },
+  {
+    "id": 660,
+    "text": "Loup funeste (1)"
+  },
+  {
+    "id": 2304,
+    "text": "Loup noir (90)"
+  },
+  {
+    "id": 678,
+    "text": "Loup roux (80)"
+  },
+  {
+    "id": 1420,
+    "text": "Loup scellé (70)"
+  },
+  {
+    "id": 3134,
+    "text": "Loup solaire (1)"
+  },
+  {
+    "id": 661,
+    "text": "Loup vif (1)"
+  },
+  {
+    "id": 201,
+    "text": "Loup violent (59)"
+  },
+  {
+    "id": 683,
+    "text": "Loutre (1)"
+  },
+  {
+    "id": 528,
+    "text": "Lucia (45)"
+  },
+  {
+    "id": 1693,
+    "text": "Lumi (1)"
+  },
+  {
+    "id": 840,
+    "text": "Léo le Lâche (1)"
+  },
+  {
+    "id": 822,
+    "text": "Léona (1)"
+  },
+  {
+    "id": 180,
+    "text": "Lézard de terre vert géant (72)"
+  },
+  {
+    "id": 3301,
+    "text": "Lézard muqueux (98 +87)"
+  },
+  {
+    "id": 3396,
+    "text": "Lézard muqueux des catacombes (94 +87)"
+  },
+  {
+    "id": 3337,
+    "text": "Lézard muqueux des cavernes (98 +87)"
+  },
+  {
+    "id": 3342,
+    "text": "Lézard muqueux du géant moussu (98 +85)"
+  },
+  {
+    "id": 959,
+    "text": "Machine à glace (1)"
+  },
+  {
+    "id": 1025,
+    "text": "Magasinier de Neil (81)"
+  },
+  {
+    "id": 726,
+    "text": "Mage angélique furieux (90)"
+  },
+  {
+    "id": 3235,
+    "text": "Mage centaure de l'armée draconique (99 +75)"
+  },
+  {
+    "id": 3409,
+    "text": "Mage de l'eau Onmoyoji (98 +97)"
+  },
+  {
+    "id": 3410,
+    "text": "Mage de lumière Onmoyoji (98 +97)"
+  },
+  {
+    "id": 1207,
+    "text": "Mage des sables arides (88)"
+  },
+  {
+    "id": 1203,
+    "text": "Mage des sables aériens (87)"
+  },
+  {
+    "id": 1040,
+    "text": "Mage des sables venteux (85)"
+  },
+  {
+    "id": 1199,
+    "text": "Mage des sables volcaniques (86)"
+  },
+  {
+    "id": 3407,
+    "text": "Mage du feu Onmoyoji (98 +97)"
+  },
+  {
+    "id": 2518,
+    "text": "Mage protecteur d'Erenia (91)"
+  },
+  {
+    "id": 2508,
+    "text": "Mage protecteur de Zénas (90)"
+  },
+  {
+    "id": 3023,
+    "text": "Mage ténébreuse (96)"
+  },
+  {
+    "id": 3408,
+    "text": "Mage ténébreux Onmoyoji (98 +97)"
+  },
+  {
+    "id": 447,
+    "text": "Mage yak (75)"
+  },
+  {
+    "id": 1632,
+    "text": "Magicien des dimensions (98 +97)"
+  },
+  {
+    "id": 3198,
+    "text": "Magicien du repaire draconique (99 +80)"
+  },
+  {
+    "id": 3182,
+    "text": "Magicien mycète (92 +69)"
+  },
+  {
+    "id": 3275,
+    "text": "Magicien mycète amélioré (92 +69)"
+  },
+  {
+    "id": 3185,
+    "text": "Magicien mycète géant (96 +70)"
+  },
+  {
+    "id": 3278,
+    "text": "Magicien mycète géant amélioré (96 +70)"
+  },
+  {
+    "id": 3243,
+    "text": "Magicien mycète rouge (92 +36)"
+  },
+  {
+    "id": 1467,
+    "text": "Magicien mycète rouge (expert) (92 +65)"
+  },
+  {
+    "id": 3251,
+    "text": "Magicien mycète rouge géant (93 +55)"
+  },
+  {
+    "id": 1472,
+    "text": "Magicien mycète rouge géant (expert) (93 +75)"
+  },
+  {
+    "id": 2300,
+    "text": "Magicien ténébreux (92)"
+  },
+  {
+    "id": 1042,
+    "text": "Magmaros (89)"
+  },
+  {
+    "id": 1923,
+    "text": "Magmaros flamboyant (88)"
+  },
+  {
+    "id": 1916,
+    "text": "Magmaros flou (89)"
+  },
+  {
+    "id": 1918,
+    "text": "Magmaros fort (89)"
+  },
+  {
+    "id": 3208,
+    "text": "Main morte-vivante (97 +79)"
+  },
+  {
+    "id": 3231,
+    "text": "Main morte-vivante géante (98 +74)"
+  },
+  {
+    "id": 3209,
+    "text": "Main morte-vivante géante (98 +80)"
+  },
+  {
+    "id": 3153,
+    "text": "Maire Méphisto (98)"
+  },
+  {
+    "id": 3427,
+    "text": "Maitre lanceur de hache de Midgard (98 +97)"
+  },
+  {
+    "id": 3411,
+    "text": "Maitre lancier ashigaru (98 +97)"
+  },
+  {
+    "id": 3419,
+    "text": "Maitre épéiste troyen (98 +97)"
+  },
+  {
+    "id": 305,
+    "text": "Malcolm Mix (35)"
+  },
+  {
+    "id": 306,
+    "text": "Malcolm étonné (50)"
+  },
+  {
+    "id": 481,
+    "text": "Maman taupe (78)"
+  },
+  {
+    "id": 332,
+    "text": "Manager des mines (35)"
+  },
+  {
+    "id": 3358,
+    "text": "Manager familial de Souterville (0)"
+  },
+  {
+    "id": 19,
+    "text": "Mandragore (20)"
+  },
+  {
+    "id": 951,
+    "text": "Mandragore anti-buff (99)"
+  },
+  {
+    "id": 950,
+    "text": "Mandragore de trou noir (99)"
+  },
+  {
+    "id": 20,
+    "text": "Mandragore furieuse (26)"
+  },
+  {
+    "id": 2558,
+    "text": "Mandragore géante (46)"
+  },
+  {
+    "id": 161,
+    "text": "Mandragore géante (46)"
+  },
+  {
+    "id": 22,
+    "text": "Mandragore herbue (36)"
+  },
+  {
+    "id": 21,
+    "text": "Mandragore herbue faible (31)"
+  },
+  {
+    "id": 23,
+    "text": "Mandragore herbue forte (38)"
+  },
+  {
+    "id": 18,
+    "text": "Mandragore heureuse (17)"
+  },
+  {
+    "id": 589,
+    "text": "Mandragore millénaire (27)"
+  },
+  {
+    "id": 162,
+    "text": "Mandragore sprinteuse (44)"
+  },
+  {
+    "id": 1242,
+    "text": "Mante des sables désertiques (84)"
+  },
+  {
+    "id": 1250,
+    "text": "Mante des sables fantomatiques (84)"
+  },
+  {
+    "id": 1009,
+    "text": "Mante des sables marins (81)"
+  },
+  {
+    "id": 1121,
+    "text": "Mante des sables mouvants (84)"
+  },
+  {
+    "id": 1117,
+    "text": "Mante des sables poussiéreux (82)"
+  },
+  {
+    "id": 1109,
+    "text": "Mante des sables tempétueux (82)"
+  },
+  {
+    "id": 3117,
+    "text": "Mante infernale (90)"
+  },
+  {
+    "id": 2675,
+    "text": "Marchand (50)"
+  },
+  {
+    "id": 1076,
+    "text": "Marchand d'Akamur (50)"
+  },
+  {
+    "id": 1340,
+    "text": "Marchandises perdues (Camp des voleurs du désert) (0)"
+  },
+  {
+    "id": 64,
+    "text": "Marcheur (19)"
+  },
+  {
+    "id": 270,
+    "text": "Marcheur affaibli (16)"
+  },
+  {
+    "id": 70,
+    "text": "Marcheur de pierre (54)"
+  },
+  {
+    "id": 69,
+    "text": "Marcheur de pierre fatigué (47)"
+  },
+  {
+    "id": 71,
+    "text": "Marcheur de pierre nerveux (55)"
+  },
+  {
+    "id": 131,
+    "text": "Marcheur faible (18)"
+  },
+  {
+    "id": 63,
+    "text": "Marcheur fatigué (16)"
+  },
+  {
+    "id": 65,
+    "text": "Marcheur nerveux (33)"
+  },
+  {
+    "id": 67,
+    "text": "Marcheur à épines (39)"
+  },
+  {
+    "id": 66,
+    "text": "Marcheur à épines fatigué (26)"
+  },
+  {
+    "id": 68,
+    "text": "Marcheur à épines nerveux (49)"
+  },
+  {
+    "id": 524,
+    "text": "Margaret (45)"
+  },
+  {
+    "id": 3076,
+    "text": "Martas (90)"
+  },
+  {
+    "id": 2316,
+    "text": "Maru (95)"
+  },
+  {
+    "id": 2322,
+    "text": "Maru (95)"
+  },
+  {
+    "id": 526,
+    "text": "Marvin Magicus (45)"
+  },
+  {
+    "id": 363,
+    "text": "Mateur debout (99)"
+  },
+  {
+    "id": 391,
+    "text": "Mateur volant (1)"
+  },
+  {
+    "id": 577,
+    "text": "Maître Hatus (80)"
+  },
+  {
+    "id": 563,
+    "text": "Maître Morcos (80)"
+  },
+  {
+    "id": 1179,
+    "text": "Maître de l'agitation (89)"
+  },
+  {
+    "id": 1183,
+    "text": "Maître de l'agonie (87)"
+  },
+  {
+    "id": 1015,
+    "text": "Maître de la prière (84)"
+  },
+  {
+    "id": 1165,
+    "text": "Maître des clés de Garton (85)"
+  },
+  {
+    "id": 1152,
+    "text": "Maître des clés de Kerus (82)"
+  },
+  {
+    "id": 1139,
+    "text": "Maître des clés de Melki (82)"
+  },
+  {
+    "id": 1026,
+    "text": "Maître des clés de Neil (81)"
+  },
+  {
+    "id": 1306,
+    "text": "Maître des clés des voleurs du désert (85)"
+  },
+  {
+    "id": 1175,
+    "text": "Maître des lamentations (86)"
+  },
+  {
+    "id": 2363,
+    "text": "Maître lièvre de Lola (90)"
+  },
+  {
+    "id": 707,
+    "text": "Maître mage (90)"
+  },
+  {
+    "id": 341,
+    "text": "Maître sorcier (35)"
+  },
+  {
+    "id": 2302,
+    "text": "Maître sorcier (90)"
+  },
+  {
+    "id": 2649,
+    "text": "Maître sorcier de Bélial (97)"
+  },
+  {
+    "id": 2701,
+    "text": "Mechamiaou (1)"
+  },
+  {
+    "id": 2635,
+    "text": "Membre de la bande des voleurs (92)"
+  },
+  {
+    "id": 1653,
+    "text": "Merlin l'enchanteur (100 +100)"
+  },
+  {
+    "id": 1671,
+    "text": "Merlin l'enchanteur (100 +100)"
+  },
+  {
+    "id": 3105,
+    "text": "Messager du roi des esprits (98)"
+  },
+  {
+    "id": 3445,
+    "text": "Meurtrier dimensionnel (99 +97)"
+  },
+  {
+    "id": 1089,
+    "text": "Michol (50)"
+  },
+  {
+    "id": 1092,
+    "text": "Milice du chaos (50)"
+  },
+  {
+    "id": 141,
+    "text": "Mime (31)"
+  },
+  {
+    "id": 143,
+    "text": "Mime fléau d'armes (41)"
+  },
+  {
+    "id": 144,
+    "text": "Mime fléau d'armes furieux (44)"
+  },
+  {
+    "id": 300,
+    "text": "Mimi Mentor (35)"
+  },
+  {
+    "id": 106,
+    "text": "Mineur (22)"
+  },
+  {
+    "id": 112,
+    "text": "Mineur en chef (33)"
+  },
+  {
+    "id": 111,
+    "text": "Mineur en chef fatigué (24)"
+  },
+  {
+    "id": 113,
+    "text": "Mineur en chef nerveux (34)"
+  },
+  {
+    "id": 109,
+    "text": "Mineur expert (23)"
+  },
+  {
+    "id": 108,
+    "text": "Mineur expert faible (19)"
+  },
+  {
+    "id": 110,
+    "text": "Mineur expert fort (32)"
+  },
+  {
+    "id": 107,
+    "text": "Mineur furieux (23)"
+  },
+  {
+    "id": 105,
+    "text": "Mineur heureux (18)"
+  },
+  {
+    "id": 360,
+    "text": "Mineur marmonnant (0)"
+  },
+  {
+    "id": 1601,
+    "text": "Mini Bananosaure (1)"
+  },
+  {
+    "id": 600,
+    "text": "Mini Castra (72)"
+  },
+  {
+    "id": 1509,
+    "text": "Mini Jackpen (1)"
+  },
+  {
+    "id": 821,
+    "text": "Mini Kangpen (1)"
+  },
+  {
+    "id": 1603,
+    "text": "Mini Pitamaous (1)"
+  },
+  {
+    "id": 1602,
+    "text": "Mini Pommard (1)"
+  },
+  {
+    "id": 1600,
+    "text": "Mini Poultèque (1)"
+  },
+  {
+    "id": 671,
+    "text": "Mini diable de feu (1)"
+  },
+  {
+    "id": 2204,
+    "text": "Minipégase (75)"
+  },
+  {
+    "id": 2208,
+    "text": "Minirudy (75)"
+  },
+  {
+    "id": 478,
+    "text": "Mite (75)"
+  },
+  {
+    "id": 3293,
+    "text": "Mitrailleur mécanique (96 +87)"
+  },
+  {
+    "id": 3324,
+    "text": "Mitrailleur mécanique IA (99 +87)"
+  },
+  {
+    "id": 3346,
+    "text": "Mitrailleur mécanique IA (99 +87)"
+  },
+  {
+    "id": 2383,
+    "text": "Mitrailleur mécanique IA (99 +87)"
+  },
+  {
+    "id": 3317,
+    "text": "Mitrailleur mécanique loyaliste (98 +87)"
+  },
+  {
+    "id": 3334,
+    "text": "Mitrailleur mécanique loyaliste (98 +87)"
+  },
+  {
+    "id": 2373,
+    "text": "Module de bouclier (99)"
+  },
+  {
+    "id": 2355,
+    "text": "Module de puissance de feu (99)"
+  },
+  {
+    "id": 2372,
+    "text": "Module de recharge (99)"
+  },
+  {
+    "id": 2374,
+    "text": "Module de réparation (99)"
+  },
+  {
+    "id": 2356,
+    "text": "Module de résistance (99)"
+  },
+  {
+    "id": 1176,
+    "text": "Moine de l'agitation (88)"
+  },
+  {
+    "id": 1180,
+    "text": "Moine de l'agonie (86)"
+  },
+  {
+    "id": 1012,
+    "text": "Moine de la prière (83)"
+  },
+  {
+    "id": 1172,
+    "text": "Moine des lamentations (85)"
+  },
+  {
+    "id": 1322,
+    "text": "Moine mort (1)"
+  },
+  {
+    "id": 3020,
+    "text": "Mommie pourrie (95)"
+  },
+  {
+    "id": 397,
+    "text": "Monstre terrestre (59)"
+  },
+  {
+    "id": 1289,
+    "text": "Morceau de relique étrange (1)"
+  },
+  {
+    "id": 1311,
+    "text": "Morceaux de relique brisés (0)"
+  },
+  {
+    "id": 1312,
+    "text": "Morceaux de relique brisés (0)"
+  },
+  {
+    "id": 1313,
+    "text": "Morceaux de relique brisés (0)"
+  },
+  {
+    "id": 1314,
+    "text": "Morceaux de relique brisés (0)"
+  },
+  {
+    "id": 2668,
+    "text": "Mort vagabond (83)"
+  },
+  {
+    "id": 2663,
+    "text": "Mort-vivant (78)"
+  },
+  {
+    "id": 2756,
+    "text": "Motard (0)"
+  },
+  {
+    "id": 2758,
+    "text": "Motard à vapeur (0)"
+  },
+  {
+    "id": 2757,
+    "text": "Motarde (0)"
+  },
+  {
+    "id": 2759,
+    "text": "Motarde à vapeur (0)"
+  },
+  {
+    "id": 13,
+    "text": "Mouflon (30)"
+  },
+  {
+    "id": 368,
+    "text": "Moustique faible (35)"
+  },
+  {
+    "id": 427,
+    "text": "Moustique fort (70)"
+  },
+  {
+    "id": 2119,
+    "text": "Mouton jaune (1)"
+  },
+  {
+    "id": 352,
+    "text": "Mudog, le manager des mines (8)"
+  },
+  {
+    "id": 1545,
+    "text": "Mullan captif (99)"
+  },
+  {
+    "id": 3351,
+    "text": "Mullang (99 +90)"
+  },
+  {
+    "id": 3368,
+    "text": "Mullang (99 +90)"
+  },
+  {
+    "id": 3284,
+    "text": "Mycète doré apprivoisé (1)"
+  },
+  {
+    "id": 2523,
+    "text": "Mysticaron (87)"
+  },
+  {
+    "id": 811,
+    "text": "Mysticaron scellé (90)"
+  },
+  {
+    "id": 282,
+    "text": "Mère Cuby (40)"
+  },
+  {
+    "id": 2735,
+    "text": "Mère Cuby (mini) (1)"
+  },
+  {
+    "id": 1539,
+    "text": "Méduse apprivoisée (1)"
+  },
+  {
+    "id": 854,
+    "text": "Météorite noire (99)"
+  },
+  {
+    "id": 1035,
+    "text": "Nain des sables (81)"
+  },
+  {
+    "id": 1187,
+    "text": "Nain des sables désertiques (83)"
+  },
+  {
+    "id": 1195,
+    "text": "Nain des sables mouvants (85)"
+  },
+  {
+    "id": 1191,
+    "text": "Nain des sables poussiéreux (84)"
+  },
+  {
+    "id": 2643,
+    "text": "Nain des sables violent (81)"
+  },
+  {
+    "id": 409,
+    "text": "Nain ninja armé (50)"
+  },
+  {
+    "id": 408,
+    "text": "Nain ninja caracolant (47)"
+  },
+  {
+    "id": 410,
+    "text": "Nain ninja ivre (45)"
+  },
+  {
+    "id": 415,
+    "text": "Nain ninja triste (45)"
+  },
+  {
+    "id": 414,
+    "text": "Namaju (60)"
+  },
+  {
+    "id": 428,
+    "text": "Namaju furieux (50)"
+  },
+  {
+    "id": 429,
+    "text": "Namaju furieux (50)"
+  },
+  {
+    "id": 430,
+    "text": "Namaju furieux (50)"
+  },
+  {
+    "id": 431,
+    "text": "Namaju furieux (55)"
+  },
+  {
+    "id": 432,
+    "text": "Namaju furieux (55)"
+  },
+  {
+    "id": 418,
+    "text": "Namaju violent (50)"
+  },
+  {
+    "id": 1070,
+    "text": "Nephi (50)"
+  },
+  {
+    "id": 1638,
+    "text": "Nidhogg (100 +100)"
+  },
+  {
+    "id": 411,
+    "text": "Ninja (54)"
+  },
+  {
+    "id": 1662,
+    "text": "Nivaine la fée de l'Eau (97 +86)"
+  },
+  {
+    "id": 1555,
+    "text": "Noble mullan (0)"
+  },
+  {
+    "id": 1556,
+    "text": "Noble mullan (0)"
+  },
+  {
+    "id": 412,
+    "text": "Nonomaru (55)"
+  },
+  {
+    "id": 523,
+    "text": "Noélia Rosa (45)"
+  },
+  {
+    "id": 2120,
+    "text": "Nuage d'or (1)"
+  },
+  {
+    "id": 691,
+    "text": "Nécromant (90)"
+  },
+  {
+    "id": 1619,
+    "text": "Nézarun (98 +100)"
+  },
+  {
+    "id": 1620,
+    "text": "Nézarun dévastateur (98 +100)"
+  },
+  {
+    "id": 1345,
+    "text": "Officier d'approvisionnement Aaron (0)"
+  },
+  {
+    "id": 1344,
+    "text": "Officier d'approvisionnement Jamal (0)"
+  },
+  {
+    "id": 1362,
+    "text": "Officier d'approvisionnement Ulman (0)"
+  },
+  {
+    "id": 3367,
+    "text": "Officier koaren (99 +80)"
+  },
+  {
+    "id": 994,
+    "text": "Ombre de Bélial (100)"
+  },
+  {
+    "id": 2723,
+    "text": "Ombre de Bélial (faible) (95)"
+  },
+  {
+    "id": 1904,
+    "text": "Ombre de Kertos (95)"
+  },
+  {
+    "id": 1912,
+    "text": "Ombre de Kertos (95)"
+  },
+  {
+    "id": 1691,
+    "text": "Ombre de Nézarun (100 +100)"
+  },
+  {
+    "id": 1692,
+    "text": "Ombre de Nézarun dévastateur (100 +100)"
+  },
+  {
+    "id": 1905,
+    "text": "Ombre de Valakus (95)"
+  },
+  {
+    "id": 993,
+    "text": "Ombre du roi des bêtes corrompu (100)"
+  },
+  {
+    "id": 992,
+    "text": "Ombre du roi des esprits corrompu (100)"
+  },
+  {
+    "id": 245,
+    "text": "Ombre nocturne (61)"
+  },
+  {
+    "id": 2646,
+    "text": "Ombre nocturne du désert (87)"
+  },
+  {
+    "id": 264,
+    "text": "Ombre nocturne mélancolique (75)"
+  },
+  {
+    "id": 263,
+    "text": "Ombre nocturne triste (69)"
+  },
+  {
+    "id": 3085,
+    "text": "Orc capturé (90)"
+  },
+  {
+    "id": 3086,
+    "text": "Orc capturée (90)"
+  },
+  {
+    "id": 3194,
+    "text": "Oursequin (98 +69)"
+  },
+  {
+    "id": 3268,
+    "text": "Oursequin amélioré (98 +69)"
+  },
+  {
+    "id": 3269,
+    "text": "Oursequin amélioré (99 +70)"
+  },
+  {
+    "id": 3195,
+    "text": "Oursequin géant (99 +70)"
+  },
+  {
+    "id": 3290,
+    "text": "Ouvrier robotisé (95 +87)"
+  },
+  {
+    "id": 3320,
+    "text": "Ouvrier robotisé loyaliste (96 +87)"
+  },
+  {
+    "id": 2751,
+    "text": "Paimon (mini) (1)"
+  },
+  {
+    "id": 772,
+    "text": "Paimon endormi (90)"
+  },
+  {
+    "id": 3124,
+    "text": "Paimon le seigneur maléfique (100)"
+  },
+  {
+    "id": 2722,
+    "text": "Paimon ressuscité (99)"
+  },
+  {
+    "id": 2752,
+    "text": "Paimon ressuscité (mini) (1)"
+  },
+  {
+    "id": 714,
+    "text": "Paladin gecko (1)"
+  },
+  {
+    "id": 1499,
+    "text": "Panneau indicateur avec pavillon pirate (1)"
+  },
+  {
+    "id": 1385,
+    "text": "Panneau indicateur d'Halloween (1)"
+  },
+  {
+    "id": 1519,
+    "text": "Panneau indicateur de Noël (1)"
+  },
+  {
+    "id": 1428,
+    "text": "Panneau indicateur de Pâques (1)"
+  },
+  {
+    "id": 2541,
+    "text": "Panuel (99)"
+  },
+  {
+    "id": 371,
+    "text": "Papillon de flamme (35)"
+  },
+  {
+    "id": 1491,
+    "text": "Par (1)"
+  },
+  {
+    "id": 3224,
+    "text": "Paragivre (90 +63)"
+  },
+  {
+    "id": 592,
+    "text": "Patate millénaire (51)"
+  },
+  {
+    "id": 789,
+    "text": "Patate pourrie (1)"
+  },
+  {
+    "id": 586,
+    "text": "Patate royale monstrueuse (70)"
+  },
+  {
+    "id": 846,
+    "text": "Patrick Pattedouce (1)"
+  },
+  {
+    "id": 1214,
+    "text": "Patrouille assassine de Shay (86)"
+  },
+  {
+    "id": 1218,
+    "text": "Patrouille assassine de Shoran (86)"
+  },
+  {
+    "id": 1216,
+    "text": "Patrouille bombardière de Shay (87)"
+  },
+  {
+    "id": 1220,
+    "text": "Patrouille bombardière de Shoran (87)"
+  },
+  {
+    "id": 1215,
+    "text": "Patrouille chasseuse de Shay (87)"
+  },
+  {
+    "id": 1219,
+    "text": "Patrouille chasseuse de Shoran (87)"
+  },
+  {
+    "id": 1376,
+    "text": "Patrouille endormie (1)"
+  },
+  {
+    "id": 1213,
+    "text": "Patrouille samouraï de Shay (85)"
+  },
+  {
+    "id": 1217,
+    "text": "Patrouille samouraï de Shoran (85)"
+  },
+  {
+    "id": 1072,
+    "text": "Paul (50)"
+  },
+  {
+    "id": 3082,
+    "text": "Paysan orc (90)"
+  },
+  {
+    "id": 3083,
+    "text": "Paysanne orc (90)"
+  },
+  {
+    "id": 509,
+    "text": "Pelicert (67)"
+  },
+  {
+    "id": 3069,
+    "text": "Perkichan (90)"
+  },
+  {
+    "id": 344,
+    "text": "Personne mystérieuse (0)"
+  },
+  {
+    "id": 2699,
+    "text": "Personne mystérieuse (88)"
+  },
+  {
+    "id": 2698,
+    "text": "Personne mystérieuse (90)"
+  },
+  {
+    "id": 3383,
+    "text": "Petit Arma géant (99 +90)"
+  },
+  {
+    "id": 3347,
+    "text": "Petit Arma géant (99 +90)"
+  },
+  {
+    "id": 138,
+    "text": "Petit boing fléau d'armes (40)"
+  },
+  {
+    "id": 24,
+    "text": "Petit dander (1)"
+  },
+  {
+    "id": 72,
+    "text": "Petit diablotin (27)"
+  },
+  {
+    "id": 78,
+    "text": "Petit diablotin satanique (53)"
+  },
+  {
+    "id": 956,
+    "text": "Petit feu de camp (1)"
+  },
+  {
+    "id": 102,
+    "text": "Petit hamster métallique (21)"
+  },
+  {
+    "id": 451,
+    "text": "Petit herbin (1)"
+  },
+  {
+    "id": 3102,
+    "text": "Petit hydromme (89)"
+  },
+  {
+    "id": 280,
+    "text": "Petit jelly rouge (23)"
+  },
+  {
+    "id": 179,
+    "text": "Petit lézard de terre (72)"
+  },
+  {
+    "id": 140,
+    "text": "Petit mime (28)"
+  },
+  {
+    "id": 2609,
+    "text": "Petit mime (72)"
+  },
+  {
+    "id": 12,
+    "text": "Petit mouflon (28)"
+  },
+  {
+    "id": 920,
+    "text": "Petit panneau indicateur (1)"
+  },
+  {
+    "id": 39,
+    "text": "Petit pois sauvage (27)"
+  },
+  {
+    "id": 0,
+    "text": "Petit renard (16)"
+  },
+  {
+    "id": 229,
+    "text": "Petit wiggler (1)"
+  },
+  {
+    "id": 230,
+    "text": "Petit wiggler (1)"
+  },
+  {
+    "id": 231,
+    "text": "Petit wiggler (1)"
+  },
+  {
+    "id": 569,
+    "text": "Petit éclaireur gnoll suspect (35)"
+  },
+  {
+    "id": 217,
+    "text": "Petite araignée venimeuse (57)"
+  },
+  {
+    "id": 715,
+    "text": "Petite bombe momie (90)"
+  },
+  {
+    "id": 48,
+    "text": "Petite cosse de pois sauvages (27)"
+  },
+  {
+    "id": 223,
+    "text": "Petite guêpe (57)"
+  },
+  {
+    "id": 473,
+    "text": "Petite méduse (75)"
+  },
+  {
+    "id": 1446,
+    "text": "Petite sorcière-glaçon (0)"
+  },
+  {
+    "id": 1051,
+    "text": "Phénix (94)"
+  },
+  {
+    "id": 1906,
+    "text": "Pierre de lave en fusion (0)"
+  },
+  {
+    "id": 3003,
+    "text": "Pikanya (90)"
+  },
+  {
+    "id": 3115,
+    "text": "Pikanya apprivoisé (1)"
+  },
+  {
+    "id": 3107,
+    "text": "Pikanya apprivoisé (1)"
+  },
+  {
+    "id": 2391,
+    "text": "Pilier dimensionnel de Nézarun (90 +70)"
+  },
+  {
+    "id": 1093,
+    "text": "Pillard maloren du désert (50)"
+  },
+  {
+    "id": 2585,
+    "text": "Pilleur de tombes (50)"
+  },
+  {
+    "id": 3210,
+    "text": "Pilleur de tombes dragon (97 +79)"
+  },
+  {
+    "id": 998,
+    "text": "Pilleur de tombes maudit (99 +75)"
+  },
+  {
+    "id": 3189,
+    "text": "Pilleur harpie (96 +79)"
+  },
+  {
+    "id": 3279,
+    "text": "Pilleur harpie amélioré (96 +79)"
+  },
+  {
+    "id": 1494,
+    "text": "Pir (1)"
+  },
+  {
+    "id": 1503,
+    "text": "Pirate Cappen (50)"
+  },
+  {
+    "id": 1502,
+    "text": "Pirate Jackpen (40)"
+  },
+  {
+    "id": 1501,
+    "text": "Pirate Kangpen (45)"
+  },
+  {
+    "id": 1595,
+    "text": "Pitamaous (85)"
+  },
+  {
+    "id": 1589,
+    "text": "Pitaya nain (75)"
+  },
+  {
+    "id": 2768,
+    "text": "Pitaya nain effronté (75)"
+  },
+  {
+    "id": 3165,
+    "text": "Poigne (94 +69)"
+  },
+  {
+    "id": 3204,
+    "text": "Poigne dressée (94 +68)"
+  },
+  {
+    "id": 3166,
+    "text": "Poigne obscure (95 +70)"
+  },
+  {
+    "id": 3270,
+    "text": "Poigne obscure améliorée (95 +70)"
+  },
+  {
+    "id": 37,
+    "text": "Pois (10)"
+  },
+  {
+    "id": 38,
+    "text": "Pois dur (13)"
+  },
+  {
+    "id": 36,
+    "text": "Pois mou (8)"
+  },
+  {
+    "id": 40,
+    "text": "Pois sauvage (29)"
+  },
+  {
+    "id": 43,
+    "text": "Pois épineux (58)"
+  },
+  {
+    "id": 42,
+    "text": "Pois épineux fainéant (55)"
+  },
+  {
+    "id": 44,
+    "text": "Pois épineux rapide (61)"
+  },
+  {
+    "id": 1237,
+    "text": "Poisson des sables désertiques (82)"
+  },
+  {
+    "id": 1245,
+    "text": "Poisson des sables fantomatiques (82)"
+  },
+  {
+    "id": 1000,
+    "text": "Poisson des sables marins (79)"
+  },
+  {
+    "id": 1112,
+    "text": "Poisson des sables poussiéreux (80)"
+  },
+  {
+    "id": 1104,
+    "text": "Poisson des sables tempétueux (80)"
+  },
+  {
+    "id": 628,
+    "text": "Poisson poursuiveur (77)"
+  },
+  {
+    "id": 1538,
+    "text": "Poisson poursuiveur apprivoisé (1 +1)"
+  },
+  {
+    "id": 1596,
+    "text": "Pollutus retravaillé (100 +90)"
+  },
+  {
+    "id": 1621,
+    "text": "Pollutzi (1)"
+  },
+  {
+    "id": 2548,
+    "text": "Polneus (97)"
+  },
+  {
+    "id": 1588,
+    "text": "Pommard (75)"
+  },
+  {
+    "id": 1594,
+    "text": "Pommard géant (85)"
+  },
+  {
+    "id": 2767,
+    "text": "Pommard pinçant (75)"
+  },
+  {
+    "id": 1642,
+    "text": "Portail de la dynastie Joseon (0)"
+  },
+  {
+    "id": 1645,
+    "text": "Portail menant à Brittania (0)"
+  },
+  {
+    "id": 1644,
+    "text": "Portail menant à Thrúdvang (0)"
+  },
+  {
+    "id": 1643,
+    "text": "Portail menant à Troie (0)"
+  },
+  {
+    "id": 1646,
+    "text": "Portail menant à un lieu inconnu (0)"
+  },
+  {
+    "id": 1464,
+    "text": "Portail vers la Terre des vivants (0)"
+  },
+  {
+    "id": 3288,
+    "text": "Porte-bouclier Mullan (93 +82)"
+  },
+  {
+    "id": 3313,
+    "text": "Porte-bouclier loyaliste (96 +87)"
+  },
+  {
+    "id": 3371,
+    "text": "Porte-bouclier rebelle (93 +75)"
+  },
+  {
+    "id": 3428,
+    "text": "Porteur d'apocalypse de Midgard (98 +97)"
+  },
+  {
+    "id": 3424,
+    "text": "Porteur d'hiver de Midgard (97 +97)"
+  },
+  {
+    "id": 433,
+    "text": "Pot Jajamaru (60)"
+  },
+  {
+    "id": 291,
+    "text": "Pot de ginseng (50)"
+  },
+  {
+    "id": 333,
+    "text": "Poule (1)"
+  },
+  {
+    "id": 340,
+    "text": "Poule furieuse (20)"
+  },
+  {
+    "id": 421,
+    "text": "Poule violente (48)"
+  },
+  {
+    "id": 2206,
+    "text": "Poussin féroce invoqué (75)"
+  },
+  {
+    "id": 588,
+    "text": "Poussin géant (27)"
+  },
+  {
+    "id": 1387,
+    "text": "Poussin scellé (70)"
+  },
+  {
+    "id": 384,
+    "text": "Poussinet caracolant (1)"
+  },
+  {
+    "id": 801,
+    "text": "Poussinet caracolant (1)"
+  },
+  {
+    "id": 799,
+    "text": "Poussinet caracolant géant (20)"
+  },
+  {
+    "id": 385,
+    "text": "Poussinet danseur (1)"
+  },
+  {
+    "id": 386,
+    "text": "Poussinet furibond (1)"
+  },
+  {
+    "id": 802,
+    "text": "Poussinet furibond (1)"
+  },
+  {
+    "id": 800,
+    "text": "Poussinet furibond géant (30)"
+  },
+  {
+    "id": 1332,
+    "text": "Poussière de fées de la terre (0)"
+  },
+  {
+    "id": 1334,
+    "text": "Poussière de fées du sable (0)"
+  },
+  {
+    "id": 1333,
+    "text": "Poussière de fées du vent (0)"
+  },
+  {
+    "id": 1315,
+    "text": "Première tablette d'écriture (0)"
+  },
+  {
+    "id": 1275,
+    "text": "Premières marchandises (0)"
+  },
+  {
+    "id": 323,
+    "text": "Princesse Catlotte (70)"
+  },
+  {
+    "id": 324,
+    "text": "Princesse Catrisha (69)"
+  },
+  {
+    "id": 335,
+    "text": "Princesse Catrisha (69)"
+  },
+  {
+    "id": 417,
+    "text": "Princesse Sakura (55)"
+  },
+  {
+    "id": 1261,
+    "text": "Prisonnier (50)"
+  },
+  {
+    "id": 1266,
+    "text": "Prisonnier Humad (50)"
+  },
+  {
+    "id": 1086,
+    "text": "Prisonnier Sharif (50)"
+  },
+  {
+    "id": 1413,
+    "text": "Professeur Asim (0)"
+  },
+  {
+    "id": 3068,
+    "text": "Proga (90)"
+  },
+  {
+    "id": 3109,
+    "text": "Proga (90)"
+  },
+  {
+    "id": 2015,
+    "text": "Progéniture de Valakus (89)"
+  },
+  {
+    "id": 551,
+    "text": "Prota (45)"
+  },
+  {
+    "id": 668,
+    "text": "Prota acharné (67)"
+  },
+  {
+    "id": 1238,
+    "text": "Prota des sables désertiques (81)"
+  },
+  {
+    "id": 1246,
+    "text": "Prota des sables fantomatiques (81)"
+  },
+  {
+    "id": 1001,
+    "text": "Prota des sables marins (78)"
+  },
+  {
+    "id": 1113,
+    "text": "Prota des sables poussiéreux (79)"
+  },
+  {
+    "id": 1105,
+    "text": "Prota des sables tempétueux (79)"
+  },
+  {
+    "id": 1926,
+    "text": "Protecteur du dieu du feu (93)"
+  },
+  {
+    "id": 2632,
+    "text": "Protecteur du sceau (88)"
+  },
+  {
+    "id": 2009,
+    "text": "Protecteur du sceau (90)"
+  },
+  {
+    "id": 2011,
+    "text": "Protecteur du sceau faible (90)"
+  },
+  {
+    "id": 1532,
+    "text": "Protomonstre (75 +40)"
+  },
+  {
+    "id": 1533,
+    "text": "Protomonstre (75 +40)"
+  },
+  {
+    "id": 1534,
+    "text": "Protomonstre (75 +40)"
+  },
+  {
+    "id": 1496,
+    "text": "Protomonstre faible (50 +20)"
+  },
+  {
+    "id": 1497,
+    "text": "Protomonstre faible (50 +20)"
+  },
+  {
+    "id": 1498,
+    "text": "Protomonstre faible (50 +20)"
+  },
+  {
+    "id": 1535,
+    "text": "Protomonstre fort (99 +60)"
+  },
+  {
+    "id": 1536,
+    "text": "Protomonstre fort (99 +60)"
+  },
+  {
+    "id": 1537,
+    "text": "Protomonstre fort (99 +60)"
+  },
+  {
+    "id": 575,
+    "text": "Prédateur de l'ombre (77)"
+  },
+  {
+    "id": 1240,
+    "text": "Prédateur des sables désertiques (84)"
+  },
+  {
+    "id": 1248,
+    "text": "Prédateur des sables fantomatiques (84)"
+  },
+  {
+    "id": 1003,
+    "text": "Prédateur des sables marins (81)"
+  },
+  {
+    "id": 1120,
+    "text": "Prédateur des sables mouvants (84)"
+  },
+  {
+    "id": 1115,
+    "text": "Prédateur des sables poussiéreux (82)"
+  },
+  {
+    "id": 1107,
+    "text": "Prédateur des sables tempétueux (82)"
+  },
+  {
+    "id": 3118,
+    "text": "Prédateur infernal (90)"
+  },
+  {
+    "id": 3156,
+    "text": "Président Alésio (95)"
+  },
+  {
+    "id": 3349,
+    "text": "Président Biaron (0)"
+  },
+  {
+    "id": 3330,
+    "text": "Président Biaron à cheval (99 +87)"
+  },
+  {
+    "id": 1063,
+    "text": "Président Noah (99)"
+  },
+  {
+    "id": 2537,
+    "text": "Prêtre approvisionneur (98)"
+  },
+  {
+    "id": 2519,
+    "text": "Prêtre d'Erenia (90)"
+  },
+  {
+    "id": 2509,
+    "text": "Prêtre de Zénas (91)"
+  },
+  {
+    "id": 1178,
+    "text": "Prêtre de l'agitation (89)"
+  },
+  {
+    "id": 1182,
+    "text": "Prêtre de l'agonie (87)"
+  },
+  {
+    "id": 619,
+    "text": "Prêtre de la Grotte cristalline (77)"
+  },
+  {
+    "id": 782,
+    "text": "Prêtre de la Grotte cristalline invoqué (77)"
+  },
+  {
+    "id": 1014,
+    "text": "Prêtre de la prière (84)"
+  },
+  {
+    "id": 1174,
+    "text": "Prêtre des lamentations (86)"
+  },
+  {
+    "id": 1082,
+    "text": "Prêtre mort (1)"
+  },
+  {
+    "id": 165,
+    "text": "Prêtre slade (70)"
+  },
+  {
+    "id": 2536,
+    "text": "Prêtre transformateur (98)"
+  },
+  {
+    "id": 2550,
+    "text": "Prêtresse Kelly de la 2e escouade (92)"
+  },
+  {
+    "id": 1267,
+    "text": "Prêtresse Nora (50)"
+  },
+  {
+    "id": 1065,
+    "text": "Prêtresse Sherzade (99)"
+  },
+  {
+    "id": 1067,
+    "text": "Prêtresse Vera (99)"
+  },
+  {
+    "id": 3013,
+    "text": "Pudding de mousse (90)"
+  },
+  {
+    "id": 1477,
+    "text": "Pudding de mousse de la Tour céleste (1)"
+  },
+  {
+    "id": 694,
+    "text": "Pudding de mousse explosif (90)"
+  },
+  {
+    "id": 1493,
+    "text": "Pur (1)"
+  },
+  {
+    "id": 2720,
+    "text": "Pyroléopard (1)"
+  },
+  {
+    "id": 2107,
+    "text": "Pyropatte (1)"
+  },
+  {
+    "id": 530,
+    "text": "Père Noël (30)"
+  },
+  {
+    "id": 663,
+    "text": "Pégase (1)"
+  },
+  {
+    "id": 682,
+    "text": "Pégase arc-en-ciel (1)"
+  },
+  {
+    "id": 788,
+    "text": "Pêcheur Walter (1)"
+  },
+  {
+    "id": 2659,
+    "text": "Quartier-maître (92)"
+  },
+  {
+    "id": 3155,
+    "text": "Quartier-maître Marto (95)"
+  },
+  {
+    "id": 1278,
+    "text": "Quatrièmes marchandises (0)"
+  },
+  {
+    "id": 1676,
+    "text": "Querelleur ashigaru (98 +96)"
+  },
+  {
+    "id": 1649,
+    "text": "Querelleur des dimensions (99 +98)"
+  },
+  {
+    "id": 342,
+    "text": "Radal (80)"
+  },
+  {
+    "id": 2618,
+    "text": "Ragnar (1)"
+  },
+  {
+    "id": 2603,
+    "text": "Ragnar (92)"
+  },
+  {
+    "id": 2544,
+    "text": "Ramel (96)"
+  },
+  {
+    "id": 1253,
+    "text": "Rampant des sables désertiques (83)"
+  },
+  {
+    "id": 1256,
+    "text": "Rampant des sables fantomatiques (83)"
+  },
+  {
+    "id": 1004,
+    "text": "Rampant des sables marins (80)"
+  },
+  {
+    "id": 1127,
+    "text": "Rampant des sables poussiéreux (81)"
+  },
+  {
+    "id": 1124,
+    "text": "Rampant des sables tempétueux (81)"
+  },
+  {
+    "id": 1254,
+    "text": "Rampant épineux des sables désertiques (84)"
+  },
+  {
+    "id": 1257,
+    "text": "Rampant épineux des sables fantomatiques (84)"
+  },
+  {
+    "id": 1005,
+    "text": "Rampant épineux des sables marins (81)"
+  },
+  {
+    "id": 1128,
+    "text": "Rampant épineux des sables poussiéreux (82)"
+  },
+  {
+    "id": 1125,
+    "text": "Rampant épineux des sables tempétueux (82)"
+  },
+  {
+    "id": 2584,
+    "text": "Ranger légendaire (50)"
+  },
+  {
+    "id": 2358,
+    "text": "Raphaël (95)"
+  },
+  {
+    "id": 3379,
+    "text": "Rat de cristal (95 +87)"
+  },
+  {
+    "id": 3303,
+    "text": "Rat de cristal (95 +87)"
+  },
+  {
+    "id": 1550,
+    "text": "Rat de cristal apprivoisé (1)"
+  },
+  {
+    "id": 3398,
+    "text": "Rat de cristal des catacombes (96 +87)"
+  },
+  {
+    "id": 3339,
+    "text": "Rat géant des grottes (98 +87)"
+  },
+  {
+    "id": 558,
+    "text": "Rat heureux (1)"
+  },
+  {
+    "id": 537,
+    "text": "Rat heureux (1)"
+  },
+  {
+    "id": 3296,
+    "text": "Rat monstrueux (97 +87)"
+  },
+  {
+    "id": 3297,
+    "text": "Rat monstrueux géant (98 +87)"
+  },
+  {
+    "id": 3380,
+    "text": "Rat monstrueux géant (98 +87)"
+  },
+  {
+    "id": 3397,
+    "text": "Rat monstrueux géant des catacombes (97 +87)"
+  },
+  {
+    "id": 1486,
+    "text": "Raton volatile apprivoisé (1)"
+  },
+  {
+    "id": 182,
+    "text": "Raton volatile faible (68)"
+  },
+  {
+    "id": 183,
+    "text": "Raton volatile fort (70)"
+  },
+  {
+    "id": 813,
+    "text": "Ratufu Rodolphe (1)"
+  },
+  {
+    "id": 581,
+    "text": "Ratufu aquatique (1)"
+  },
+  {
+    "id": 2613,
+    "text": "Ratufu aquatique (70)"
+  },
+  {
+    "id": 779,
+    "text": "Ratufu arbitre (1)"
+  },
+  {
+    "id": 631,
+    "text": "Ratufu bleu (1)"
+  },
+  {
+    "id": 769,
+    "text": "Ratufu boxeur (1)"
+  },
+  {
+    "id": 2616,
+    "text": "Ratufu boxeur (73)"
+  },
+  {
+    "id": 2203,
+    "text": "Ratufu boxeur (75)"
+  },
+  {
+    "id": 2610,
+    "text": "Ratufu brun (67)"
+  },
+  {
+    "id": 815,
+    "text": "Ratufu centurion (1)"
+  },
+  {
+    "id": 2202,
+    "text": "Ratufu centurion (75)"
+  },
+  {
+    "id": 2704,
+    "text": "Ratufu chanceux (1)"
+  },
+  {
+    "id": 1384,
+    "text": "Ratufu courge (1)"
+  },
+  {
+    "id": 844,
+    "text": "Ratufu cowboy (1)"
+  },
+  {
+    "id": 614,
+    "text": "Ratufu d'unité spéciale (1)"
+  },
+  {
+    "id": 2200,
+    "text": "Ratufu de l'Eau (75)"
+  },
+  {
+    "id": 964,
+    "text": "Ratufu de l'Obscurité (50)"
+  },
+  {
+    "id": 962,
+    "text": "Ratufu de l'eau (50)"
+  },
+  {
+    "id": 963,
+    "text": "Ratufu de la Lumière (50)"
+  },
+  {
+    "id": 838,
+    "text": "Ratufu de la Navy (1)"
+  },
+  {
+    "id": 158,
+    "text": "Ratufu destructeur de vermine (1)"
+  },
+  {
+    "id": 2611,
+    "text": "Ratufu destructeur de vermine (68)"
+  },
+  {
+    "id": 2201,
+    "text": "Ratufu du Feu (75)"
+  },
+  {
+    "id": 961,
+    "text": "Ratufu du feu (50)"
+  },
+  {
+    "id": 900,
+    "text": "Ratufu entraîneur (1)"
+  },
+  {
+    "id": 160,
+    "text": "Ratufu entraîneur fort (30)"
+  },
+  {
+    "id": 667,
+    "text": "Ratufu foot (CZ) (1)"
+  },
+  {
+    "id": 638,
+    "text": "Ratufu foot (DE) (1)"
+  },
+  {
+    "id": 640,
+    "text": "Ratufu foot (EN) (1)"
+  },
+  {
+    "id": 642,
+    "text": "Ratufu foot (ES) (1)"
+  },
+  {
+    "id": 639,
+    "text": "Ratufu foot (FR) (1)"
+  },
+  {
+    "id": 641,
+    "text": "Ratufu foot (IT) (1)"
+  },
+  {
+    "id": 643,
+    "text": "Ratufu foot (PL) (1)"
+  },
+  {
+    "id": 644,
+    "text": "Ratufu foot (RU) (1)"
+  },
+  {
+    "id": 669,
+    "text": "Ratufu foot (TR) (1)"
+  },
+  {
+    "id": 778,
+    "text": "Ratufu footballeur (1)"
+  },
+  {
+    "id": 960,
+    "text": "Ratufu fort (50)"
+  },
+  {
+    "id": 842,
+    "text": "Ratufu indien (1)"
+  },
+  {
+    "id": 632,
+    "text": "Ratufu jaune (1)"
+  },
+  {
+    "id": 2612,
+    "text": "Ratufu malade (69)"
+  },
+  {
+    "id": 841,
+    "text": "Ratufu ninja (1)"
+  },
+  {
+    "id": 630,
+    "text": "Ratufu noir (1)"
+  },
+  {
+    "id": 1507,
+    "text": "Ratufu pirate (Lumière) (1)"
+  },
+  {
+    "id": 1508,
+    "text": "Ratufu pirate (Obscurité) (1)"
+  },
+  {
+    "id": 1505,
+    "text": "Ratufu pirate (eau) (1)"
+  },
+  {
+    "id": 1506,
+    "text": "Ratufu pirate (feu) (1)"
+  },
+  {
+    "id": 176,
+    "text": "Ratufu père Noël (1)"
+  },
+  {
+    "id": 634,
+    "text": "Ratufu rose (1)"
+  },
+  {
+    "id": 616,
+    "text": "Ratufu rouge (1)"
+  },
+  {
+    "id": 762,
+    "text": "Ratufu samouraï (1)"
+  },
+  {
+    "id": 2615,
+    "text": "Ratufu samouraï (72)"
+  },
+  {
+    "id": 814,
+    "text": "Ratufu shogun (1)"
+  },
+  {
+    "id": 635,
+    "text": "Ratufu super samouraï (1)"
+  },
+  {
+    "id": 2709,
+    "text": "Ratufu superchanceux (1)"
+  },
+  {
+    "id": 756,
+    "text": "Ratufu taureau (1)"
+  },
+  {
+    "id": 752,
+    "text": "Ratufu taureau (1)"
+  },
+  {
+    "id": 2614,
+    "text": "Ratufu taureau (71)"
+  },
+  {
+    "id": 633,
+    "text": "Ratufu turquoise (1)"
+  },
+  {
+    "id": 615,
+    "text": "Ratufu vert (1)"
+  },
+  {
+    "id": 843,
+    "text": "Ratufu viking (1)"
+  },
+  {
+    "id": 686,
+    "text": "Ratufu épouvantail (0)"
+  },
+  {
+    "id": 3439,
+    "text": "Ravageur de dimensions (99 +97)"
+  },
+  {
+    "id": 3440,
+    "text": "Ravageur de dimensions géant (99 +97)"
+  },
+  {
+    "id": 3159,
+    "text": "Recrue disparue (96)"
+  },
+  {
+    "id": 3141,
+    "text": "Recrue draconienne (96)"
+  },
+  {
+    "id": 463,
+    "text": "Rect Poudre (75)"
+  },
+  {
+    "id": 464,
+    "text": "Recturus Poudrozieux (77)"
+  },
+  {
+    "id": 1948,
+    "text": "Reflet de Nézarun dévastateur (98 +99)"
+  },
+  {
+    "id": 807,
+    "text": "Reine apprivoizzzée (1)"
+  },
+  {
+    "id": 213,
+    "text": "Reine des abeilles dangereuse (63)"
+  },
+  {
+    "id": 212,
+    "text": "Reine des abeilles furieuse (56)"
+  },
+  {
+    "id": 774,
+    "text": "Reine poule (60)"
+  },
+  {
+    "id": 2706,
+    "text": "Reine-sorcière de Bélial (98)"
+  },
+  {
+    "id": 3230,
+    "text": "Rejeton d'Asgobas (99 +75)"
+  },
+  {
+    "id": 3283,
+    "text": "Rejeton d'Asgobas (amélioré) (99 +75)"
+  },
+  {
+    "id": 727,
+    "text": "Rejeton des éclaireurs gnolls (35)"
+  },
+  {
+    "id": 728,
+    "text": "Rejeton enkidu (50)"
+  },
+  {
+    "id": 666,
+    "text": "Rejeton guerrier des éclaireurs gnolls (35)"
+  },
+  {
+    "id": 1309,
+    "text": "Relique brisée (0)"
+  },
+  {
+    "id": 1308,
+    "text": "Reliques brisées (0)"
+  },
+  {
+    "id": 1287,
+    "text": "Reliques volées (0)"
+  },
+  {
+    "id": 1286,
+    "text": "Reliques volées de Garton (0)"
+  },
+  {
+    "id": 1285,
+    "text": "Reliques volées de Kerus (0)"
+  },
+  {
+    "id": 1,
+    "text": "Renard (22)"
+  },
+  {
+    "id": 4,
+    "text": "Renard Dusi (29)"
+  },
+  {
+    "id": 2315,
+    "text": "Renard Dusi enragé (80)"
+  },
+  {
+    "id": 5,
+    "text": "Renard Dusi nerveux (31)"
+  },
+  {
+    "id": 2721,
+    "text": "Renard chiroptère (1)"
+  },
+  {
+    "id": 755,
+    "text": "Renard des neiges (62)"
+  },
+  {
+    "id": 1259,
+    "text": "Renard des sables désertiques (81)"
+  },
+  {
+    "id": 1260,
+    "text": "Renard des sables fantomatiques (81)"
+  },
+  {
+    "id": 1007,
+    "text": "Renard des sables marins (78)"
+  },
+  {
+    "id": 1132,
+    "text": "Renard des sables poussiéreux (79)"
+  },
+  {
+    "id": 1131,
+    "text": "Renard des sables tempétueux (79)"
+  },
+  {
+    "id": 2314,
+    "text": "Renard enragé (85)"
+  },
+  {
+    "id": 645,
+    "text": "Renard flamme (1)"
+  },
+  {
+    "id": 647,
+    "text": "Renard magma (1)"
+  },
+  {
+    "id": 646,
+    "text": "Renard météore (1)"
+  },
+  {
+    "id": 7,
+    "text": "Renardoto (45)"
+  },
+  {
+    "id": 8,
+    "text": "Renardoto furieux (49)"
+  },
+  {
+    "id": 673,
+    "text": "Renne au nez rouge (1)"
+  },
+  {
+    "id": 1263,
+    "text": "Représentant Mursha (50)"
+  },
+  {
+    "id": 1087,
+    "text": "Représentant Rushaldin (50)"
+  },
+  {
+    "id": 1075,
+    "text": "Représentant des marchands d'Akamur (50)"
+  },
+  {
+    "id": 1071,
+    "text": "Représentante Semia (50)"
+  },
+  {
+    "id": 3006,
+    "text": "Revenant (94)"
+  },
+  {
+    "id": 700,
+    "text": "Revenant de la Tour céleste (90)"
+  },
+  {
+    "id": 1068,
+    "text": "Riana (50)"
+  },
+  {
+    "id": 3072,
+    "text": "Rigtas (90)"
+  },
+  {
+    "id": 2040,
+    "text": "Roberto Lusso (80)"
+  },
+  {
+    "id": 3289,
+    "text": "Robot de forage (95 +87)"
+  },
+  {
+    "id": 3326,
+    "text": "Robot de forage IA (98 +87)"
+  },
+  {
+    "id": 3319,
+    "text": "Robot de forage loyaliste (96 +87)"
+  },
+  {
+    "id": 2375,
+    "text": "Robot détecteur de mouvement (99)"
+  },
+  {
+    "id": 3401,
+    "text": "Robot fusilleur effrayant (96 +87)"
+  },
+  {
+    "id": 3402,
+    "text": "Robot lance-flammes effrayant (93 +87)"
+  },
+  {
+    "id": 3090,
+    "text": "Rocha (90)"
+  },
+  {
+    "id": 1059,
+    "text": "Rody Chantovent (50)"
+  },
+  {
+    "id": 457,
+    "text": "Rody Chantovent (75)"
+  },
+  {
+    "id": 665,
+    "text": "Roi Cappen (55)"
+  },
+  {
+    "id": 221,
+    "text": "Roi araignée (62)"
+  },
+  {
+    "id": 220,
+    "text": "Roi araignée faible (60)"
+  },
+  {
+    "id": 222,
+    "text": "Roi araignée fort (64)"
+  },
+  {
+    "id": 171,
+    "text": "Roi araignée noir (79)"
+  },
+  {
+    "id": 604,
+    "text": "Roi basilic (82)"
+  },
+  {
+    "id": 598,
+    "text": "Roi de l'ombre (68)"
+  },
+  {
+    "id": 1404,
+    "text": "Roi de l'ombre scellé (70)"
+  },
+  {
+    "id": 2684,
+    "text": "Roi des pirates Lucifélin (1)"
+  },
+  {
+    "id": 362,
+    "text": "Roi grondeur (45)"
+  },
+  {
+    "id": 388,
+    "text": "Roi poulet (30)"
+  },
+  {
+    "id": 796,
+    "text": "Roi poulet furieux (50)"
+  },
+  {
+    "id": 276,
+    "text": "Roi poussière (75)"
+  },
+  {
+    "id": 281,
+    "text": "Roi poussière affaibli (55)"
+  },
+  {
+    "id": 294,
+    "text": "Roi poussière invisible (64)"
+  },
+  {
+    "id": 277,
+    "text": "Roi poussière puissant (80)"
+  },
+  {
+    "id": 1343,
+    "text": "Roram (0)"
+  },
+  {
+    "id": 557,
+    "text": "Ross Harangue (80)"
+  },
+  {
+    "id": 2500,
+    "text": "Rozhanik (90)"
+  },
+  {
+    "id": 837,
+    "text": "Rozhanik scellé (91)"
+  },
+  {
+    "id": 209,
+    "text": "Ruche dangereuse (63)"
+  },
+  {
+    "id": 208,
+    "text": "Ruche furieuse (56)"
+  },
+  {
+    "id": 539,
+    "text": "Rudin Glacecœur (50)"
+  },
+  {
+    "id": 829,
+    "text": "Rudy Loubard (1)"
+  },
+  {
+    "id": 458,
+    "text": "Rudy Volovent (75)"
+  },
+  {
+    "id": 784,
+    "text": "Rusty Robby (1)"
+  },
+  {
+    "id": 541,
+    "text": "Réfugiée du sceau (40)"
+  },
+  {
+    "id": 2511,
+    "text": "Rément (91)"
+  },
+  {
+    "id": 178,
+    "text": "Sabot ardent (0)"
+  },
+  {
+    "id": 1264,
+    "text": "Sac de figues de cactus (1)"
+  },
+  {
+    "id": 1331,
+    "text": "Sac de fée en cuir (0)"
+  },
+  {
+    "id": 2545,
+    "text": "Sakiel (97)"
+  },
+  {
+    "id": 1431,
+    "text": "Salim (90)"
+  },
+  {
+    "id": 1363,
+    "text": "Samira (80)"
+  },
+  {
+    "id": 3406,
+    "text": "Samouraï (98 +97)"
+  },
+  {
+    "id": 1233,
+    "text": "Samouraï d'escorte de Shay (87)"
+  },
+  {
+    "id": 1229,
+    "text": "Samouraï d'escorte de Shoran (87)"
+  },
+  {
+    "id": 1352,
+    "text": "Samouraï d'élite (83)"
+  },
+  {
+    "id": 1167,
+    "text": "Samouraï d'élite de Garton (85)"
+  },
+  {
+    "id": 1154,
+    "text": "Samouraï d'élite de Kerus (82)"
+  },
+  {
+    "id": 1141,
+    "text": "Samouraï d'élite de Melki (82)"
+  },
+  {
+    "id": 1100,
+    "text": "Samouraï d'élite de Neil (79)"
+  },
+  {
+    "id": 1900,
+    "text": "Samouraï de l'équipe d'exploration des voleurs du désert (89)"
+  },
+  {
+    "id": 1302,
+    "text": "Samouraï de la garde de Shay (87)"
+  },
+  {
+    "id": 1298,
+    "text": "Samouraï de la garde de Shoran (87)"
+  },
+  {
+    "id": 1159,
+    "text": "Samouraï de la troupe d'éclaireurs de Garton (81)"
+  },
+  {
+    "id": 1146,
+    "text": "Samouraï de la troupe d'éclaireurs de Kerus (79)"
+  },
+  {
+    "id": 1133,
+    "text": "Samouraï de la troupe d'éclaireurs de Melki (79)"
+  },
+  {
+    "id": 1020,
+    "text": "Samouraï de la troupe d'éclaireurs de Neil (78)"
+  },
+  {
+    "id": 1145,
+    "text": "Samouraï de la troupe d'éclaireurs de Shay (83)"
+  },
+  {
+    "id": 1290,
+    "text": "Samouraï de la troupe d'éclaireurs de Shay (83)"
+  },
+  {
+    "id": 1209,
+    "text": "Samouraï de la troupe d'éclaireurs de Shoran (83)"
+  },
+  {
+    "id": 1294,
+    "text": "Samouraï de la troupe d'éclaireurs de Shoran (83)"
+  },
+  {
+    "id": 1221,
+    "text": "Samouraï de transport de Shay (84)"
+  },
+  {
+    "id": 1225,
+    "text": "Samouraï de transport de Shoran (84)"
+  },
+  {
+    "id": 198,
+    "text": "Sangsue (34)"
+  },
+  {
+    "id": 476,
+    "text": "Sangsue géante (72)"
+  },
+  {
+    "id": 467,
+    "text": "Sangsue royale (73)"
+  },
+  {
+    "id": 760,
+    "text": "Sapeur archer de l'Obscurité (90)"
+  },
+  {
+    "id": 716,
+    "text": "Sapeur bombe momie (90)"
+  },
+  {
+    "id": 2307,
+    "text": "Sarakael (99)"
+  },
+  {
+    "id": 3017,
+    "text": "Satyre (94)"
+  },
+  {
+    "id": 3018,
+    "text": "Satyre ailé (94)"
+  },
+  {
+    "id": 983,
+    "text": "Satyre ailé de Paimon (95)"
+  },
+  {
+    "id": 705,
+    "text": "Satyre amélioré (90)"
+  },
+  {
+    "id": 982,
+    "text": "Satyre de Paimon (95)"
+  },
+  {
+    "id": 713,
+    "text": "Satyre diabolique (90)"
+  },
+  {
+    "id": 699,
+    "text": "Satyre géant (80)"
+  },
+  {
+    "id": 370,
+    "text": "Sauterelle aquatique (35)"
+  },
+  {
+    "id": 3308,
+    "text": "Savant fou (99 +87)"
+  },
+  {
+    "id": 1383,
+    "text": "Sbire de Jack O'Lantern (30)"
+  },
+  {
+    "id": 2005,
+    "text": "Sceau (85)"
+  },
+  {
+    "id": 2060,
+    "text": "Sceau glacial de Glacerus (85)"
+  },
+  {
+    "id": 3019,
+    "text": "Scorpion aux yeux rouges (92)"
+  },
+  {
+    "id": 1243,
+    "text": "Scorpion des sables désertiques (82)"
+  },
+  {
+    "id": 1251,
+    "text": "Scorpion des sables fantomatiques (82)"
+  },
+  {
+    "id": 1010,
+    "text": "Scorpion des sables marins (79)"
+  },
+  {
+    "id": 1122,
+    "text": "Scorpion des sables mouvants (82)"
+  },
+  {
+    "id": 1118,
+    "text": "Scorpion des sables poussiéreux (80)"
+  },
+  {
+    "id": 1110,
+    "text": "Scorpion des sables tempétueux (80)"
+  },
+  {
+    "id": 369,
+    "text": "Scorpion obscur (35)"
+  },
+  {
+    "id": 31,
+    "text": "Seedle (5)"
+  },
+  {
+    "id": 34,
+    "text": "Seedle de feu (19)"
+  },
+  {
+    "id": 35,
+    "text": "Seedle de feu lourde (22)"
+  },
+  {
+    "id": 33,
+    "text": "Seedle de feu légère (15)"
+  },
+  {
+    "id": 30,
+    "text": "Seedle faible (3)"
+  },
+  {
+    "id": 32,
+    "text": "Seedle forte (6)"
+  },
+  {
+    "id": 419,
+    "text": "Seedle violente (45)"
+  },
+  {
+    "id": 556,
+    "text": "Seigneur Mukraju (70)"
+  },
+  {
+    "id": 587,
+    "text": "Seigneur Mukraju (85)"
+  },
+  {
+    "id": 3218,
+    "text": "Seigneur dragon Asgobas (100 +80)"
+  },
+  {
+    "id": 501,
+    "text": "Seina Reiya (58)"
+  },
+  {
+    "id": 485,
+    "text": "Sentinelle (75)"
+  },
+  {
+    "id": 2521,
+    "text": "Sentinelle (83)"
+  },
+  {
+    "id": 2552,
+    "text": "Sentinelle Amon (97)"
+  },
+  {
+    "id": 2517,
+    "text": "Sentinelle royale d'Erenia (88)"
+  },
+  {
+    "id": 2507,
+    "text": "Sentinelle royale de Zénas (89)"
+  },
+  {
+    "id": 1069,
+    "text": "Serena (50)"
+  },
+  {
+    "id": 378,
+    "text": "Servant démon (26)"
+  },
+  {
+    "id": 3253,
+    "text": "Shania (0)"
+  },
+  {
+    "id": 3256,
+    "text": "Shania, Chevalier dragon (99)"
+  },
+  {
+    "id": 2681,
+    "text": "Sir Ronron (1)"
+  },
+  {
+    "id": 2034,
+    "text": "Sire Draco (95)"
+  },
+  {
+    "id": 1586,
+    "text": "Sire Melonoth (95)"
+  },
+  {
+    "id": 3001,
+    "text": "Sirène (91)"
+  },
+  {
+    "id": 721,
+    "text": "Sirène furieuse (90)"
+  },
+  {
+    "id": 1280,
+    "text": "Sixièmes marchandises (0)"
+  },
+  {
+    "id": 164,
+    "text": "Slade (72)"
+  },
+  {
+    "id": 597,
+    "text": "Slade baraqué (63)"
+  },
+  {
+    "id": 197,
+    "text": "Slade flambant (35)"
+  },
+  {
+    "id": 166,
+    "text": "Slade fossilisé (75)"
+  },
+  {
+    "id": 286,
+    "text": "Slade géant (82)"
+  },
+  {
+    "id": 2739,
+    "text": "Slade géant (mini) (1)"
+  },
+  {
+    "id": 1396,
+    "text": "Slade scellé (70)"
+  },
+  {
+    "id": 331,
+    "text": "Slugg (35)"
+  },
+  {
+    "id": 3286,
+    "text": "Soldat Mullan (93 +82)"
+  },
+  {
+    "id": 1388,
+    "text": "Soldat d'assaut kenko scellé (70)"
+  },
+  {
+    "id": 3447,
+    "text": "Soldat d'élite des dimensions (99 +97)"
+  },
+  {
+    "id": 2056,
+    "text": "Soldat de combat algide (82)"
+  },
+  {
+    "id": 1546,
+    "text": "Soldat de garde (0)"
+  },
+  {
+    "id": 3361,
+    "text": "Soldat de garde (92 +70)"
+  },
+  {
+    "id": 3373,
+    "text": "Soldat de garde (92 +70)"
+  },
+  {
+    "id": 320,
+    "text": "Soldat de la garde de NosVille (20)"
+  },
+  {
+    "id": 310,
+    "text": "Soldat de la garde de NosVille (35)"
+  },
+  {
+    "id": 3142,
+    "text": "Soldat draconien (96)"
+  },
+  {
+    "id": 3143,
+    "text": "Soldat draconien (96)"
+  },
+  {
+    "id": 3144,
+    "text": "Soldat draconien (96)"
+  },
+  {
+    "id": 3162,
+    "text": "Soldat draconien (97 +69)"
+  },
+  {
+    "id": 3239,
+    "text": "Soldat draconien blessé (96)"
+  },
+  {
+    "id": 2672,
+    "text": "Soldat en vacances (50)"
+  },
+  {
+    "id": 2354,
+    "text": "Soldat ensorcelé (85)"
+  },
+  {
+    "id": 547,
+    "text": "Soldat gnoll (60)"
+  },
+  {
+    "id": 3311,
+    "text": "Soldat loyaliste (95 +87)"
+  },
+  {
+    "id": 2381,
+    "text": "Soldat mécano-aquatique IA (99 +87)"
+  },
+  {
+    "id": 3369,
+    "text": "Soldat rebelle (93 +73)"
+  },
+  {
+    "id": 3008,
+    "text": "Soldat squelette (93)"
+  },
+  {
+    "id": 2716,
+    "text": "Soldat squelette de Paimon (90)"
+  },
+  {
+    "id": 2351,
+    "text": "Soldat traumatisé (85)"
+  },
+  {
+    "id": 3212,
+    "text": "Soldate draconienne (97 +79)"
+  },
+  {
+    "id": 303,
+    "text": "Soraya Style (35)"
+  },
+  {
+    "id": 1571,
+    "text": "Sorcier Champibleu (vétéran) (97 +85)"
+  },
+  {
+    "id": 3114,
+    "text": "Sorcier corrompu orc (98)"
+  },
+  {
+    "id": 3024,
+    "text": "Sorcier de Bélial (96)"
+  },
+  {
+    "id": 1677,
+    "text": "Sorcier de feu onmyoji (98 +96)"
+  },
+  {
+    "id": 689,
+    "text": "Sorcier hydromme Arku (80)"
+  },
+  {
+    "id": 610,
+    "text": "Sorcier molda (82)"
+  },
+  {
+    "id": 562,
+    "text": "Sorcier molda puissant (75)"
+  },
+  {
+    "id": 2573,
+    "text": "Sorcier spectral d'élite de Fernon (96)"
+  },
+  {
+    "id": 2570,
+    "text": "Sorcier spectral d'élite inconnu (93)"
+  },
+  {
+    "id": 2564,
+    "text": "Sorcier spectral de Fernon (91)"
+  },
+  {
+    "id": 2561,
+    "text": "Sorcier spectral inconnu (92)"
+  },
+  {
+    "id": 1634,
+    "text": "Sorcier suspect (99 +90)"
+  },
+  {
+    "id": 2326,
+    "text": "Sorcière Laurena (98)"
+  },
+  {
+    "id": 2687,
+    "text": "Sorcière blanche Laurena furieuse (98)"
+  },
+  {
+    "id": 438,
+    "text": "Sorcière blanche forte (72)"
+  },
+  {
+    "id": 3025,
+    "text": "Sorcière de Bélial (97)"
+  },
+  {
+    "id": 252,
+    "text": "Sorcière funeste (65)"
+  },
+  {
+    "id": 251,
+    "text": "Sorcière funeste faible (64)"
+  },
+  {
+    "id": 268,
+    "text": "Sorcière funeste forte (66)"
+  },
+  {
+    "id": 248,
+    "text": "Sorcière obscure (63)"
+  },
+  {
+    "id": 247,
+    "text": "Sorcière obscure faible (62)"
+  },
+  {
+    "id": 267,
+    "text": "Sorcière obscure forte (65)"
+  },
+  {
+    "id": 3035,
+    "text": "Sorcière orc royale (97)"
+  },
+  {
+    "id": 437,
+    "text": "Sorcière rosépine (0)"
+  },
+  {
+    "id": 343,
+    "text": "Sorcière rosépine (57)"
+  },
+  {
+    "id": 249,
+    "text": "Sorcière sanglante (62)"
+  },
+  {
+    "id": 250,
+    "text": "Sorcière sanglante forte (63)"
+  },
+  {
+    "id": 552,
+    "text": "Sorcière-glaçon (70)"
+  },
+  {
+    "id": 2057,
+    "text": "Sorcière-glaçon givrée (82)"
+  },
+  {
+    "id": 1399,
+    "text": "Sorcière-glaçon scellée (70)"
+  },
+  {
+    "id": 461,
+    "text": "Soty Tientoala (77)"
+  },
+  {
+    "id": 185,
+    "text": "Souche au marteau en acier (73)"
+  },
+  {
+    "id": 186,
+    "text": "Souche à hache en pierre (72)"
+  },
+  {
+    "id": 187,
+    "text": "Souche à hache métallique (72)"
+  },
+  {
+    "id": 184,
+    "text": "Souche à marteau en pierre (73)"
+  },
+  {
+    "id": 1452,
+    "text": "Souffle lourd de dragon (0)"
+  },
+  {
+    "id": 233,
+    "text": "Souffleur (59)"
+  },
+  {
+    "id": 234,
+    "text": "Souffleur furieux (62)"
+  },
+  {
+    "id": 232,
+    "text": "Souffleur malade (56)"
+  },
+  {
+    "id": 265,
+    "text": "Souffleur violent (65)"
+  },
+  {
+    "id": 2710,
+    "text": "Souricette Sournoise (1)"
+  },
+  {
+    "id": 474,
+    "text": "Spectre d'arbre ancien (79)"
+  },
+  {
+    "id": 2631,
+    "text": "Spectre de lave (77)"
+  },
+  {
+    "id": 1049,
+    "text": "Spectre de lave (92)"
+  },
+  {
+    "id": 1920,
+    "text": "Spectre de lave fort (92)"
+  },
+  {
+    "id": 712,
+    "text": "Squelette d'Arku (77)"
+  },
+  {
+    "id": 688,
+    "text": "Squelette faible (90)"
+  },
+  {
+    "id": 1639,
+    "text": "Statue de Nézarun (100 +100)"
+  },
+  {
+    "id": 794,
+    "text": "Super Ratufu courge (1)"
+  },
+  {
+    "id": 747,
+    "text": "Super Ratufu de Noël (1)"
+  },
+  {
+    "id": 1425,
+    "text": "Super Ratufu père Noël scellé (70)"
+  },
+  {
+    "id": 828,
+    "text": "Séraphin (1)"
+  },
+  {
+    "id": 1318,
+    "text": "Tablette d'écriture brisée (0)"
+  },
+  {
+    "id": 1319,
+    "text": "Tablette d'écriture brisée (0)"
+  },
+  {
+    "id": 1320,
+    "text": "Tablette d'écriture brisée (0)"
+  },
+  {
+    "id": 1321,
+    "text": "Tablette d'écriture brisée (0)"
+  },
+  {
+    "id": 3043,
+    "text": "Taita (99)"
+  },
+  {
+    "id": 2510,
+    "text": "Talion (91)"
+  },
+  {
+    "id": 3071,
+    "text": "Taritus (90)"
+  },
+  {
+    "id": 2379,
+    "text": "Tas de fragments d'espace-temps (99 +90)"
+  },
+  {
+    "id": 3050,
+    "text": "Tatika (90)"
+  },
+  {
+    "id": 199,
+    "text": "Taupe (41)"
+  },
+  {
+    "id": 479,
+    "text": "Taupe-criquet (74)"
+  },
+  {
+    "id": 1565,
+    "text": "Techron (0)"
+  },
+  {
+    "id": 1567,
+    "text": "Techron (99 +90)"
+  },
+  {
+    "id": 1566,
+    "text": "Techron fou (99 +87)"
+  },
+  {
+    "id": 1032,
+    "text": "Tempête de sable (83)"
+  },
+  {
+    "id": 1184,
+    "text": "Tempête des sables désertiques (84)"
+  },
+  {
+    "id": 1192,
+    "text": "Tempête des sables mouvants (87)"
+  },
+  {
+    "id": 1188,
+    "text": "Tempête des sables poussiéreux (85)"
+  },
+  {
+    "id": 3442,
+    "text": "Terreur dimensionnelle (99 +97)"
+  },
+  {
+    "id": 3443,
+    "text": "Terreur dimensionnelle antique (99 +97)"
+  },
+  {
+    "id": 2619,
+    "text": "Terrible Fafnir (99)"
+  },
+  {
+    "id": 2362,
+    "text": "Terrier de lièvre (1)"
+  },
+  {
+    "id": 1661,
+    "text": "Thor le foudroyeur (100 +100)"
+  },
+  {
+    "id": 1672,
+    "text": "Thor le foudroyeur (100 +100)"
+  },
+  {
+    "id": 3079,
+    "text": "Thrull (90)"
+  },
+  {
+    "id": 328,
+    "text": "Théodor Topp (35)"
+  },
+  {
+    "id": 301,
+    "text": "Théoman Topp (35)"
+  },
+  {
+    "id": 3350,
+    "text": "Tieclo (0)"
+  },
+  {
+    "id": 585,
+    "text": "Tige de grande patate royale (70)"
+  },
+  {
+    "id": 584,
+    "text": "Tige de patate royale (70)"
+  },
+  {
+    "id": 2210,
+    "text": "Tigre blanc de Lucie (85)"
+  },
+  {
+    "id": 2212,
+    "text": "Tigre blanc de Lucie (85)"
+  },
+  {
+    "id": 3148,
+    "text": "Tigre du nouvel an (1)"
+  },
+  {
+    "id": 3149,
+    "text": "Tigre magique du nouvel an (1)"
+  },
+  {
+    "id": 3234,
+    "text": "Tireur centaure de l'armée draconique (99 +75)"
+  },
+  {
+    "id": 3244,
+    "text": "Tireur centaure de l'armée draconique dorée (97 +56)"
+  },
+  {
+    "id": 1479,
+    "text": "Tireur centaure de l'armée draconique dorée (expert) (97 +76)"
+  },
+  {
+    "id": 3412,
+    "text": "Tireur d'élite ashigaru (98 +97)"
+  },
+  {
+    "id": 2386,
+    "text": "Tireur d'élite des dimensions (99 +97)"
+  },
+  {
+    "id": 3448,
+    "text": "Tireur d'élite des dimensions (99 +97)"
+  },
+  {
+    "id": 119,
+    "text": "Tireur d'élite koaren (39)"
+  },
+  {
+    "id": 322,
+    "text": "Tireur de la garde de NosVille (20)"
+  },
+  {
+    "id": 312,
+    "text": "Tireur de la garde de NosVille (35)"
+  },
+  {
+    "id": 1206,
+    "text": "Tireur des sables arides (88)"
+  },
+  {
+    "id": 1202,
+    "text": "Tireur des sables aériens (87)"
+  },
+  {
+    "id": 1039,
+    "text": "Tireur des sables venteux (85)"
+  },
+  {
+    "id": 1198,
+    "text": "Tireur des sables volcaniques (86)"
+  },
+  {
+    "id": 3197,
+    "text": "Tireur du repaire draconique (99 +80)"
+  },
+  {
+    "id": 118,
+    "text": "Tireur koaren (35)"
+  },
+  {
+    "id": 117,
+    "text": "Tireur koaren novice (26)"
+  },
+  {
+    "id": 2037,
+    "text": "Tireur à tête de mort d'Achille (81)"
+  },
+  {
+    "id": 1636,
+    "text": "Titan de malachite (99 +90)"
+  },
+  {
+    "id": 330,
+    "text": "Titus Trip (35)"
+  },
+  {
+    "id": 318,
+    "text": "Tom (34)"
+  },
+  {
+    "id": 1062,
+    "text": "Tom, le garde du port (99)"
+  },
+  {
+    "id": 2761,
+    "text": "Tornade (f) (0)"
+  },
+  {
+    "id": 2760,
+    "text": "Tornade (h) (0)"
+  },
+  {
+    "id": 406,
+    "text": "Tortionnaire de fer (68)"
+  },
+  {
+    "id": 404,
+    "text": "Tortionnaire pinçant (68)"
+  },
+  {
+    "id": 405,
+    "text": "Tortionnaire rouant (68)"
+  },
+  {
+    "id": 206,
+    "text": "Tortue de montagne (58)"
+  },
+  {
+    "id": 1422,
+    "text": "Tortue de montagne scellée (70)"
+  },
+  {
+    "id": 207,
+    "text": "Tortue de roche (61)"
+  },
+  {
+    "id": 1239,
+    "text": "Tranchant des sables désertiques (83)"
+  },
+  {
+    "id": 1247,
+    "text": "Tranchant des sables fantomatiques (83)"
+  },
+  {
+    "id": 1002,
+    "text": "Tranchant des sables marins (80)"
+  },
+  {
+    "id": 1114,
+    "text": "Tranchant des sables poussiéreux (81)"
+  },
+  {
+    "id": 1106,
+    "text": "Tranchant des sables tempétueux (81)"
+  },
+  {
+    "id": 466,
+    "text": "Treekun (80)"
+  },
+  {
+    "id": 496,
+    "text": "Treekun (80)"
+  },
+  {
+    "id": 497,
+    "text": "Treekun (80)"
+  },
+  {
+    "id": 498,
+    "text": "Treekun (80)"
+  },
+  {
+    "id": 3441,
+    "text": "Trembleur dimensionnel (98 +97)"
+  },
+  {
+    "id": 3193,
+    "text": "Tricératops (95 +70)"
+  },
+  {
+    "id": 3266,
+    "text": "Tricératops amélioré (97 +70)"
+  },
+  {
+    "id": 3191,
+    "text": "Tricératops malveillant (97 +70)"
+  },
+  {
+    "id": 1317,
+    "text": "Troisième tablette d'écriture (0)"
+  },
+  {
+    "id": 1277,
+    "text": "Troisièmes marchandises (0)"
+  },
+  {
+    "id": 3022,
+    "text": "Troll guerrier (95)"
+  },
+  {
+    "id": 3021,
+    "text": "Troll pestiféré (95)"
+  },
+  {
+    "id": 460,
+    "text": "Troupe d'Érikiel (77)"
+  },
+  {
+    "id": 1635,
+    "text": "Troyen suspect (99 +90)"
+  },
+  {
+    "id": 3089,
+    "text": "Tulito (90)"
+  },
+  {
+    "id": 532,
+    "text": "Tête de bonhomme de neige (30)"
+  },
+  {
+    "id": 1549,
+    "text": "Tête de bonhomme de neige docile (1)"
+  },
+  {
+    "id": 533,
+    "text": "Tête de bonhomme de neige géante (30)"
+  },
+  {
+    "id": 1377,
+    "text": "Unité d'élite morte (1)"
+  },
+  {
+    "id": 1375,
+    "text": "Unité de transport endormie (1)"
+  },
+  {
+    "id": 2622,
+    "text": "Utegarda (92)"
+  },
+  {
+    "id": 1924,
+    "text": "Valaket flamboyante (90)"
+  },
+  {
+    "id": 1917,
+    "text": "Valaket floue (90)"
+  },
+  {
+    "id": 1919,
+    "text": "Valaket forte (90)"
+  },
+  {
+    "id": 1043,
+    "text": "Valaket, arachnide du feu (90)"
+  },
+  {
+    "id": 2741,
+    "text": "Valakus (mini) (1)"
+  },
+  {
+    "id": 1044,
+    "text": "Valakus, roi des flammes (93)"
+  },
+  {
+    "id": 2753,
+    "text": "Valehir (mini) (1)"
+  },
+  {
+    "id": 55,
+    "text": "Vampie (13)"
+  },
+  {
+    "id": 130,
+    "text": "Vampie (16)"
+  },
+  {
+    "id": 58,
+    "text": "Vampie ardent (24)"
+  },
+  {
+    "id": 57,
+    "text": "Vampie ardent faible (20)"
+  },
+  {
+    "id": 59,
+    "text": "Vampie ardent fort (35)"
+  },
+  {
+    "id": 2608,
+    "text": "Vampie ardent fort (70)"
+  },
+  {
+    "id": 61,
+    "text": "Vampie diabolique (46)"
+  },
+  {
+    "id": 60,
+    "text": "Vampie diabolique faible (42)"
+  },
+  {
+    "id": 62,
+    "text": "Vampie diabolique fort (47)"
+  },
+  {
+    "id": 54,
+    "text": "Vampie faible (6)"
+  },
+  {
+    "id": 56,
+    "text": "Vampie fort (21)"
+  },
+  {
+    "id": 1391,
+    "text": "Vampie scellé (70)"
+  },
+  {
+    "id": 129,
+    "text": "Vampie violent (10)"
+  },
+  {
+    "id": 1091,
+    "text": "Velmon (50)"
+  },
+  {
+    "id": 555,
+    "text": "Ver de glace (60)"
+  },
+  {
+    "id": 764,
+    "text": "Ver de glace corrompu (90)"
+  },
+  {
+    "id": 2047,
+    "text": "Ver de glace de Glacerus (88)"
+  },
+  {
+    "id": 3306,
+    "text": "Ver de roche (98 +87)"
+  },
+  {
+    "id": 3327,
+    "text": "Ver de roche contaminé (98 +87)"
+  },
+  {
+    "id": 3307,
+    "text": "Ver de roche géant (99 +87)"
+  },
+  {
+    "id": 396,
+    "text": "Ver de terre (58)"
+  },
+  {
+    "id": 804,
+    "text": "Ver harakiri (90)"
+  },
+  {
+    "id": 244,
+    "text": "Vieille ombre nocturne (57)"
+  },
+  {
+    "id": 681,
+    "text": "Vieux loup roux (90)"
+  },
+  {
+    "id": 3187,
+    "text": "Vilain Gremlin (94 +70)"
+  },
+  {
+    "id": 3265,
+    "text": "Vilain Gremlin amélioré (94 +70)"
+  },
+  {
+    "id": 693,
+    "text": "Vilain diablotin (77)"
+  },
+  {
+    "id": 696,
+    "text": "Vilain diablotin petit (76)"
+  },
+  {
+    "id": 697,
+    "text": "Vilain satyre (79)"
+  },
+  {
+    "id": 698,
+    "text": "Vilain satyre ailé (79)"
+  },
+  {
+    "id": 2636,
+    "text": "Voleur d'élite (92)"
+  },
+  {
+    "id": 1083,
+    "text": "Voleur endormi (1)"
+  },
+  {
+    "id": 979,
+    "text": "Voleur kenko géant (35)"
+  },
+  {
+    "id": 3119,
+    "text": "Voleur sournois (91)"
+  },
+  {
+    "id": 3005,
+    "text": "Volver hurlant (94)"
+  },
+  {
+    "id": 1098,
+    "text": "Voyageur mystérieux (50)"
+  },
+  {
+    "id": 1908,
+    "text": "Voyageur mystérieux (90)"
+  },
+  {
+    "id": 2661,
+    "text": "Voyageur mystérieux (92)"
+  },
+  {
+    "id": 2306,
+    "text": "Voyageur mystérieux (95)"
+  },
+  {
+    "id": 503,
+    "text": "Whitney Catherine (70)"
+  },
+  {
+    "id": 227,
+    "text": "Wiggler (61)"
+  },
+  {
+    "id": 2648,
+    "text": "Wiggler du désert violent (88)"
+  },
+  {
+    "id": 228,
+    "text": "Wiggler furieux (64)"
+  },
+  {
+    "id": 226,
+    "text": "Wiggy wiggler (57)"
+  },
+  {
+    "id": 177,
+    "text": "Wollet (70)"
+  },
+  {
+    "id": 1090,
+    "text": "Xavier (50)"
+  },
+  {
+    "id": 2673,
+    "text": "Yertirand (1)"
+  },
+  {
+    "id": 2651,
+    "text": "Yertirand (92)"
+  },
+  {
+    "id": 2639,
+    "text": "Yertirand corrompu (92)"
+  },
+  {
+    "id": 2671,
+    "text": "Yertirand étrange (92)"
+  },
+  {
+    "id": 422,
+    "text": "Yobby, le mineur expert (25)"
+  },
+  {
+    "id": 729,
+    "text": "Yéti apprivoisé (55)"
+  },
+  {
+    "id": 608,
+    "text": "Yéti apprivoisé (72)"
+  },
+  {
+    "id": 549,
+    "text": "Yéti géant (82)"
+  },
+  {
+    "id": 2207,
+    "text": "Yéti invoqué (75)"
+  },
+  {
+    "id": 1424,
+    "text": "Yéti scellé (70)"
+  },
+  {
+    "id": 2052,
+    "text": "Zangpo (80)"
+  },
+  {
+    "id": 188,
+    "text": "Zombi des bois fort (73)"
+  },
+  {
+    "id": 189,
+    "text": "Zombi des bois furieux (74)"
+  },
+  {
+    "id": 3207,
+    "text": "Zombie chasseur de dragons (98 +80)"
+  },
+  {
+    "id": 2503,
+    "text": "Zélote (91)"
+  },
+  {
+    "id": 2515,
+    "text": "Zélote d'élite (91)"
+  },
+  {
+    "id": 980,
+    "text": "Zélote scellé (95)"
+  },
+  {
+    "id": 2504,
+    "text": "Zénas (93)"
+  },
+  {
+    "id": 2746,
+    "text": "Zénas (mini) (1)"
+  },
+  {
+    "id": 2547,
+    "text": "Zéphar (95)"
+  },
+  {
+    "id": 375,
+    "text": "Âme d'arbre chaude (43)"
+  },
+  {
+    "id": 374,
+    "text": "Âme d'arbre froide (42)"
+  },
+  {
+    "id": 372,
+    "text": "Âme d'arbre lumineuse (40)"
+  },
+  {
+    "id": 373,
+    "text": "Âme d'arbre sombre (41)"
+  },
+  {
+    "id": 401,
+    "text": "Âme d'archer (62)"
+  },
+  {
+    "id": 1081,
+    "text": "Âme d'un prêtre (50)"
+  },
+  {
+    "id": 831,
+    "text": "Âme d'Ægir (70)"
+  },
+  {
+    "id": 190,
+    "text": "Âme d'érable (77)"
+  },
+  {
+    "id": 833,
+    "text": "Âme de Barni (70)"
+  },
+  {
+    "id": 2604,
+    "text": "Âme de Barni (70)"
+  },
+  {
+    "id": 3137,
+    "text": "Âme de Druide ardent (95)"
+  },
+  {
+    "id": 763,
+    "text": "Âme de Druide ardent (99)"
+  },
+  {
+    "id": 832,
+    "text": "Âme de Freya (70)"
+  },
+  {
+    "id": 766,
+    "text": "Âme de Hacheur de la chute d'eau (99)"
+  },
+  {
+    "id": 3135,
+    "text": "Âme de Loup solaire (90)"
+  },
+  {
+    "id": 765,
+    "text": "Âme de Prêtre vaudou (99)"
+  },
+  {
+    "id": 3138,
+    "text": "Âme de Traqueur solaire (95)"
+  },
+  {
+    "id": 768,
+    "text": "Âme de Traqueur solaire (99)"
+  },
+  {
+    "id": 400,
+    "text": "Âme de guerrier (62)"
+  },
+  {
+    "id": 3136,
+    "text": "Âme de loup solaire (90)"
+  },
+  {
+    "id": 3139,
+    "text": "Âme de loup solaire (90)"
+  },
+  {
+    "id": 376,
+    "text": "Âme prisonnière (55)"
+  },
+  {
+    "id": 546,
+    "text": "Éclaireur gnoll (50)"
+  },
+  {
+    "id": 572,
+    "text": "Éclaireur gnoll extrêmement suspect (35)"
+  },
+  {
+    "id": 570,
+    "text": "Éclaireur gnoll suspect (35)"
+  },
+  {
+    "id": 571,
+    "text": "Éclaireur gnoll très suspect (35)"
+  },
+  {
+    "id": 2054,
+    "text": "Élisia (80)"
+  },
+  {
+    "id": 3157,
+    "text": "Émilie Fruiti (95)"
+  },
+  {
+    "id": 364,
+    "text": "Épée enchantée (36)"
+  },
+  {
+    "id": 1570,
+    "text": "Épéiste Champidor (vétéran) (97 +85)"
+  },
+  {
+    "id": 3430,
+    "text": "Épéiste anglo-saxon (95 +97)"
+  },
+  {
+    "id": 147,
+    "text": "Épéiste d'élite kenko (48)"
+  },
+  {
+    "id": 3161,
+    "text": "Épéiste draconien (97 +69)"
+  },
+  {
+    "id": 3211,
+    "text": "Épéiste draconienne (97 +79)"
+  },
+  {
+    "id": 3434,
+    "text": "Épéiste du Lac des murmures (98 +97)"
+  },
+  {
+    "id": 146,
+    "text": "Épéiste kenko (44)"
+  },
+  {
+    "id": 115,
+    "text": "Épéiste koaren (34)"
+  },
+  {
+    "id": 116,
+    "text": "Épéiste koaren d'élite (38)"
+  },
+  {
+    "id": 114,
+    "text": "Épéiste koaren novice (25)"
+  },
+  {
+    "id": 3181,
+    "text": "Épéiste mycète (92 +69)"
+  },
+  {
+    "id": 3274,
+    "text": "Épéiste mycète amélioré (92 +69)"
+  },
+  {
+    "id": 3242,
+    "text": "Épéiste mycète doré (92 +36)"
+  },
+  {
+    "id": 1466,
+    "text": "Épéiste mycète doré (expert) (92 +65)"
+  },
+  {
+    "id": 3250,
+    "text": "Épéiste mycète doré géant (93 +55)"
+  },
+  {
+    "id": 1471,
+    "text": "Épéiste mycète doré géant (expert) (93 +75)"
+  },
+  {
+    "id": 3184,
+    "text": "Épéiste mycète géant (96 +70)"
+  },
+  {
+    "id": 3277,
+    "text": "Épéiste mycète géant amélioré (96 +70)"
+  },
+  {
+    "id": 145,
+    "text": "Épéiste novice kenko (41)"
+  },
+  {
+    "id": 3034,
+    "text": "Épéiste orc royal (97)"
+  },
+  {
+    "id": 1683,
+    "text": "Épéiste rageur du Lac des murmures (98 +96)"
+  },
+  {
+    "id": 1689,
+    "text": "Épéiste rageur troyen (98 +96)"
+  },
+  {
+    "id": 2568,
+    "text": "Épéiste spectral d'élite inconnu (92)"
+  },
+  {
+    "id": 2562,
+    "text": "Épéiste spectral de Fernon (89)"
+  },
+  {
+    "id": 2559,
+    "text": "Épéiste spectral inconnu (91)"
+  },
+  {
+    "id": 2645,
+    "text": "Épéiste spectral suspect (50)"
+  },
+  {
+    "id": 3415,
+    "text": "Épéiste troyen (97 +97)"
+  },
+  {
+    "id": 2665,
+    "text": "Épéiste à tête de mort (80)"
+  },
+  {
+    "id": 2732,
+    "text": "Épéiste à tête de mort ensorcelé (83)"
+  },
+  {
+    "id": 1617,
+    "text": "Érable géant des catacombes (92 +87)"
+  },
+  {
+    "id": 459,
+    "text": "Éri Flèchedevent (75)"
+  },
+  {
+    "id": 2747,
+    "text": "Érénia (mini) (1)"
+  },
+  {
+    "id": 2765,
+    "text": "Érénia stressée (99)"
+  },
+  {
+    "id": 2106,
+    "text": "Étincelette (1)"
+  },
+  {
+    "id": 1679,
+    "text": "Étrangleur viking de Midgard (98 +96)"
+  },
+  {
+    "id": 3229,
+    "text": "Œuf d'Asgobas (99 +75)"
+  },
+  {
+    "id": 1921,
+    "text": "Œuf d'araignée (88)"
+  },
+  {
+    "id": 2012,
+    "text": "Œuf d'araignée (88)"
+  },
+  {
+    "id": 390,
+    "text": "Œuf d'oiseau (1)"
+  },
+  {
+    "id": 797,
+    "text": "Œuf d'oiseau géant (1)"
+  },
+  {
+    "id": 798,
+    "text": "Œuf d'oiseau géant (1)"
+  },
+  {
+    "id": 1922,
+    "text": "Œuf de Valakus (88)"
+  },
+  {
+    "id": 2013,
+    "text": "Œuf de Valakus (88)"
+  },
+  {
+    "id": 2016,
+    "text": "Œuf de Valakus (88)"
+  },
+  {
+    "id": 3199,
+    "text": "Œuf de dragon (90 +63)"
+  },
+  {
+    "id": 1927,
+    "text": "Œuf du phénix (95)"
+  },
+  {
+    "id": 567,
+    "text": "Œuf fée (0)"
+  },
+  {
+    "id": 988,
+    "text": "Œuf mystérieux (1)"
+  },
+  {
+    "id": 383,
+    "text": "Œufet (1)"
+  }
+]
