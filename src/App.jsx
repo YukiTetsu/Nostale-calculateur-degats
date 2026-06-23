@@ -453,12 +453,22 @@ const getFamilyTooltip = (groupId, level) => {
   }
 };
 
+const getPassiveLevel = (group, id) => {
+  if (!id) return 0;
+  if (group.items.length === 1 && group.items[0].level === 0) {
+    return id === group.items[0].id ? 1 : 0;
+  }
+  const item = group.items.find(it => it.id === id);
+  return item ? item.level : 0;
+};
+
 const getPassiveOptions = (group) => {
   if (group.items.length === 1 && group.items[0].level === 0) {
+    const singleItem = group.items[0];
     return (
       <>
         <option value={0}>Aucun</option>
-        <option value={1} title={getPassiveTooltip(group.groupId, 1)}>Actif</option>
+        <option value={singleItem.id} title={getPassiveTooltip(group.groupId, 1)}>Actif</option>
       </>
     );
   }
@@ -467,7 +477,7 @@ const getPassiveOptions = (group) => {
     <>
       <option value={0}>Aucun</option>
       {group.items.map(it => (
-        <option key={it.level} value={it.level} title={getPassiveTooltip(group.groupId, it.level)}>
+        <option key={it.id} value={it.id} title={getPassiveTooltip(group.groupId, it.level)}>
           Lvl {it.level}
         </option>
       ))}
@@ -476,7 +486,17 @@ const getPassiveOptions = (group) => {
 };
 
 function App() {
-  const [formData, setFormData] = useState(INITIAL_STATE);
+  const [formData, setFormData] = useState(() => {
+    const savedForm = localStorage.getItem('nostale_calc_current_form');
+    if (savedForm) {
+      try {
+        return JSON.parse(savedForm);
+      } catch (e) {
+        console.error("Failed to parse saved current form:", e);
+      }
+    }
+    return INITIAL_STATE;
+  });
   const [monsterSearch, setMonsterSearch] = useState('');
   const [selectedMonster, setSelectedMonster] = useState(null);
   const [showMonsterSelect, setShowMonsterSelect] = useState(false);
@@ -829,6 +849,11 @@ function App() {
     }, 600);
 
     return () => clearTimeout(debouncedCalculateTimer.current);
+  }, [formData]);
+
+  // Sync current form state to localStorage on change
+  useEffect(() => {
+    localStorage.setItem('nostale_calc_current_form', JSON.stringify(formData));
   }, [formData]);
 
   // Recalculate comparison build when target changes
@@ -1873,7 +1898,7 @@ function App() {
                           <div 
                             key={group.groupId} 
                             className="passive-row flex-between border-b pb-2 mb-2 last:border-0"
-                            title={getPassiveTooltip(group.groupId, selectedVal)}
+                            title={getPassiveTooltip(group.groupId, getPassiveLevel(group, selectedVal))}
                           >
                             <div className="flex-center gap-2">
                               <img 
