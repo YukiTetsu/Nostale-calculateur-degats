@@ -91,7 +91,57 @@ const PRESET_TARGETS = [
   { name: "Maximum Élément (3:12)", att: 30, ele: 120 }
 ];
 
-// Helper to compute SL values from main/sec weapon shells
+// Function to compute SP points granted by the equipped Title
+const getTitleSPValues = (titleId) => {
+  const res = { attack: 0, defense: 0, element: 0, hpmp: 0 };
+  if (!titleId) return res;
+  const title = TITLES.find(t => t.id === Number(titleId));
+  if (!title || !title.tooltip) return res;
+  const desc = title.tooltip;
+
+  // Tous les points de compétence
+  const allMatch = desc.match(/Tous les points de compétence de ton spécialiste augmentent de (\d+)/i);
+  if (allMatch) {
+    const v = parseInt(allMatch[1], 10);
+    res.attack += v; res.defense += v; res.element += v; res.hpmp += v;
+  }
+
+  // Attaque
+  const attMatch = desc.match(/points de compétence d'attaque de ton spécialiste augmentent de (\d+)/i);
+  if (attMatch) res.attack += parseInt(attMatch[1], 10);
+
+  // Défense
+  const defMatch = desc.match(/points de compétence de défense de ton spécialiste augmentent de (\d+)/i);
+  if (defMatch) res.defense += parseInt(defMatch[1], 10);
+
+  // Élément
+  const eleMatch = desc.match(/points de compétence de l'élément de ton spécialiste augmentent de (\d+)/i);
+  if (eleMatch) res.element += parseInt(eleMatch[1], 10);
+
+  // HP / MP
+  const hpMatch = desc.match(/points de compétence HP\/MP de ton spécialiste augmentent de (\d+)/i);
+  if (hpMatch) res.hpmp += parseInt(hpMatch[1], 10);
+
+  return res;
+};
+
+// Function to compute SP points granted by specific equipment items (e.g. Ailes de Nekhbet)
+const getEquipSPValues = (equipments) => {
+  const res = { attack: 0, defense: 0, element: 0, hpmp: 0 };
+  if (!equipments) return res;
+
+  // Check slot 16 (Ailes)
+  const wingsId = Number(equipments[16]);
+  if (wingsId === 8787) {
+    // Ailes de Nekhbet : +1 Défense, +1 Élément
+    res.defense += 1;
+    res.element += 1;
+  }
+
+  return res;
+};
+
+// Helper to compute SL values from main/sec weapon shells, runes, titles, and equipment
 const getSLValues = (data) => {
   const w0Att = data.shell_0?.[26] || 0;
   const w0Def = data.shell_0?.[27] || 0;
@@ -119,11 +169,42 @@ const getSLValues = (data) => {
   const armorDef = data.rune_1?.[1013] || 0;
   const armorHp = data.rune_1?.[1017] || 0;
 
-  return {
+  const titleSP = getTitleSPValues(data.titles);
+  const equipSP = getEquipSPValues(data.equipments);
+  const extraAtt = Number(data.extra_sp_points?.[1]) || 0;
+  const extraDef = Number(data.extra_sp_points?.[2]) || 0;
+  const extraEle = Number(data.extra_sp_points?.[3]) || 0;
+  const extraHp = Number(data.extra_sp_points?.[4]) || 0;
+
+  const slOnly = {
     attack: slAttack + slGeneral + runeAtt,
     defense: slDefense + slGeneral + armorDef,
     element: slElement + slGeneral + runeEle,
     hpmp: slHp + slGeneral + armorHp
+  };
+
+  const titleOnly = {
+    attack: titleSP.attack,
+    defense: titleSP.defense,
+    element: titleSP.element,
+    hpmp: titleSP.hpmp
+  };
+
+  const stuffOnly = {
+    attack: equipSP.attack + extraAtt,
+    defense: equipSP.defense + extraDef,
+    element: equipSP.element + extraEle,
+    hpmp: equipSP.hpmp + extraHp
+  };
+
+  return {
+    attack: slOnly.attack + titleOnly.attack + stuffOnly.attack,
+    defense: slOnly.defense + titleOnly.defense + stuffOnly.defense,
+    element: slOnly.element + titleOnly.element + stuffOnly.element,
+    hpmp: slOnly.hpmp + titleOnly.hpmp + stuffOnly.hpmp,
+    slOnly,
+    titleOnly,
+    stuffOnly
   };
 };
 
@@ -243,6 +324,14 @@ const INITIAL_STATE = {
   monster_buffs: {},
   nosmall_consumable_item: {},
   
+  // Additional / custom SP points from equipment or other bonuses
+  extra_sp_points: {
+    1: 0, // Attack
+    2: 0, // Defense
+    3: 0, // Element
+    4: 0  // HP/MP
+  },
+
   // Options for Shells & Runes (default to 0)
   shell_0: {}, // main weapon shells
   shell_5: {}, // secondary weapon shells
@@ -1005,6 +1094,10 @@ function App() {
       passive_skill: {
         ...INITIAL_STATE.passive_skill,
         ...(build.formData.passive_skill || {})
+      },
+      extra_sp_points: {
+        ...INITIAL_STATE.extra_sp_points,
+        ...(build.formData.extra_sp_points || {})
       }
     };
     setFormData(mergedData);
@@ -1513,14 +1606,20 @@ function App() {
 
                   {/* Totals Table */}
                   <div className="mt-4 border-t pt-4 border-slate/20">
-                    <h4 className="text-xs font-semibold text-purple mb-2 uppercase tracking-wider" style={{ letterSpacing: '0.05em' }}>Récapitulatif des points finaux (Max 120)</h4>
+                    <div className="flex-between mb-2">
+                      <h4 className="text-xs font-semibold text-purple uppercase tracking-wider" style={{ letterSpacing: '0.05em' }}>
+                        Récapitulatif des points finaux (Max 120)
+                      </h4>
+                    </div>
                     <div className="overflow-x-auto">
                       <table className="w-full text-xs text-left border-collapse">
                         <thead>
                           <tr className="border-b border-slate/20 text-muted">
                             <th className="pb-2 font-medium">Statistique</th>
                             <th className="pb-2 font-medium text-center">SP (Base)</th>
-                            <th className="pb-2 font-medium text-center">Équipement (SL)</th>
+                            <th className="pb-2 font-medium text-center" title="SL Arme, SL Générale & Runes">SL & Runes</th>
+                            <th className="pb-2 font-medium text-center" title="Points SP conférés automatiquement par le titre actif">Titre</th>
+                            <th className="pb-2 font-medium text-center" title="Points SP conférés par vos équipements (ex: Ailes) ou bonus personnalisés">Stuff / Autre</th>
                             <th className="pb-2 font-medium text-right">Total Final</th>
                           </tr>
                         </thead>
@@ -1528,22 +1627,49 @@ function App() {
                           {(() => {
                             const sls = getSLValues(formData);
                             const stats = [
-                              { name: "Attaque", base: parseInt(formData['specialist_points[1]']) || 0, sl: sls.attack, color: "text-red" },
-                              { name: "Défense", base: parseInt(formData['specialist_points[2]']) || 0, sl: sls.defense, color: "text-blue" },
-                              { name: "Élément", base: parseInt(formData['specialist_points[3]']) || 0, sl: sls.element, color: "text-green" },
-                              { name: "HP / MP", base: parseInt(formData['specialist_points[4]']) || 0, sl: sls.hpmp, color: "text-yellow" }
+                              { key: 1, name: "Attaque", base: parseInt(formData['specialist_points[1]']) || 0, sl: sls.slOnly.attack, title: sls.titleOnly.attack, stuff: sls.stuffOnly.attack, totalBonus: sls.attack, color: "text-red" },
+                              { key: 2, name: "Défense", base: parseInt(formData['specialist_points[2]']) || 0, sl: sls.slOnly.defense, title: sls.titleOnly.defense, stuff: sls.stuffOnly.defense, totalBonus: sls.defense, color: "text-blue" },
+                              { key: 3, name: "Élément", base: parseInt(formData['specialist_points[3]']) || 0, sl: sls.slOnly.element, title: sls.titleOnly.element, stuff: sls.stuffOnly.element, totalBonus: sls.element, color: "text-green" },
+                              { key: 4, name: "HP / MP", base: parseInt(formData['specialist_points[4]']) || 0, sl: sls.slOnly.hpmp, title: sls.titleOnly.hpmp, stuff: sls.stuffOnly.hpmp, totalBonus: sls.hpmp, color: "text-yellow" }
                             ];
 
-                            return stats.map((st, i) => {
-                              const total = st.base + st.sl;
+                            return stats.map((st) => {
+                              const total = st.base + st.totalBonus;
                               const isOvercapped = total > 120;
                               return (
-                                <tr key={i} className="border-b border-slate/10 last:border-0">
+                                <tr key={st.key} className="border-b border-slate/10 last:border-0">
                                   <td className="py-2 font-medium flex-center gap-1" style={{ display: 'flex', alignItems: 'center', gap: '0.25rem' }}>
                                     <span className={st.color}>●</span> {st.name}
                                   </td>
                                   <td className="py-2 text-center text-light">{st.base}</td>
                                   <td className="py-2 text-center text-muted">+{st.sl}</td>
+                                  <td className="py-2 text-center text-yellow font-medium">
+                                    {st.title > 0 ? `+${st.title}` : <span className="text-muted/50">-</span>}
+                                  </td>
+                                  <td className="py-2 text-center">
+                                    <div style={{ display: 'inline-flex', alignItems: 'center', justifyContent: 'center', gap: '3px' }}>
+                                      <span className="text-purple text-xs font-semibold">+</span>
+                                      <input
+                                        type="number"
+                                        min="0"
+                                        max="50"
+                                        className="text-center bg-slate-800/80 border border-slate/30 rounded text-xs text-light focus:border-purple focus:outline-none"
+                                        style={{ width: '42px', padding: '2px 4px', textAlign: 'center' }}
+                                        value={formData.extra_sp_points?.[st.key] || 0}
+                                        onChange={(e) => {
+                                          const val = parseInt(e.target.value) || 0;
+                                          setFormData(prev => ({
+                                            ...prev,
+                                            extra_sp_points: {
+                                              ...(prev.extra_sp_points || {}),
+                                              [st.key]: Math.max(0, val)
+                                            }
+                                          }));
+                                        }}
+                                        title="Points SP additionnels venant d'autres pièces de stuff ou bonus"
+                                      />
+                                    </div>
+                                  </td>
                                   <td className="py-2 text-right">
                                     <span className={`font-bold ${isOvercapped ? 'text-red animate-pulse' : 'text-light'}`} title={isOvercapped ? 'Statistique dépassée (> 120), les points au-dessus sont perdus !' : ''}>
                                       {isOvercapped ? '120' : total}
@@ -2229,10 +2355,10 @@ function App() {
                 <h4 className="font-semibold text-sm text-purple mb-1">Résumé des statistiques détectées :</h4>
                 <div className="grid-2 text-xs">
                   <div>
-                    <span className="text-muted">SL Attaque (Armes + Coquillages + Gen) :</span> <strong className="text-light">+{sls.attack}</strong>
+                    <span className="text-muted">Bonus Attaque (SL, Titre, Stuff) :</span> <strong className="text-light">+{sls.attack}</strong>
                   </div>
                   <div>
-                    <span className="text-muted">SL Élément (Armes + Coquillages + Gen) :</span> <strong className="text-light">+{sls.element}</strong>
+                    <span className="text-muted">Bonus Élément (SL, Titre, Stuff) :</span> <strong className="text-light">+{sls.element}</strong>
                   </div>
                   <div className="mt-1">
                     <span className="text-muted">Cible active :</span> <strong className="text-yellow">{activeMonster}</strong>

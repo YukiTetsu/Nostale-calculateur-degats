@@ -117,25 +117,35 @@ async function main() {
       continue;
     }
     const nextSlotIdx = html.indexOf('class="equipments_slot_group"', slotIdx + 1);
-    const endIdx = nextSlotIdx !== -1 ? nextSlotIdx : html.indexOf('class="titles_group"', slotIdx);
-    const slotHtml = html.substring(slotIdx, endIdx);
+    let endIdx;
+    if (nextSlotIdx !== -1) {
+      endIdx = nextSlotIdx;
+    } else {
+      const tgMatch = html.substring(slotIdx).match(/class=['\"]titles_group['\"]/);
+      endIdx = tgMatch ? slotIdx + tgMatch.index : html.indexOf('titles_group', slotIdx);
+    }
+    const slotHtml = html.substring(slotIdx, endIdx !== -1 ? endIdx : html.length);
 
     const matches = [...slotHtml.matchAll(/<div[^>]*class=['\"][^'\"]*nt-slot-item[^'\"]*['\"]([^>]*)>[\s\S]*?<img[^>]*data-src=['\"]([^'\"]*)['\"][^>]*>[\s\S]*?<\/div>/g)];
-    const items = matches.map(m => {
-      const attrs = m[1];
-      const imgSrc = m[2];
-      const id = parseInt(attrs.match(/data-id=['\"](\d+)['\"]/)?.[1] || '0', 10);
-      const name = cleanItemName(attrs.match(/data-name=['\"]([^'\"]*)['\"]/)?.[1] || '');
-      const cls = attrs.match(/data-class=['\"]?(\d+)['\"]?/)?.[1];
-      const sp = attrs.match(/data-sp=['\"]?(-?\d+)['\"]?/)?.[1];
-      const icon = imgSrc.match(/\/images\/icons\/(\d+)\.png/)?.[1] || '';
-      
-      const obj = { id, name };
-      if (cls !== undefined) obj.class = parseInt(cls, 10);
-      if (icon) obj.icon = icon;
-      if (sp !== undefined) obj.sp = parseInt(sp, 10);
-      return obj;
-    });
+    const items = matches
+      .filter(m => !m[1].includes('data-id="any"'))
+      .map(m => {
+        const attrs = m[1];
+        const imgSrc = m[2];
+        const id = parseInt(attrs.match(/data-id=['\"](\d+)['\"]/)?.[1] || '0', 10);
+        if (!id || isNaN(id) || id <= 0) return null;
+        const name = cleanItemName(attrs.match(/data-name=['\"]([^'\"]*)['\"]/)?.[1] || '');
+        const cls = attrs.match(/data-class=['\"]?(\d+)['\"]?/)?.[1];
+        const sp = attrs.match(/data-sp=['\"]?(-?\d+)['\"]?/)?.[1];
+        const icon = imgSrc.match(/\/images\/icons\/(\d+)\.png/)?.[1] || '';
+        
+        const obj = { id, name };
+        if (cls !== undefined) obj.class = parseInt(cls, 10);
+        if (icon) obj.icon = icon;
+        if (sp !== undefined) obj.sp = parseInt(sp, 10);
+        return obj;
+      })
+      .filter(Boolean);
 
     itemsData[String(slot)] = items;
     totalItems += items.length;
