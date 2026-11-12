@@ -12,8 +12,28 @@
     "text": "Achille (100 +100)"
   },
   {
+    "id": 1706,
+    "text": "Achille corrompu (100 +100)"
+  },
+  {
+    "id": 1729,
+    "text": "Achille entièrement corrompu (100 +100)"
+  },
+  {
+    "id": 1725,
+    "text": "Achille entièrement purifié (100 +100)"
+  },
+  {
     "id": 2035,
     "text": "Achille l'enflammé (85)"
+  },
+  {
+    "id": 1710,
+    "text": "Achille purifié (100 +100)"
+  },
+  {
+    "id": 1718,
+    "text": "Achille ??? (100)"
   },
   {
     "id": 1641,
@@ -80,6 +100,10 @@
     "text": "Aile de jade (92 +83)"
   },
   {
+    "id": 1745,
+    "text": "Aile dimensionnelle apprivoisée (1)"
+  },
+  {
     "id": 2575,
     "text": "Alchimiste Felice (92)"
   },
@@ -142,6 +166,26 @@
   {
     "id": 1669,
     "text": "Amiral Yi (100 +100)"
+  },
+  {
+    "id": 1707,
+    "text": "Amiral Yi corrompu (100 +100)"
+  },
+  {
+    "id": 1730,
+    "text": "Amiral Yi entièrement corrompu (100 +100)"
+  },
+  {
+    "id": 1726,
+    "text": "Amiral Yi entièrement purifié (100 +100)"
+  },
+  {
+    "id": 1711,
+    "text": "Amiral Yi purifié (100 +100)"
+  },
+  {
+    "id": 1719,
+    "text": "Amiral Yi ??? (100)"
   },
   {
     "id": 2683,
@@ -270,6 +314,10 @@
   {
     "id": 1631,
     "text": "Archer des dimensions (98 +97)"
+  },
+  {
+    "id": 1734,
+    "text": "Archer dimensionnel des catacombes (98 +92)"
   },
   {
     "id": 3436,
@@ -1020,6 +1068,10 @@
     "text": "Bourdon dragon (92 +62)"
   },
   {
+    "id": 3462,
+    "text": "Bourdon dragon apprivoisé (1)"
+  },
+  {
     "id": 3164,
     "text": "Bourdon grognon dragon (92 +62)"
   },
@@ -1062,6 +1114,10 @@
   {
     "id": 151,
     "text": "Brigand novice kenko (43)"
+  },
+  {
+    "id": 1748,
+    "text": "Brita la mage citrouille (1)"
   },
   {
     "id": 1490,
@@ -1342,6 +1398,10 @@
   {
     "id": 3429,
     "text": "Cerf draconique (98 +97)"
+  },
+  {
+    "id": 1743,
+    "text": "Cerf draconique des catacombes (98 +90)"
   },
   {
     "id": 3177,
@@ -2116,6 +2176,10 @@
     "text": "Dame Calvina (80)"
   },
   {
+    "id": 3464,
+    "text": "Dame Calvina anormale (1)"
+  },
+  {
     "id": 407,
     "text": "Dame diabolique (70)"
   },
@@ -2300,6 +2364,14 @@
     "text": "Docteure Dimensio (100 +100)"
   },
   {
+    "id": 1723,
+    "text": "Docteure Dimensio alternative (100)"
+  },
+  {
+    "id": 1695,
+    "text": "Docteure Dimensio armée (98 +100)"
+  },
+  {
     "id": 395,
     "text": "Doggo (40)"
   },
@@ -2358,6 +2430,10 @@
   {
     "id": 2389,
     "text": "Dragon des dimensions (99 +97)"
+  },
+  {
+    "id": 1738,
+    "text": "Dragon dimensionnel des catacombes (100 +98)"
   },
   {
     "id": 809,
@@ -2654,6 +2730,10 @@
   {
     "id": 2644,
     "text": "Esprit assoiffé (83)"
+  },
+  {
+    "id": 1717,
+    "text": "Esprit d'Excalibur (100 +100)"
   },
   {
     "id": 777,
@@ -3002,6 +3082,10 @@
   {
     "id": 448,
     "text": "Fée des herbins (1)"
+  },
+  {
+    "id": 1737,
+    "text": "Fée des murmures des catacombes (97 +90)"
   },
   {
     "id": 3433,
@@ -3664,12 +3748,24 @@
     "text": "Guerrier de bronze grec (95 +85)"
   },
   {
+    "id": 1715,
+    "text": "Guerrier de malachite d'Arès (100 +100)"
+  },
+  {
+    "id": 1736,
+    "text": "Guerrier de malachite de catacombes (98 +92)"
+  },
+  {
     "id": 3416,
     "text": "Guerrier de malachite troyen (98 +97)"
   },
   {
     "id": 1630,
     "text": "Guerrier des dimensions (98 +97)"
+  },
+  {
+    "id": 1733,
+    "text": "Guerrier dimensionnel de catacombes (98 +92)"
   },
   {
     "id": 1562,
@@ -3954,6 +4050,10 @@
   {
     "id": 1674,
     "text": "Haut dragon des dimensions (100 +98)"
+  },
+  {
+    "id": 1699,
+    "text": "Haut dragon occulte des dimensions (99 +97)"
   },
   {
     "id": 1673,
@@ -4312,6 +4412,10 @@
     "text": "Jeune buffle des dimensions (98 +97)"
   },
   {
+    "id": 3463,
+    "text": "Jeune buffle des dimensions dompté (1)"
+  },
+  {
     "id": 3425,
     "text": "Jeune cerf draconique (98 +97)"
   },
@@ -4474,6 +4578,10 @@
   {
     "id": 1614,
     "text": "Koukou (1)"
+  },
+  {
+    "id": 1747,
+    "text": "Koukour l'archer citrouille (1)"
   },
   {
     "id": 353,
@@ -5264,6 +5372,18 @@
     "text": "Membre de la bande des voleurs (92)"
   },
   {
+    "id": 1708,
+    "text": "Merlin corrompu (100 +100)"
+  },
+  {
+    "id": 1731,
+    "text": "Merlin entièrement corrompu (100 +100)"
+  },
+  {
+    "id": 1727,
+    "text": "Merlin entièrement purifié (100 +100)"
+  },
+  {
     "id": 1653,
     "text": "Merlin l'enchanteur (100 +100)"
   },
@@ -5272,12 +5392,28 @@
     "text": "Merlin l'enchanteur (100 +100)"
   },
   {
+    "id": 1712,
+    "text": "Merlin purifié (100 +100)"
+  },
+  {
+    "id": 1720,
+    "text": "Merlin ??? (100)"
+  },
+  {
     "id": 3105,
     "text": "Messager du roi des esprits (98)"
   },
   {
     "id": 3445,
     "text": "Meurtrier dimensionnel (99 +97)"
+  },
+  {
+    "id": 1742,
+    "text": "Meurtrier dimensionnel de catacombe (95 +90)"
+  },
+  {
+    "id": 1698,
+    "text": "Meurtrier occulte des dimensions (99 +97)"
   },
   {
     "id": 1089,
@@ -5636,6 +5772,10 @@
     "text": "Nidhogg (100 +100)"
   },
   {
+    "id": 1714,
+    "text": "Nidhogg de Ragnarok (100 +100)"
+  },
+  {
     "id": 411,
     "text": "Ninja (54)"
   },
@@ -5672,8 +5812,16 @@
     "text": "Nézarun (98 +100)"
   },
   {
+    "id": 1694,
+    "text": "Nézarun anormal (98 +100)"
+  },
+  {
     "id": 1620,
     "text": "Nézarun dévastateur (98 +100)"
+  },
+  {
+    "id": 3460,
+    "text": "Obscurité d'archer troyen (85 +85)"
   },
   {
     "id": 1345,
@@ -5690,6 +5838,18 @@
   {
     "id": 3367,
     "text": "Officier koaren (99 +80)"
+  },
+  {
+    "id": 3457,
+    "text": "Ombre d'archer du Lac des murmures (85 +85)"
+  },
+  {
+    "id": 3456,
+    "text": "Ombre d'épéiste du Lac des murmures (90 +90)"
+  },
+  {
+    "id": 3459,
+    "text": "Ombre d'épéiste troyen (90 +90)"
   },
   {
     "id": 994,
@@ -5720,12 +5880,44 @@
     "text": "Ombre de Valakus (95)"
   },
   {
+    "id": 3458,
+    "text": "Ombre de fée du Lac des murmures (90 +90)"
+  },
+  {
+    "id": 3450,
+    "text": "Ombre de l'arquebusier ashigaru (85 +85)"
+  },
+  {
+    "id": 3455,
+    "text": "Ombre du cerf draconique (90 +90)"
+  },
+  {
+    "id": 3453,
+    "text": "Ombre du guerrier de Midgard (90 +90)"
+  },
+  {
+    "id": 3461,
+    "text": "Ombre du guerrier de malachite (90 +90)"
+  },
+  {
+    "id": 3454,
+    "text": "Ombre du lanceur de Midgard (85 +85)"
+  },
+  {
+    "id": 3452,
+    "text": "Ombre du mage du feu Onmoyoji (90 +90)"
+  },
+  {
     "id": 993,
     "text": "Ombre du roi des bêtes corrompu (100)"
   },
   {
     "id": 992,
     "text": "Ombre du roi des esprits corrompu (100)"
+  },
+  {
+    "id": 3451,
+    "text": "Ombre du samouraï (90 +90)"
   },
   {
     "id": 245,
@@ -5908,6 +6100,10 @@
     "text": "Personne mystérieuse (0)"
   },
   {
+    "id": 1722,
+    "text": "Personne mystérieuse (100)"
+  },
+  {
     "id": 2699,
     "text": "Personne mystérieuse (88)"
   },
@@ -6048,8 +6244,24 @@
     "text": "Pikanya apprivoisé (1)"
   },
   {
+    "id": 2395,
+    "text": "Pilier dimensionnel d'obscurité (90)"
+  },
+  {
     "id": 2391,
     "text": "Pilier dimensionnel de Nézarun (90 +70)"
+  },
+  {
+    "id": 2393,
+    "text": "Pilier dimensionnel de l'eau (90)"
+  },
+  {
+    "id": 2394,
+    "text": "Pilier dimensionnel de lumière (90)"
+  },
+  {
+    "id": 2392,
+    "text": "Pilier dimensionnel du feu (90)"
   },
   {
     "id": 1093,
@@ -6596,6 +6808,10 @@
     "text": "Pégase arc-en-ciel (1)"
   },
   {
+    "id": 1746,
+    "text": "Pépo le guerrier citrouille (1)"
+  },
+  {
     "id": 788,
     "text": "Pêcheur Walter (1)"
   },
@@ -6992,6 +7208,14 @@
     "text": "Ravageur de dimensions géant (99 +97)"
   },
   {
+    "id": 1740,
+    "text": "Ravageur dimensionnel de catacombes (97 +90)"
+  },
+  {
+    "id": 1701,
+    "text": "Ravageur occulte des dimensions (99 +97)"
+  },
+  {
     "id": 3159,
     "text": "Recrue disparue (96)"
   },
@@ -7384,6 +7608,10 @@
     "text": "Samouraï d'élite de Neil (79)"
   },
   {
+    "id": 1716,
+    "text": "Samouraï de Hideyoshi (100 +100)"
+  },
+  {
     "id": 1900,
     "text": "Samouraï de l'équipe d'exploration des voleurs du désert (89)"
   },
@@ -7434,6 +7662,10 @@
   {
     "id": 1225,
     "text": "Samouraï de transport de Shoran (84)"
+  },
+  {
+    "id": 1739,
+    "text": "Samouraï des catacombes (97 +92)"
   },
   {
     "id": 198,
@@ -7620,6 +7852,10 @@
     "text": "Shania, Chevalier dragon (99)"
   },
   {
+    "id": 1724,
+    "text": "Signal dimensionnel (90 +90)"
+  },
+  {
     "id": 2681,
     "text": "Sir Ronron (1)"
   },
@@ -7790,6 +8026,10 @@
   {
     "id": 1677,
     "text": "Sorcier de feu onmyoji (98 +96)"
+  },
+  {
+    "id": 1735,
+    "text": "Sorcier dimensionnel des catacombes (98 +92)"
   },
   {
     "id": 689,
@@ -8064,6 +8304,14 @@
     "text": "Terreur dimensionnelle antique (99 +97)"
   },
   {
+    "id": 1741,
+    "text": "Terreur dimensionnelle de catacombe (96 +90)"
+  },
+  {
+    "id": 1700,
+    "text": "Terreur occulte des dimensions (99 +97)"
+  },
+  {
     "id": 2619,
     "text": "Terrible Fafnir (99)"
   },
@@ -8072,12 +8320,32 @@
     "text": "Terrier de lièvre (1)"
   },
   {
+    "id": 1709,
+    "text": "Thor corrompu (100 +100)"
+  },
+  {
+    "id": 1732,
+    "text": "Thor entièrement corrompu (100 +100)"
+  },
+  {
+    "id": 1728,
+    "text": "Thor entièrement purifié (100 +100)"
+  },
+  {
     "id": 1661,
     "text": "Thor le foudroyeur (100 +100)"
   },
   {
     "id": 1672,
     "text": "Thor le foudroyeur (100 +100)"
+  },
+  {
+    "id": 1713,
+    "text": "Thor purifié (100 +100)"
+  },
+  {
+    "id": 1721,
+    "text": "Thor ??? (100)"
   },
   {
     "id": 3079,

@@ -45,14 +45,14 @@
         "icon": "2501"
       },
       {
-        "id": 9685,
+        "id": 13397,
         "name": "Augmenter la force d'attaque et de défense (niveau 7)",
         "amount": 7,
         "level": 6,
         "icon": "2501"
       },
       {
-        "id": 9686,
+        "id": 13402,
         "name": "Augmenter la force d'attaque et de défense (niveau 8)",
         "amount": 8,
         "level": 7,
@@ -200,6 +200,20 @@
         "name": "Bonus d'attaque de l'éclaireur (niveau 1)",
         "amount": 1,
         "level": 0,
+        "icon": "7265"
+      },
+      {
+        "id": 13618,
+        "name": "Bonus d'attaque de l'éclaireur (niveau 2)",
+        "amount": 2,
+        "level": 1,
+        "icon": "7265"
+      },
+      {
+        "id": 13828,
+        "name": "Bonus d'attaque de l'éclaireur (niveau 3)",
+        "amount": 3,
+        "level": 2,
         "icon": "7265"
       }
     ]

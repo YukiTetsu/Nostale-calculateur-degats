@@ -8,6 +8,7 @@
     "server": "node server.js",
     "start": "node server.js",
     "dev:all": "concurrently \"npm run server\" \"npm run dev\"",
+    "update-data": "node scripts/update-data.mjs",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"

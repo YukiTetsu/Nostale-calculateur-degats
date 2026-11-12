@@ -69,7 +69,7 @@
     ]
   },
   {
-    "groupId": 6,
+    "groupId": 3,
     "items": [
       {
         "id": 44,
@@ -92,7 +92,7 @@
     ]
   },
   {
-    "groupId": 7,
+    "groupId": 4,
     "items": [
       {
         "id": 48,
@@ -115,7 +115,7 @@
     ]
   },
   {
-    "groupId": 21,
+    "groupId": 5,
     "items": [
       {
         "id": 96,
@@ -132,7 +132,7 @@
     ]
   },
   {
-    "groupId": 22,
+    "groupId": 6,
     "items": [
       {
         "id": 97,
@@ -149,7 +149,7 @@
     ]
   },
   {
-    "groupId": 23,
+    "groupId": 7,
     "items": [
       {
         "id": 98,
@@ -166,7 +166,7 @@
     ]
   },
   {
-    "groupId": 26,
+    "groupId": 8,
     "items": [
       {
         "id": 101,
@@ -183,7 +183,7 @@
     ]
   },
   {
-    "groupId": 27,
+    "groupId": 9,
     "items": [
       {
         "id": 102,
@@ -200,7 +200,7 @@
     ]
   },
   {
-    "groupId": 32,
+    "groupId": 10,
     "items": [
       {
         "id": 114,
@@ -229,7 +229,7 @@
     ]
   },
   {
-    "groupId": 33,
+    "groupId": 11,
     "items": [
       {
         "id": 115,
@@ -258,7 +258,7 @@
     ]
   },
   {
-    "groupId": 34,
+    "groupId": 12,
     "items": [
       {
         "id": 116,
@@ -287,7 +287,7 @@
     ]
   },
   {
-    "groupId": 36,
+    "groupId": 13,
     "items": [
       {
         "id": 118,
@@ -298,7 +298,7 @@
     ]
   },
   {
-    "groupId": 37,
+    "groupId": 14,
     "items": [
       {
         "id": 119,
@@ -321,7 +321,7 @@
     ]
   },
   {
-    "groupId": 38,
+    "groupId": 15,
     "items": [
       {
         "id": 127,
@@ -344,7 +344,7 @@
     ]
   },
   {
-    "groupId": 41,
+    "groupId": 16,
     "items": [
       {
         "id": 138,
@@ -355,7 +355,7 @@
     ]
   },
   {
-    "groupId": 42,
+    "groupId": 17,
     "items": [
       {
         "id": 139,
@@ -372,18 +372,24 @@
     ]
   },
   {
-    "groupId": 43,
+    "groupId": 18,
     "items": [
       {
         "id": 140,
         "name": "Guide de l'éclaireur des catacombes",
-        "level": 0,
+        "level": 1,
+        "icon": "7070"
+      },
+      {
+        "id": 152,
+        "name": "Guide de l'expert des catacombes",
+        "level": 2,
         "icon": "7070"
       }
     ]
   },
   {
-    "groupId": 44,
+    "groupId": 19,
     "items": [
       {
         "id": 146,

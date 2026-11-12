@@ -55,3 +55,38 @@ Si vous fermez le terminal sans faire `Ctrl + C`, le site peut continuer à tour
   # Pour tuer le serveur Vite (port 5173)
   kill -9 $(lsof -t -i:5173)
   ```
+
+---
+
+## 🔄 Comment METTRE À JOUR les données depuis NosApki tout seul ?
+
+> 📖 Un guide encore plus détaillé et complet est disponible dans [MISE_A_JOUR.md](file:///home/pierr/Nostale-calculateur-degats/MISE_A_JOUR.md).
+
+Dès que de nouveaux items, SPs, monstres, buffs ou titres sortent sur [NosApki](https://nosapki.com/fr/calculators/dmg_pve), vous pouvez synchroniser tout le site en **une seule commande** !
+
+### 1. Lancer la commande de mise à jour automatique
+Dans votre terminal à la racine du projet :
+```bash
+npm run update-data
+```
+
+Cette commande télécharge instantanément la dernière version de la page NosApki et met à jour automatiquement tous les fichiers de `src/data/` :
+* `monsters.json` : Nouveaux monstres
+* `buffs.json` : Nouveaux buffs & debuffs
+* `items.json` : Nouveaux équipements (armes, armures, bijoux, fées, cartes SP, etc.)
+* `skills.json` : Nouvelles compétences d'attaque
+* `skill_upgrades.json` : Améliorations de compétences
+* `passive_skills.json` : Passifs d'attaque/défense
+* `family_effects.json` : Nouveaux effets de famille
+* `titles.json` : Nouveaux titres
+* `consumables.json` : Consommables Nosmall
+
+### 2. Recompiler le site
+Après avoir mis à jour les données :
+```bash
+npm run build
+```
+Et voilà ! Votre site aura immédiatement tous les nouveaux items et titres disponibles !
+
+### 3. (Optionnel) Modifier ou ajouter des descriptions de titres
+Les titres sont stockés dans [src/data/titles.json](file:///home/pierr/Nostale-calculateur-degats/src/data/titles.json). Si vous souhaitez modifier le texte d'un tooltip ou ajuster un nom, vous pouvez l'éditer directement dans ce fichier ou dans le dictionnaire `KNOWN_TITLE_INFO` dans [scripts/update-data.mjs](file:///home/pierr/Nostale-calculateur-degats/scripts/update-data.mjs).
